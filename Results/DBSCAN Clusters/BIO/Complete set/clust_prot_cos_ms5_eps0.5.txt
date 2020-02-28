@@ -1,0 +1,1212 @@
+CLUSTERS for prot_cos, MS 5, eps 0.5
+	--> Number of clusters: 45
+	--> Number of outliers: 2734
+	--> Silhouette coefficient: 0.010152544920219829
+
+Cluster 4:
+	C0000880	Acanthamoeba Keratitis
+	C0001311	Acute bronchiolitis
+	C0008707	Chronic osteomyelitis
+	C0276088	Escherichia coli septicemia
+	C1846545	Autoimmune Lymphoproliferative Syndrome Type 2B
+
+	Associated symptoms average: 9.2
+	Number of diseases: 5
+
+
+Cluster 0:
+	C0001306	Acute alcoholic liver disease
+	C0002016	Aleutian Mink Disease
+	C0002797	Bovine Anaplasmosis
+	C0003081	Anisometropia
+	C0005592	Bird Fancier's Lung
+	C0005716	Blastomycosis
+	C0006060	Boutonneuse Fever
+	C0006285	Bronchopneumonia
+	C0006430	Burning Mouth Syndrome
+	C0006444	Bursitis
+	C0006542	Byssinosis
+	C0007688	Central Retinal Artery Occlusion
+	C0008058	Chilblains
+	C0009021	Clonorchiasis
+	C0011263	Multi-infarct dementia
+	C0012628	Discrete Subaortic Stenosis
+	C0013299	Duodenogastric Reflux
+	C0013369	Dysentery
+	C0013426	Dystrophy of vulva
+	C0014068	Encephalomalacia
+	C0014077	Leukoencephalitis, Acute Hemorrhagic
+	C0014179	Endometritis
+	C0014358	Enterocolitis, Pseudomembranous
+	C0015499	Factor V Deficiency
+	C0015634	Farmer's Lung
+	C0016867	Furunculosis
+	C0017572	Gingival Recession
+	C0018567	Hand Dermatoses
+	C0019195	Hepatitis, Viral, Human
+	C0019345	Herpes Labialis
+	C0020192	Hyaline Membrane Disease
+	C0020481	Hyperlipoproteinemia Type V
+	C0020640	Inherited Factor II deficiency
+	C0021933	Intussusception
+	C0022865	Obstetric Labor Complications
+	C0024454	Maffucci Syndrome
+	C0024959	Maxillary Sinusitis
+	C0025218	Chloasma
+	C0025472	Mesenteric Vascular Occlusion
+	C0026103	Mikulicz Disease
+	C0027441	Nasopharyngitis
+	C0029455	Osteopoikilosis (disorder)
+	C0030328	Panniculitis, Nodular Nonsuppurative
+	C0030442	Progressive bulbar palsy
+	C0030783	Pellagra
+	C0030804	Pemphigoid, Benign Mucous Membrane
+	C0031542	Phlebitis
+	C0032001	Pituitary Apoplexy
+	C0032241	Pleuropneumonia
+	C0032807	Postphlebitic Syndrome
+	C0033893	Tension Headache
+	C0035302	Retinal Artery Occlusion
+	C0035319	Retinal Necrosis Syndrome, Acute
+	C0035528	Riboflavin Deficiency
+	C0036130	Salpingitis
+	C0037188	Sinoatrial Block
+	C0037198	Sinus Thrombosis, Intracranial
+	C0037942	Spinal Osteophytosis
+	C0039503	Tendinitis
+	C0040046	Thrombophlebitis
+	C0040262	Tinea Versicolor
+	C0041321	Tuberculosis, Miliary
+	C0079102	Cerebral Thrombosis
+	C0085082	Fungemia
+	C0085417	Epilepsy, Complex Partial
+	C0085700	Chondromalacia
+	C0086237	Epilepsy, Cryptogenic
+	C0086540	Leishmaniasis, New World
+	C0149520	Acute Cholecystitis
+	C0149886	Seizure, Febrile, Simple
+	C0152068	Echinococcus granulosus infection
+	C0155300	Pseudopapilledema
+	C0155502	Benign Paroxysmal Positional Vertigo
+	C0175816	Cold Hemagglutinin Disease
+	C0242670	Persistent Vegetative State
+	C0243000	Impotence, Vasculogenic
+	C0243025	Hantavirus Pulmonary Syndrome
+	C0264222	Acute upper respiratory infection
+	C0265308	Baller-Gerold syndrome
+	C0265514	Dermatofibrosis lenticularis disseminata
+	C0267662	Congenital chloride diarrhea
+	C0268181	Lactose Intolerance, Adult Type
+	C0270639	Lateral Sinus Thrombosis
+	C0270786	Binswanger Disease
+	C0282207	Cronkhite-Canada Syndrome
+	C0282492	Sneddon Syndrome
+	C0338575	Sagittal Sinus Thrombosis
+	C0338585	Carotid artery dissection
+	C0338586	Vertebral Artery Dissection
+	C0340037	Young Syndrome
+	C0342200	Endemic Cretinism
+	C0343068	Familial cold urticaria
+	C0393561	Subcortical Vascular Dementia
+	C0406585	Lethal tight skin contracture syndrome (disorder)
+	C0524988	Schnitzler Syndrome
+	C0546983	Post-Concussion Syndrome
+	C0700594	Radiculopathy
+	C0751007	Intracranial Atherosclerosis
+	C0751014	Subcortical Infarction
+	C0751202	Cystathionine beta-Synthase Deficiency Disease
+	C0751280	Cystic Periventricular Leukomalacia
+	C0796031	Malouf syndrome
+	C0796083	Najjar syndrome
+	C0796135	Renpenning syndrome 1
+	C0887866	Monckeberg Medial Calcific Sclerosis
+	C1142307	Paratubal Cyst
+	C1148551	X-Linked Dyskeratosis Congenita
+	C1257965	Compensatory Hyperinsulinemia
+	C1275273	Familial Multiple Lipomatosis
+	C1275592	Funisitis (disorder)
+	C1291230	3-Hydroxyacyl-CoA Dehydrogenase Deficiency
+	C1384641	Cervical spondylosis
+	C1449647	Secondary Peritonitis
+	C1450051	Autosomal Recessive Emery-Dreifuss Muscular Dystrophy
+	C1527298	Dysentery, Bacillary
+	C1527396	Fibrocystic Disease of Pancreas
+	C1527411	Thrombosis of retinal vein
+	C1563697	Chromosome Instability Syndromes
+	C1563706	Nephrogenic Diabetes Insipidus, Type II
+	C1704299	Hypobetalipoproteinemia, Familial, Apolipoprotein B
+	C1704378	Heymann Nephritis
+	C1720859	Familial Partial Lipodystrophy, Type 1
+	C1834653	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B (disorder)
+	C1835398	LI-FRAUMENI SYNDROME 1
+	C1837610	ICHTHYOSIS PREMATURITY SYNDROME
+	C1842062	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1F
+	C1849453	Rapadilino syndrome
+	C1850106	RAINE SYNDROME
+	C1850406	NAVAJO NEUROHEPATOPATHY
+	C1851958	Lewy Body Variant of Alzheimer Disease
+	C1854107	Hyperaldosteronism, Familial, Type II
+	C1856143	HEMOLYTIC UREMIC SYNDROME, TYPICAL
+	C1857829	Heart-hand syndrome, Slovenian type
+	C1858067	ASTHMA AND NASAL POLYPS
+	C1860213	Achalasia, familial esophageal
+	C1860991	NOONAN SYNDROME 3
+	C1861171	THROMBOPHILIA DUE TO ACTIVATED PROTEIN C RESISTANCE (disorder)
+	C1861366	SYNDACTYLY, TYPE III
+	C1864124	SCHIZOPHRENIA 8 (disorder)
+	C1864987	Migraine, Familial Hemiplegic, 3
+	C1866398	Proteus-Like Syndrome (disorder)
+	C1868081	Juvenile Polyposis Coli
+	C1955760	Idiopathic normal pressure hydrocephalus (INPH)
+	C1969833	COPD, Severe Early-Onset
+	C2316212	Cryopyrin-Associated Periodic Syndromes
+	C2350875	Constrictive Bronchiolitis
+	C2675080	Li-Fraumeni-Like Syndrome
+	C2675746	CRANIODIAPHYSEAL DYSPLASIA, AUTOSOMAL DOMINANT (disorder)
+	C2748507	INTERLEUKIN 1 RECEPTOR ANTAGONIST DEFICIENCY
+	C2930802	Familial antiphospholipid syndrome
+	C2931244	Craniometaphyseal dysplasia, autosomal recessive type
+	C2973787	Coxiella burnetii Infection
+	C3148763	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1E
+	C3275750	ATRIOVENTRICULAR SEPTAL DEFECT 3
+	C3276539	CUTIS LAXA, AUTOSOMAL DOMINANT 1
+	C3554519	COWDEN SYNDROME 6
+	C3658294	Hereditary Antithrombin Deficiency
+
+	Associated symptoms average: 10.872611464968152
+	Number of diseases: 157
+
+
+Cluster 1:
+	C0001342	Acute periodontitis
+	C0001824	Agranulocytosis
+	C0001857	AIDS related complex
+	C0002171	Alopecia Areata
+	C0002438	Amebiasis
+	C0002874	Aplastic Anemia
+	C0002880	Autoimmune hemolytic anemia
+	C0002892	Anemia, Pernicious
+	C0003123	Anorexia
+	C0003175	Anthrax disease
+	C0003872	Arthritis, Psoriatic
+	C0004031	Aspergillosis, Allergic Bronchopulmonary
+	C0004698	Balkan Nephropathy
+	C0004943	Behcet Syndrome
+	C0005806	Blood Group Incompatibility
+	C0006267	Bronchiectasis
+	C0006309	Brucellosis
+	C0007286	Carpal Tunnel Syndrome
+	C0007384	Cataplexy
+	C0007570	Celiac Disease
+	C0007771	Intracranial Arteriosclerosis
+	C0008313	Cholangitis, Sclerosing
+	C0008372	Intrahepatic Cholestasis
+	C0008513	Chorioretinitis
+	C0008533	Hemophilia B
+	C0008677	Bronchitis, Chronic
+	C0008728	Churg-Strauss Syndrome
+	C0009447	Common Variable Immunodeficiency
+	C0009763	Conjunctivitis
+	C0010051	Coronary Aneurysm
+	C0010232	Cowpox
+	C0010403	Cryoglobulinemia
+	C0010418	Cryptosporidiosis
+	C0011195	Dejerine-Sottas Disease (disorder)
+	C0011311	Dengue Fever
+	C0011608	Dermatitis Herpetiformis
+	C0011633	Dermatomyositis
+	C0011644	Scleroderma
+	C0011880	Diabetic Ketoacidosis
+	C0013264	Muscular Dystrophy, Duchenne
+	C0013295	Duodenal Ulcer
+	C0013312	Dupuytren Contracture
+	C0013502	Echinococcosis
+	C0014059	Encephalomyelitis, Acute Disseminated
+	C0014356	Enterocolitis
+	C0014518	Toxic Epidermal Necrolysis
+	C0014736	Erysipelothrix infection
+	C0014740	Erythema Chronicum Migrans
+	C0014742	Erythema Multiforme
+	C0014743	Erythema Nodosum
+	C0014761	Erythroblastosis, Fetal
+	C0015624	Fanconi Syndrome
+	C0015674	Chronic Fatigue Syndrome
+	C0015696	Fatty Liver, Alcoholic
+	C0015773	Felty Syndrome
+	C0016436	Folliculitis
+	C0017086	Gangrene
+	C0017152	Gastritis
+	C0017160	Gastroenteritis
+	C0017531	Angiolymphoid hyperplasia
+	C0017551	Gilbert Disease (disorder)
+	C0017661	IGA Glomerulonephritis
+	C0017665	Membranous glomerulonephritis
+	C0017677	Glossitis, Benign Migratory
+	C0017980	Glycosuria, Renal
+	C0018023	Nodular Goiter
+	C0018099	Gout
+	C0018133	Graft-vs-Host Disease
+	C0018213	Graves Disease
+	C0018522	Hallermann's Syndrome
+	C0018889	Helminthiasis
+	C0018995	Hemochromatosis
+	C0019050	Hemoglobinuria, Paroxysmal
+	C0019069	Hemophilia A
+	C0019100	Severe Dengue
+	C0019101	Hemorrhagic Fever with Renal Syndrome
+	C0019114	Hemosiderosis
+	C0019187	Hepatitis, Alcoholic
+	C0019655	Histoplasmosis
+	C0020540	Malignant Hypertension
+	C0020676	Hypothyroidism
+	C0021345	Infectious Mononucleosis
+	C0021897	Intrathoracic Goiters
+	C0022081	Iritis
+	C0022638	Ketosis
+	C0022972	Lambert-Eaton Myasthenic Syndrome
+	C0023219	Leg Dermatoses
+	C0023343	Leprosy
+	C0023346	Borderline leprosy
+	C0023348	Leprosy, Lepromatous
+	C0023351	Tuberculoid leprosy
+	C0023364	Leptospirosis
+	C0023646	Lichen Planus
+	C0023787	Lipodystrophy
+	C0023788	Whipple Disease
+	C0023860	Listeriosis
+	C0023886	Liver Abscess, Amebic
+	C0023891	Liver Cirrhosis, Alcoholic
+	C0023892	Biliary cirrhosis
+	C0024131	Lupus Vulgaris
+	C0024137	Lupus Erythematosus, Cutaneous
+	C0024138	Lupus Erythematosus, Discoid
+	C0024140	Lupus Erythematosus, Subacute Cutaneous
+	C0024141	Lupus Erythematosus, Systemic
+	C0024266	Lymphocytic Choriomeningitis
+	C0024440	Macular Edema, Cystoid
+	C0024441	Macular Holes
+	C0024530	Malaria
+	C0024534	Malaria, Cerebral
+	C0024535	Malaria, Falciparum
+	C0025007	Measles
+	C0025289	Meningitis
+	C0026272	Mixed Connective Tissue Disease
+	C0026654	Moyamoya Disease
+	C0026691	Mucocutaneous Lymph Node Syndrome
+	C0026780	Mumps
+	C0026896	Myasthenia Gravis
+	C0026916	Mycobacterium avium-intracellulare Infection
+	C0026975	Myelitis
+	C0027121	Myositis
+	C0027430	Nasal Polyps
+	C0027707	Nephritis, Interstitial
+	C0027721	Lipoid nephrosis
+	C0027813	Neuritis
+	C0027873	Neuromyelitis Optica
+	C0029077	Ophthalmia, Sympathetic
+	C0029134	Optic Neuritis
+	C0029172	Oral Submucous Fibrosis
+	C0029443	Osteomyelitis
+	C0029454	Osteopetrosis
+	C0029458	Osteoporosis, Postmenopausal
+	C0029899	Otosclerosis
+	C0030246	Pustulosis of Palms and Soles
+	C0030343	Panuveitis
+	C0030409	Paracoccidioidomycosis
+	C0030443	Familial Periodic Paralysis
+	C0030481	Tropical Spastic Paraparesis
+	C0030491	Parapsoriasis
+	C0030569	Secondary Parkinson Disease
+	C0030805	Bullous pemphigoid
+	C0030807	Pemphigus
+	C0030809	Pemphigus Vulgaris
+	C0030848	Peyronie Disease
+	C0031022	Chronic periaortitis
+	C0031036	Polyarteritis Nodosa
+	C0031099	Periodontitis
+	C0031106	Periodontitis, Juvenile
+	C0031256	Petechiae
+	C0031350	Pharyngitis
+	C0031903	Pigeon Breeder's Lung
+	C0032026	Pityriasis Rosea
+	C0032231	Pleurisy
+	C0032273	Pneumoconiosis
+	C0032533	Polymyalgia Rheumatica
+	C0033246	Proctitis
+	C0033581	prostatitis
+	C0033770	Prune Belly Syndrome
+	C0033771	Prurigo
+	C0034069	Pulmonary Fibrosis
+	C0034150	Purpura
+	C0034152	Henoch-Schoenlein Purpura
+	C0034155	Purpura, Thrombotic Thrombocytopenic
+	C0034341	Pyruvate Carboxylase Deficiency Disease
+	C0034362	Q Fever
+	C0034735	Raynaud Phenomenon
+	C0034902	Pure Red-Cell Aplasia
+	C0034931	Reflex Sympathetic Dystrophy
+	C0035012	Reiter Syndrome
+	C0035435	Rheumatism
+	C0035436	Rheumatic Fever
+	C0035455	Rhinitis
+	C0035854	Rosacea
+	C0036202	Sarcoidosis
+	C0036271	Scalp Dermatoses
+	C0036391	Schwartz-Jampel Syndrome
+	C0036421	Systemic Scleroderma
+	C0037036	Sialorrhea
+	C0037116	Silicosis
+	C0037354	Smallpox
+	C0037769	West Syndrome
+	C0038012	Spondylitis
+	C0038013	Ankylosing spondylitis
+	C0038325	Stevens-Johnson Syndrome
+	C0038363	Aphthous Stomatitis
+	C0039103	Synovitis
+	C0039128	Syphilis
+	C0039263	Takayasu Arteritis
+	C0039483	Giant Cell Arteritis
+	C0039520	Tenosynovitis
+	C0040015	Thrombasthenia
+	C0040021	Thromboangiitis Obliterans
+	C0040115	Thymus Hyperplasia
+	C0040147	Thyroiditis
+	C0040261	Onychomycosis
+	C0040412	Fissured tongue
+	C0040558	Toxoplasmosis
+	C0040560	Toxoplasmosis, Congenital
+	C0040592	Trachoma
+	C0041234	Chagas Disease
+	C0041296	Tuberculosis
+	C0041324	Tuberculosis, Osteoarticular
+	C0041326	Pleural Tuberculosis
+	C0041327	Tuberculosis, Pulmonary
+	C0041349	Nephritis, Tubulointerstitial
+	C0041466	Typhoid Fever
+	C0042109	Urticaria
+	C0042164	Uveitis
+	C0042165	Anterior uveitis
+	C0042170	Uveomeningoencephalitic Syndrome
+	C0042171	Uveoparotid Fever
+	C0042344	Varicose Ulcer
+	C0042384	Vasculitis
+	C0042900	Vitiligo
+	C0043037	Common wart
+	C0043124	West Nile Fever
+	C0043167	Pertussis
+	C0043168	Whooping cough due to unspecified organism
+	C0079293	Epidermolysis Bullosa Acquisita
+	C0085106	Familial benign pemphigus
+	C0085179	Eosinophilia-Myalgia Syndrome
+	C0085253	Adult-Onset Still Disease
+	C0085273	Erythema Infectiosum
+	C0085278	Antiphospholipid Syndrome
+	C0085413	Polycystic Kidney, Autosomal Dominant
+	C0085655	Polymyositis
+	C0085786	Hamman-Rich syndrome
+	C0085859	Polyglandular Type I Autoimmune Syndrome
+	C0085860	Autoimmune Syndrome Type II, Polyglandular
+	C0086445	Idiopathic Membranous Glomerulonephritis
+	C0087031	Juvenile-Onset Still Disease
+	C0149745	Oral Ulcer
+	C0149871	Deep Vein Thrombosis
+	C0151857	Pleocytosis
+	C0152101	Hypoplastic Left Heart Syndrome
+	C0152244	Bone Cysts, Aneurysmal
+	C0153014	Non-arthropod borne lymphocytic choriomeningitis
+	C0155880	Intrinsic asthma
+	C0156147	Crohn's disease of large bowel
+	C0156344	Endometriosis of ovary
+	C0162323	Polyarthritis
+	C0162538	Immunoglobulin A deficiency (disorder)
+	C0162539	IgG Deficiency
+	C0162565	Acute intermittent porphyria
+	C0162566	Porphyria Cutanea Tarda
+	C0162671	MELAS Syndrome
+	C0162836	Hidradenitis Suppurativa
+	C0205734	Diabetes, Autoimmune
+	C0206067	Focal Epithelial Hyperplasia
+	C0206138	CREST Syndrome
+	C0206178	Cytomegalovirus Retinitis
+	C0206526	Tuberculosis, Multidrug-Resistant
+	C0221056	Adult type dermatomyositis
+	C0221259	Trichiasis
+	C0238190	Inclusion Body Myositis (disorder)
+	C0239849	Harlequin Fetus
+	C0240903	Rheumatoid Vasculitis
+	C0241910	Hepatitis, Autoimmune
+	C0242381	Lyme Arthritis
+	C0242526	Gonadal Dysgenesis, 45,X
+	C0242583	Bare Lymphocyte Syndrome
+	C0242993	Nephropathia Epidemica
+	C0263313	Pemphigus Foliaceus
+	C0263505	Alopecia universalis
+	C0263666	Dermatomyositis, Childhood Type
+	C0264423	Asthma, Occupational
+	C0264490	Acute respiratory failure
+	C0265338	Coffin-Siris syndrome
+	C0266929	Chronic Periodontitis
+	C0268074	Indian childhood cirrhosis
+	C0268186	Congenital glucose-galactose malabsorption
+	C0270853	Myoclonic Epilepsy, Juvenile
+	C0282687	Hemorrhagic Fever, Ebola
+	C0339143	Thyroid associated opthalmopathies
+	C0342342	Idiopathic Hypoparathyroidism
+	C0343065	Symptomatic dermographism
+	C0375024	Hantavirus infection in conditions classified elsewhere and of unspecified site
+	C0376300	Dengue Shock Syndrome
+	C0376329	New Variant Creutzfeldt-Jakob Disease
+	C0392514	Hereditary hemochromatosis
+	C0393574	Huntington Disease, Late Onset
+	C0393665	Multiple Sclerosis, Chronic Progressive
+	C0393770	Delayed Sleep Phase Syndrome
+	C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+	C0398650	Immune thrombocytopenic purpura
+	C0400821	Colitis, Microscopic
+	C0403529	Anti-Glomerular Basement Membrane Disease
+	C0409667	Juvenile Chronic Polyarthritis
+	C0409974	Lupus Erythematosus
+	C0458219	Complex Regional Pain Syndromes
+	C0494261	Combined immunodeficiency
+	C0524702	Pulmonary Thromboembolisms
+	C0546817	Fluid overload
+	C0553730	Calcium pyrophosphate deposition disease
+	C0566602	Primary sclerosing cholangitis
+	C0574960	Sacroiliitis
+	C0577620	Nut Hypersensitivity
+	C0600327	Toxic Shock Syndrome
+	C0677607	Hashimoto Disease
+	C0748540	Scleroderma, Limited
+	C0751339	Myasthenia Gravis, Generalized
+	C0751340	Myasthenia Gravis, Ocular
+	C0751356	Idiopathic Inflammatory Myopathies
+	C0751362	Narcolepsy-Cataplexy Syndrome
+	C0751713	Inclusion Body Myopathy, Sporadic
+	C0751964	Multiple Sclerosis, Primary Progressive
+	C0751967	Multiple Sclerosis, Relapsing-Remitting
+	C0752120	Spinocerebellar Ataxia Type 1
+	C0852654	21-hydroxylase deficiency
+	C0878555	Diffuse panbronchiolitis
+	C0917799	Hypersomnia
+	C0920350	Autoimmune thyroiditis
+	C0949658	Cardiomyopathy, Hypertrophic, Familial
+	C1175175	Severe Acute Respiratory Syndrome
+	C1258104	Diffuse Scleroderma
+	C1268935	Congenital Thrombotic Thrombocytopenic Purpura
+	C1274933	Drug-Induced Stevens Johnson Syndrome
+	C1279412	periodic paralysis (finding)
+	C1280469	Podoconiosis
+	C1282359	Ocular Cicatricial Pemphigoid
+	C1318500	Non-toxic nodular goiter
+	C1319853	Asthma, Aspirin-Induced
+	C1328252	Mucocutaneous leishmaniasis
+	C1384600	Systemic onset juvenile chronic arthritis
+	C1527336	Sjogren's Syndrome
+	C1704321	Nephrotic Syndrome, Minimal Change
+	C1720830	Painful Bladder Syndrome
+	C1800706	Idiopathic Pulmonary Fibrosis
+	C1832588	Chromosome 11p11.2 Deletion Syndrome
+	C1843273	Tubulointerstitial nephritis and uveitis
+	C1848296	DOSAGE-SENSITIVE SEX REVERSAL
+	C1849193	PEELING SKIN SYNDROME
+	C1853959	Birdshot chorioretinopathy
+	C1858558	Rheumatoid Arthritis, Systemic Juvenile
+	C1859592	ATRICHIA WITH PAPULAR LESIONS
+	C1956391	Temporal Arteritis
+	C1959583	Myocardial Failure
+	C2350168	Polymorphic Reticulosis
+	C2350873	Beryllium Disease
+	C2745963	Kashin-Beck Disease
+	C2931384	Moyamoya disease 1
+	C2931418	Bare lymphocyte syndrome 2
+	C2931639	Macrophagic myofasciitis
+	C2936664	Acquired Hypogammaglobulinemia
+	C2939465	Deficiency of glucose-6-phosphate dehydrogenase
+	C3149631	MELORHEOSTOSIS, ISOLATED
+	C3276706	Small Fiber Neuropathy
+	C3469186	HEMOCHROMATOSIS, TYPE 1
+	C3495436	American cutaneous leishmaniasis
+	C3495801	Granulomatosis with polyangiitis
+	C3496337	Idiopathic Nephrotic Syndrome
+	C3542501	Acute inflammatory demyelinating polyneuropathy
+	C3658302	Stevens-Johnson Syndrome Toxic Epidermal Necrolysis Spectrum
+	C3887938	COLORBLINDNESS, PARTIAL, DEUTAN SERIES
+	C3888318	Myopathy, familial idiopathic inflammatory
+	C4049006	Selective immunoglobulin A deficiency
+	C4082974	Dupuytren's Disease
+
+	Associated symptoms average: 16.84550561797753
+	Number of diseases: 356
+
+
+Cluster 29:
+	C0002884	Hypochromic anemia
+	C0019021	Hemoglobin C Disease
+	C0019025	Hemoglobin F Disease
+	C0271985	Delta-Beta Thalassemia
+	C0271990	delta-Thalassemia
+	C0795917	Alpha-Thalassemia Mental Retardation Syndrome, Deletion-Type
+
+	Associated symptoms average: 7.166666666666667
+	Number of diseases: 6
+
+
+Cluster 2:
+	C0002992	Angiomatosis
+	C0008526	Choroiditis
+	C0021355	Infective otitis externa
+	C0025064	Mediastinitis
+	C0029878	Otitis Externa
+	C0035312	Retinal Drusen
+	C0038539	Empyema, Subdural
+	C0042167	Uveitis, Posterior
+	C0221021	Microangiopathic hemolytic anemia
+	C0235604	Qualitative platelet deficiency
+	C0242301	furuncle
+	C0268742	Membranoproliferative Glomerulonephritis, Type I
+	C0268743	Membranoproliferative Glomerulonephritis, Type II
+	C0339546	Retinal Pigment Epithelial Detachment
+	C0343381	Verotoxigenic Escherichia coli gastrointestinal tract infection
+	C0343525	Lemierre Syndrome
+	C0398777	Complement Factor H Deficiency
+	C0730295	BASAL LAMINAR DRUSEN (disorder)
+	C1264039	von Willebrand Disease, Type 1
+	C1264040	von Willebrand Disease, Type 2
+	C1264041	von Willebrand Disease, Type 3
+	C1282968	von Willebrand Disease, Type 2A
+	C1282971	von Willebrand Disease, Type 2B
+	C1282974	von Willebrand disease type 2M
+	C1282975	von Willebrand Disease, Type 2N
+	C1565662	Acute Kidney Insufficiency
+	C1720821	Membranoproliferative Glomerulonephritis, Type III
+	C1832174	DOYNE HONEYCOMB RETINAL DYSTROPHY
+	C1857813	Macular Degeneration, Age-Related, 7
+	C1956258	Familial Thrombotic Thrombocytopenic Purpura
+	C2676232	Complement Component 6 Deficiency
+	C3489795	Hyper-Ige Recurrent Infection Syndrome, Autosomal Dominant
+	C3494187	Factor VIII Deficiency
+	C3554330	NEPHROTIC SYNDROME, TYPE 7
+
+	Associated symptoms average: 10.441176470588236
+	Number of diseases: 34
+
+
+Cluster 3:
+	C0007795	Diffuse Cerebral Sclerosis of Schilder
+	C0022541	Kearns-Sayre syndrome
+	C0205710	Alpers Syndrome (disorder)
+	C0872218	MITOCHONDRIAL NEUROGASTROINTESTINAL ENCEPHALOPATHY SYNDROME
+	C1834846	Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 1
+	C1849096	Infantile onset spinocerebellar ataxia
+	C2749861	MITOCHONDRIAL DNA DEPLETION SYNDROME 8A (ENCEPHALOMYOPATHIC TYPE WITH RENAL TUBULOPATHY)
+	C3150914	MITOCHONDRIAL DNA DEPLETION SYNDROME 4B (MNGIE TYPE)
+
+	Associated symptoms average: 35.125
+	Number of diseases: 8
+
+
+Cluster 5:
+	C0010093	Corpus Luteum Cyst
+	C0220663	BLEPHAROPHIMOSIS, PTOSIS, AND EPICANTHUS INVERSUS (disorder)
+	C1862260	BPES, TYPE I
+	C1862261	BPES, TYPE II
+	C1862264	Bpes With Duane Retraction Syndrome
+
+	Associated symptoms average: 5.0
+	Number of diseases: 5
+
+
+Cluster 6:
+	C0010273	Craniofacial Dysostosis
+	C0010930	Dacryocystitis
+	C0042582	Vesicovaginal Fistula
+	C0220658	Pfeiffer Syndrome
+	C0264353	Bronchomalacia
+	C0282529	Chondrodysplasia Punctata, Rhizomelic
+	C0362030	Verrucous epidermal nevus
+	C0795998	JACKSON-WEISS SYNDROME
+	C0948187	Tracheomalacia
+	C1860042	Antley-Bixler Syndrome with Disordered Steroidogenesis
+	C1864436	Muenke Syndrome
+	C2350233	Antley-Bixler Syndrome Phenotype
+	C2677099	CROUZON SYNDROME WITH ACANTHOSIS NIGRICANS (disorder)
+	C2931196	Craniofacial dysostosis type 1
+	C2931888	Pfeiffer type acrocephalosyndactyly
+	C3150099	ANTLEY-BIXLER SYNDROME WITH GENITAL ANOMALIES AND DISORDERED STEROIDOGENESIS
+
+	Associated symptoms average: 12.125
+	Number of diseases: 16
+
+
+Cluster 32:
+	C0012736	Dissecting aortic aneurysm
+	C0023795	Lipoid Proteinosis of Urbach and Wiethe
+	C0027547	Necrotizing Scleritis
+	C0152164	Cyclical vomiting syndrome (disorder)
+	C0553548	Necrotizing Arteritis
+	C0751583	Encephalitis, West Nile Fever
+	C1959587	Ventricular Free Wall Rupture
+
+	Associated symptoms average: 23.285714285714285
+	Number of diseases: 7
+
+
+Cluster 7:
+	C0013405	Dyspnea, Paroxysmal
+	C0023212	Left-Sided Heart Failure
+	C0392775	Cystic medial necrosis of aorta
+	C1836635	Loeys-Dietz Aortic Aneurysm Syndrome
+	C2674574	Aortic aneurysm, familial thoracic 3
+
+	Associated symptoms average: 41.0
+	Number of diseases: 5
+
+
+Cluster 27:
+	C0013949	Embryopathies
+	C0036474	Scurvy
+	C0268419	Acatalasia
+	C0282526	Hyperpipecolic Acidemia
+	C0752048	Hypocatalasemia
+	C1291329	Transaldolase Deficiency
+	C2931868	Catalase deficiency
+	C2936847	Acatalasemia Japanese type
+
+	Associated symptoms average: 2.875
+	Number of diseases: 8
+
+
+Cluster 12:
+	C0014008	Empty Sella Syndrome
+	C0020551	Hyperthyroxinemia
+	C0022806	Kwashiorkor
+	C0268243	Niemann-Pick Disease, Type B
+	C0271547	Overproduction of growth hormone
+	C0271695	Rabson-Mendenhall Syndrome
+	C0751448	Polyneuropathy, Familial
+	C0936251	Polyradiculitis
+	C1853490	22q13.3 Deletion Syndrome
+	C2750824	Dystransthyretinemic Euthyroidal Hyperthyroxinemia
+
+	Associated symptoms average: 13.0
+	Number of diseases: 10
+
+
+Cluster 9:
+	C0014078	Venezuelan equine encephalomyelitis
+	C0017675	Glossitis
+	C0024025	Louping Ill
+	C0153064	Encephalomyelitis, Western Equine
+	C0158945	Congenital cytomegalovirus infection
+
+	Associated symptoms average: 11.2
+	Number of diseases: 5
+
+
+Cluster 8:
+	C0014084	Enchondromatosis
+	C0016063	Osteitis Fibrosa Disseminata
+	C0016064	Fibrous Dysplasia, Monostotic
+	C0020514	Hyperprolactinemia
+	C0033806	Pseudohypoparathyroidism
+	C0033835	Pseudopseudohypoparathyroidism
+	C0042420	Vasovagal syncope
+	C1739395	Takotsubo Cardiomyopathy
+	C1836438	Familial neurocardiogenic syncope
+	C1843366	NIEMANN-PICK DISEASE, TYPE C2
+	C1864100	PSEUDOHYPOPARATHYROIDISM, TYPE IB
+	C3494506	Pseudohypoparathyroidism, Type Ia
+	C3665358	Galactorrhea
+
+	Associated symptoms average: 14.923076923076923
+	Number of diseases: 13
+
+
+Cluster 37:
+	C0014733	Erysipelas
+	C0085399	Ehrlichiosis
+	C0263859	Synovitis, Acne, Pustulosis, Hyperostosis, and Osteitis Syndrome
+	C0949272	IIeocolitis
+	C1275718	Granulomatous rosacea
+
+	Associated symptoms average: 31.8
+	Number of diseases: 5
+
+
+Cluster 11:
+	C0017083	Gangliosidoses
+	C0022802	Kuru
+	C0023806	Lipomucopolysaccharidosis
+	C0026697	Mucolipidoses
+	C0028841	Ocular Hypotension
+	C0032310	Pneumonia, Viral
+	C0033790	Pseudobulbar Palsy
+	C0036457	Scrapie
+	C0039235	Tachycardia, Ectopic Junctional
+	C0039373	Tay-Sachs Disease
+	C0042267	Vaginitis
+	C0043049	Water Intoxication
+	C0078888	Accelerated Idioventricular Rhythm
+	C0086367	Gonadotropin-Resistant Ovary Syndrome
+	C0086652	Mucopolysaccharidosis type IVB
+	C0175713	Aicardi's syndrome
+	C0206042	Fatal Familial Insomnia
+	C0206744	T-Lymphocytopenia, Idiopathic CD4-Positive
+	C0231311	Jet Lag Syndrome
+	C0268226	Type I Mucolipidosis
+	C0268228	Neuraminidase 1 deficiency
+	C0268252	Late-Onset Globoid Cell Leukodystrophy
+	C0268271	Gangliosidosis, Generalized GM1, Type 1 (disorder)
+	C0268272	Gangliosidosis, Generalized GM1, Type 2
+	C0268273	Gangliosidosis, Generalized GM1, Type 3
+	C0268274	Gangliosidoses, GM2
+	C0268275	Tay-Sachs Disease, AB Variant
+	C0268297	Pseudovaginal Perineoscrotal Hypospadias
+	C0268314	Cholestasis-edema syndrome, Norwegian type
+	C0282550	Persian Gulf Syndrome
+	C0393547	Bulbospinal Neuronopathy
+	C0393911	Pure Autonomic Failure
+	C0404572	Female infertility associated with anovulation
+	C0543859	Amyotrophic Lateral Sclerosis, Guam Form
+	C0751254	Creutzfeldt-Jakob Disease, Familial
+	C0751273	Infantile Globoid Cell Leukodystrophy
+	C0751489	Adult Sandhoff Disease
+	C0751490	Infantile Sandhoff Disease
+	C0751491	Juvenile Sandhoff Disease
+	C0751645	Human Transmissible Spongiform Encephalopathies, Inherited
+	C0751758	Advanced Sleep Phase Syndrome
+	C0752352	Muscular Disorders, Atrophic
+	C0813142	Circadian Rhythm Disorders
+	C1135993	Wasting Disease, Chronic
+	C1848913	Tay-Sachs Disease, Juvenile
+	C1848916	Tay-Sachs Disease, Variant B1
+	C1848922	Hexosaminidase alpha-Subunit Deficiency (Variant B)
+	C1850510	SIALIDOSIS, TYPE I
+	C1862892	Hereditary Angioedema Type II
+	C1863052	ALZHEIMER DISEASE, FAMILIAL, 1
+	C1864112	HUNTINGTON DISEASE-LIKE 1
+	C1956390	Cranial Arteritis
+	C2349195	Acute Anterior Wall Myocardial Infarction
+	C2677879	Hypospadias 2, X-Linked
+	C2678098	Hypospadias 1, X-Linked
+	C2713546	Androgen Receptor Deficiency
+	C2717906	Hereditary Angioedema Type I
+	C2718068	beta-Galactosidase Deficiency
+	C2931022	Amyloidosis, Cerebral, with Spongiform Encephalopathy
+	C2931395	Bulbospinal neuronopathy, X-linked recessive
+	C2931758	Acquired angioedema
+	C2931928	Mitochondrial cytopathy
+	C3887980	COLORBLINDNESS, PARTIAL, PROTAN SERIES
+	C3888102	Frontotemporal Dementia With Motor Neuron Disease
+
+	Associated symptoms average: 13.828125
+	Number of diseases: 64
+
+
+Cluster 23:
+	C0017609	Glaucoma, Neovascular
+	C0085388	Intracranial Tuberculoma
+	C0085434	Angiomatosis, Bacillary
+	C0154916	Rubeosis iridis
+	C0221025	Kasabach-Merritt syndrome
+	C0282548	Leukostasis
+	C1858805	Vohwinkel Syndrome, Variant Form
+
+	Associated symptoms average: 2.0
+	Number of diseases: 7
+
+
+Cluster 10:
+	C0018179	Granular Dystrophy, Corneal
+	C0023316	Lens Subluxation
+	C0025237	Melnick-Needles Syndrome
+	C0025239	Melorheostosis
+	C0036413	Scleredema Adultorum
+	C0038557	Submandibular Gland Diseases
+	C0040962	Tricuspid Valve Prolapse
+	C0155127	Familial Amyloid Polyneuropathy, Type V
+	C0265313	Weill-Marchesani syndrome
+	C0339278	Reis-Bucklers' corneal dystrophy
+	C0340231	Tracheobronchomalacia
+	C0406584	Acrogeria, gottron type
+	C0936273	Familial Amyloid Polyneuropathy, Type IV
+	C1562894	Thiel-Behnke corneal dystrophy
+	C1690006	Lattice corneal dystrophy Type I
+	C1812607	Aortic aneurysm and dissection
+	C1832589	Neuronal Intestinal Dysplasia, Type B
+	C1846129	Terminal Osseous Dysplasia and Pigmentary Defects
+	C1848213	Periventricular Heterotopia, X-Linked
+	C1853365	AORTIC ANEURYSM, FAMILIAL ABDOMINAL 1
+	C1855733	Neuronal intestinal pseudoobstruction
+	C1861178	Thrombocytopenia Paris-Trousseau type
+	C1861456	Stiff Skin Syndrome
+	C1862511	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 1 (disorder)
+	C1862932	ANEURYSM, INTRACRANIAL BERRY, 1 (disorder)
+	C1866983	SCLERODERMA, FAMILIAL PROGRESSIVE
+	C1869114	Weill-Marchesani Syndrome, Autosomal Recessive
+	C1869115	Weill-Marchesani Syndrome, Autosomal Dominant
+	C2750787	Weill-Marchesani-Like Syndrome
+	C3279690	MOYAMOYA DISEASE 5
+	C3538951	MICROSPHEROPHAKIA AND/OR MEGALOCORNEA, WITH ECTOPIA LENTIS AND WITH OR WITHOUT SECONDARY GLAUCOMA
+	C3553785	WEILL-MARCHESANI SYNDROME 3
+	C3661523	Congenital Intestinal Aganglionosis
+	C4277521	Cerebrospinal Fluid Hypovolemia
+
+	Associated symptoms average: 4.617647058823529
+	Number of diseases: 34
+
+
+Cluster 43:
+	C0018609	Hartnup Disease
+	C0023786	Mucopolysaccharidosis I
+	C0026708	Mucopolysaccharidosis V
+	C0086431	Hurler-Scheie Syndrome
+	C2713321	alpha-L-Iduronidase Deficiency
+
+	Associated symptoms average: 11.2
+	Number of diseases: 5
+
+
+Cluster 20:
+	C0021099	Impetigo
+	C0036285	Scarlet Fever
+	C0036689	Streptococcal sore throat
+	C0156221	Acute glomerulonephritis
+	C0238124	Necrotizing fasciitis
+
+	Associated symptoms average: 24.0
+	Number of diseases: 5
+
+
+Cluster 13:
+	C0023066	Laryngismus
+	C0023075	Laryngostenosis
+	C0079301	Junctional Epidermolysis Bullosa
+	C0079683	Herlitz Disease
+	C0238357	Hyperkalemic periodic paralysis
+	C0268374	Adult junctional epidermolysis bullosa (disorder)
+	C0268445	Normokalemic Periodic Paralysis
+	C1328355	Laryngoonychocutaneous syndrome
+	C1868433	Normokalemic Periodic Paralysis, Potassium-Sensitive
+	C2750061	Hypokalemic Periodic Paralysis, Type 2
+	C3149517	LARYNGOSPASM, SEVERE NEONATAL EPISODIC
+
+	Associated symptoms average: 5.909090909090909
+	Number of diseases: 11
+
+
+Cluster 44:
+	C0023092	Lassa Fever
+	C0410174	Fukuyama Type Congenital Muscular Dystrophy
+	C0457133	Muscle eye brain disease
+	C1846672	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2I
+	C1969040	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2M
+	C2936406	alpha-Dystroglycanopathies
+	C3151519	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 3
+
+	Associated symptoms average: 10.428571428571429
+	Number of diseases: 7
+
+
+Cluster 14:
+	C0024776	Maple Syrup Urine Disease
+	C0268568	Classic Maple Syrup Urine Disease
+	C0268569	Intermittent Maple Syrup Urine Disease
+	C0751285	Maple Syrup Urine Disease, Thiamine Responsive
+	C1621920	Intermediate Maple Syrup Urine Disease
+
+	Associated symptoms average: 22.0
+	Number of diseases: 5
+
+
+Cluster 15:
+	C0025183	Meige Syndrome
+	C0265267	Congenital Hemidysplasia with Ichthyosiform Erythroderma and Limb Defects
+	C0393598	Idiopathic familial dystonia
+	C0743332	Focal Dystonia
+	C0752202	Childhood Onset Dystonias
+	C0752205	Dystonia, Secondary
+	C0752206	Dystonias, Sporadic
+	C1851945	DYSTONIA 1, TORSION, AUTOSOMAL DOMINANT
+	C2930898	Benign essential blepharospasm
+	C3888090	Early onset torsion dystonia
+
+	Associated symptoms average: 9.4
+	Number of diseases: 10
+
+
+Cluster 18:
+	C0025290	Aseptic Meningitis
+	C0032586	Polyradiculopathy
+	C0033845	Pseudotumor Cerebri
+	C0043121	Wernicke Encephalopathy
+	C0086648	MPS III B
+	C0155550	Neural hearing loss
+	C0206307	Canavan Disease
+	C0268296	17-Hydroxysteroid Dehydrogenase Deficiency
+	C0524812	Intracranial Hypotension
+	C0917807	Haemophilus influenzae Meningitis Type B
+	C1455705	Pulmonary Histiocytosis X
+	C1847501	Glut1 Deficiency Syndrome
+	C1968602	Surfactant Metabolism Dysfunction, Pulmonary, 1
+	C2673609	Epidermolysis bullosa inversa dystrophica
+	C2749864	MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH OR WITHOUT METHYLMALONIC ACIDURIA)
+	C3495554	Homocarnosinase deficiency
+
+	Associated symptoms average: 16.1875
+	Number of diseases: 16
+
+
+Cluster 16:
+	C0025534	Metal Metabolism, Inborn Errors
+	C0085578	Thalassemia Minor
+	C0268059	Neonatal hemochromatosis
+	C1858664	HEMOCHROMATOSIS, TYPE 3
+	C2936913	Porphyria, South African type
+
+	Associated symptoms average: 7.2
+	Number of diseases: 5
+
+
+Cluster 33:
+	C0026709	Mucopolysaccharidosis VI
+	C0268547	Argininosuccinic Aciduria
+	C0751276	Metachromatic leukodystrophy, juvenile type
+	C0751278	Metachromatic Leukodystrophy, Infant
+	C0751279	Metachromatic Leukodystrophy, Adult-Type (disorder)
+	C1855255	Pseudoarylsulfatase A Deficiency
+	C2713319	Arylsulfatase A Deficiency
+
+	Associated symptoms average: 9.0
+	Number of diseases: 7
+
+
+Cluster 17:
+	C0027145	Myxedema
+	C0029405	Osteitis Fibrosa Cystica
+	C0038833	Superior Vena Cava Syndrome
+	C0040149	Subacute thyroiditis
+	C0041325	Peritonitis, Tuberculous
+	C0238051	Cerebral Angiitis
+	C0242490	Enthesopathy
+	C0268125	Purine-nucleoside phosphorylase deficiency
+	C0342122	Toxic diffuse goiter
+	C0342127	Toxic nodular goiter
+	C0949116	Congenital hypoplastic anemia
+	C1840334	Hypoparathyroidism, Autosomal Recessive
+	C1853666	Anemia, Diamond-Blackfan, 2
+	C1859148	Chondrodysplasia, blomstrand type
+	C1863236	SCID Due to ADA Deficiency, Early-Onset
+	C1863239	Partial adenosine deaminase deficiency
+	C2676137	Diamond-Blackfan Anemia 1
+	C3714618	Primary Hyperthyroidism
+
+	Associated symptoms average: 14.88888888888889
+	Number of diseases: 18
+
+
+Cluster 24:
+	C0027743	Nerve compression syndrome
+	C0205713	Roussy-Levy Syndrome (disorder)
+	C0393808	Charcot-Marie-Tooth disease, X-linked, 1
+	C0751059	Cranial Neuropathies, Multiple
+	C1970482	Potocki-Lupski syndrome
+
+	Associated symptoms average: 12.4
+	Number of diseases: 5
+
+
+Cluster 19:
+	C0029001	Onchocerciasis
+	C0033838	Kimura Disease
+	C0036329	Schistosomiasis japonica
+	C0086196	Eczema, Infantile
+	C0276926	Schistosoma hematobium infection
+	C0406537	Morbilliform Drug Reaction
+	C1299884	Eosinophilic myositis (disorder)
+
+	Associated symptoms average: 7.428571428571429
+	Number of diseases: 7
+
+
+Cluster 34:
+	C0033139	Primary Insomnia
+	C0206085	Kleine-Levin Syndrome
+	C0751757	Hypersomnolence, Idiopathic
+	C0752285	Hypersomnia, Post-Traumatic
+	C1834372	Narcolepsy 1
+
+	Associated symptoms average: 24.0
+	Number of diseases: 5
+
+
+Cluster 22:
+	C0036472	Scrub Typhus
+	C0043154	Dental White Spot
+	C0206525	Tuberculosis, Drug-Resistant
+	C0268251	Gaucher Disease, Type 3 (disorder)
+	C0268390	Muckle-Wells Syndrome
+	C0409818	Chronic Infantile Neurological, Cutaneous, and Articular Syndrome
+	C1849508	EPILEPSY, PYRIDOXINE-DEPENDENT
+	C1861303	SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)
+
+	Associated symptoms average: 17.75
+	Number of diseases: 8
+
+
+Cluster 21:
+	C0041315	Tuberculosis, Laryngeal
+	C0268595	Glutaric aciduria, type 1
+	C0342288	Insulin-dependent diabetes mellitus secretory diarrhea syndrome
+	C0393739	Episodic Cluster Headache
+	C0543687	Thymic alymphoplasia
+	C1839989	Ichthyosis and male hypogonadism
+	C1853392	Interleukin 2 Receptor, Alpha, Deficiency of
+	C1863727	HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 2
+	C1866993	SCHISTOSOMA MANSONI INFECTION, SUSCEPTIBILITY/RESISTANCE TO
+
+	Associated symptoms average: 9.777777777777779
+	Number of diseases: 9
+
+
+Cluster 30:
+	C0043459	Zellweger Syndrome
+	C0282525	Adrenoleukodystrophy, Neonatal
+	C0282527	Infantile Refsum Disease (disorder)
+	C0405580	Adrenal cortical hypofunction
+	C3550234	PEROXISOME BIOGENESIS DISORDER 2B
+
+	Associated symptoms average: 13.4
+	Number of diseases: 5
+
+
+Cluster 25:
+	C0085697	Chronic pyelonephritis
+	C0206145	Stunned Myocardium
+	C0406587	Wrinkly skin syndrome
+	C0796013	Zimmerman Laband syndrome
+	C1832918	Brody myopathy
+
+	Associated symptoms average: 9.0
+	Number of diseases: 5
+
+
+Cluster 31:
+	C0152109	Juvenile Spinal Muscular Atrophy
+	C0154681	Anterior Horn Cell Disease
+	C0393538	Muscular Atrophy, Spinal, Type II
+	C0700595	Spinal Muscular Atrophies of Childhood
+	C1838230	SPINAL MUSCULAR ATROPHY, TYPE IV
+
+	Associated symptoms average: 11.4
+	Number of diseases: 5
+
+
+Cluster 40:
+	C0152200	Achromatopsia
+	C1849792	Achromatopsia 3
+	C1857618	Achromatopsia 2
+	C2751308	CONE DYSTROPHY 4 (disorder)
+	C3495589	Jalili syndrome
+
+	Associated symptoms average: 12.6
+	Number of diseases: 5
+
+
+Cluster 28:
+	C0152222	Parinaud Syndrome
+	C0270860	Basilar-Type Migraine
+	C0278110	Hemiplegia, Crossed
+	C0338483	Migraine with Prolonged Aura
+	C1735856	Migraine with Typical Aura
+	C1832903	MIGRAINE, SPORADIC HEMIPLEGIC
+	C1865322	MIGRAINE, FAMILIAL HEMIPLEGIC, 2
+	C1865323	Migraine, Familial Basilar
+	C3549447	ALTERNATING HEMIPLEGIA OF CHILDHOOD 1
+
+	Associated symptoms average: 18.77777777777778
+	Number of diseases: 9
+
+
+Cluster 36:
+	C0206115	WAGR Syndrome
+	C0950122	Frasier Syndrome
+	C1833797	Optic Nerve Hypoplasia, Bilateral
+	C2930471	Bilateral Wilms Tumor
+	C3151568	NEPHROTIC SYNDROME, TYPE 4
+
+	Associated symptoms average: 17.8
+	Number of diseases: 5
+
+
+Cluster 26:
+	C0221348	Hereditary lymphedema and yellow nails
+	C0265345	Lymphedema distichiasis syndrome
+	C1839928	IRIS HYPOPLASIA WITH GLAUCOMA
+	C1866560	IRIDOGONIODYSGENESIS, TYPE 1 (disorder)
+	C3887608	HYDROCEPHALUS, NONSYNDROMIC, AUTOSOMAL RECESSIVE 1
+
+	Associated symptoms average: 7.6
+	Number of diseases: 5
+
+
+Cluster 35:
+	C0265235	Marshall syndrome
+	C0410632	Schmorl's nodes
+	C0796173	Spondyloperipheral dysplasia short ulna
+	C1835437	Platyspondylic Lethal Skeletal Dysplasia, Torrance Type
+	C1840452	Hyaloideoretinal degeneration of Wagner
+	C1848488	Pierre Robin syndrome with fetal chondrodysplasia
+	C1861481	Stickler syndrome, type 3
+	C3278138	FIBROCHONDROGENESIS 1
+
+	Associated symptoms average: 5.375
+	Number of diseases: 8
+
+
+Cluster 41:
+	C1567427	Bilateral Multicystic Dysplastic Kidneys
+	C1855849	Bartter syndrome, antenatal , type 2
+	C1859040	Medullary Cystic Kidney Disease Type 2
+	C1868139	Medullary cystic kidney disease 1
+	C2939174	Medullary cystic disease
+
+	Associated symptoms average: 13.2
+	Number of diseases: 5
+
+
+Cluster 39:
+	C1832386	Diabetes Mellitus, Transient Neonatal, 1
+	C1835887	DIABETES MELLITUS, TRANSIENT NEONATAL, 2 (disorder)
+	C1853564	Developmental Delay, Epilepsy, and Neonatal Diabetes
+	C1864623	DIABETES MELLITUS, TRANSIENT NEONATAL, 3 (disorder)
+	C2931832	Hyperinsulinemic hypoglycemia, familial, 1
+
+	Associated symptoms average: 0.0
+	Number of diseases: 5
+
+
+Cluster 38:
+	C1841679	Hand foot uterus syndrome
+	C1842422	Synpolydactyly 2
+	C1853255	Synpolydactyly 3
+	C1861348	Syndactyly, type v
+	C1861367	Synpolydactyly 1
+	C1861380	Syndactyly, Type I
+
+	Associated symptoms average: 0.6666666666666666
+	Number of diseases: 6
+
+
+Cluster 42:
+	C1865643	Cholestasis, progressive familial intrahepatic 3
+	C2608083	Cholestasis, benign recurrent intrahepatic 2
+	C2609268	Low phospholipid-associated cholelithiasis
+	C3489789	Cholestasis, Progressive Familial Intrahepatic, 2
+	C3549845	CHOLESTASIS, INTRAHEPATIC, OF PREGNANCY, 1
+	C3554241	CHOLESTASIS, INTRAHEPATIC, OF PREGNANCY 3
+
+	Associated symptoms average: 4.0
+	Number of diseases: 6
+
+

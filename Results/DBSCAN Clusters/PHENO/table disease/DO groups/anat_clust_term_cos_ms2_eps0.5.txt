@@ -1,0 +1,459 @@
+CLUSTERS for [PHENOT ANAT] term_cos, MS 2, eps 0.5
+	--> Number of clusters: 50
+	--> Number of outliers: 1490
+	--> Silhouette coefficient: -0.07783132765240104
+
+Cluster 0:
+	DIS000318
+	DIS005160
+	DIS008034
+	Number of diseases: 3
+
+
+Cluster 1:
+	DIS000816
+	DIS002468
+	DIS003837
+	DIS005678
+	DIS005812
+	DIS006270
+	DIS007365
+	Number of diseases: 7
+
+
+Cluster 2:
+	DIS002056
+	DIS006057
+	Number of diseases: 2
+
+
+Cluster 3:
+	DIS002392
+	DIS003707
+	DIS004657
+	DIS006930
+	Number of diseases: 4
+
+
+Cluster 4:
+	DIS002514
+	DIS006806
+	DIS007538
+	Number of diseases: 3
+
+
+Cluster 5:
+	DIS003211
+	DIS003231
+	DIS003349
+	DIS003448
+	DIS003453
+	DIS003534
+	DIS003539
+	DIS003616
+	DIS003627
+	DIS003672
+	DIS003760
+	DIS003789
+	DIS003815
+	DIS003992
+	DIS004004
+	DIS004024
+	DIS004132
+	DIS004158
+	DIS004171
+	DIS004246
+	DIS004293
+	DIS004322
+	DIS004348
+	DIS004361
+	DIS004378
+	DIS004402
+	DIS004421
+	DIS004423
+	DIS004463
+	DIS004475
+	DIS004526
+	DIS004540
+	DIS004581
+	DIS004585
+	DIS004630
+	DIS004745
+	DIS004787
+	DIS004792
+	DIS004828
+	DIS004880
+	DIS004995
+	DIS005056
+	DIS005069
+	DIS005073
+	DIS005093
+	DIS005104
+	DIS005218
+	DIS005255
+	DIS005292
+	DIS005333
+	DIS005339
+	DIS005420
+	DIS005447
+	DIS005537
+	DIS005579
+	DIS005592
+	DIS005661
+	DIS005750
+	DIS005839
+	DIS005841
+	DIS005846
+	DIS005917
+	DIS005922
+	DIS005929
+	DIS005934
+	DIS006052
+	DIS006068
+	DIS006083
+	DIS006104
+	DIS006109
+	DIS006124
+	DIS006275
+	DIS006343
+	DIS006350
+	DIS006418
+	DIS006484
+	DIS006558
+	DIS006662
+	DIS006689
+	DIS006721
+	DIS006724
+	DIS006775
+	DIS006778
+	DIS006887
+	DIS006895
+	DIS006950
+	DIS007031
+	DIS007055
+	DIS007106
+	DIS007110
+	DIS007121
+	DIS007141
+	DIS007152
+	DIS007160
+	DIS007217
+	DIS007271
+	DIS007328
+	DIS007353
+	DIS007375
+	DIS007456
+	DIS007497
+	DIS007504
+	DIS007517
+	DIS007535
+	DIS007664
+	DIS007665
+	DIS007666
+	DIS007763
+	DIS007777
+	DIS007803
+	DIS007821
+	DIS007883
+	DIS008035
+	DIS008191
+	DIS008207
+	DIS008222
+	Number of diseases: 116
+
+
+Cluster 6:
+	DIS003260
+	DIS004757
+	DIS006801
+	DIS007260
+	DIS007577
+	DIS008422
+	Number of diseases: 6
+
+
+Cluster 7:
+	DIS003305
+	DIS004374
+	Number of diseases: 2
+
+
+Cluster 8:
+	DIS003384
+	DIS005012
+	DIS008320
+	Number of diseases: 3
+
+
+Cluster 9:
+	DIS003387
+	DIS004799
+	DIS006160
+	Number of diseases: 3
+
+
+Cluster 10:
+	DIS003397
+	DIS003664
+	DIS003836
+	DIS005097
+	DIS007259
+	DIS007510
+	DIS007819
+	Number of diseases: 7
+
+
+Cluster 11:
+	DIS003423
+	DIS007467
+	DIS008097
+	Number of diseases: 3
+
+
+Cluster 12:
+	DIS003462
+	DIS003826
+	DIS004488
+	Number of diseases: 3
+
+
+Cluster 13:
+	DIS003463
+	DIS004560
+	DIS005269
+	Number of diseases: 3
+
+
+Cluster 14:
+	DIS003473
+	DIS004571
+	DIS007460
+	Number of diseases: 3
+
+
+Cluster 15:
+	DIS003488
+	DIS007359
+	DIS007660
+	Number of diseases: 3
+
+
+Cluster 16:
+	DIS003593
+	DIS003844
+	Number of diseases: 2
+
+
+Cluster 17:
+	DIS003698
+	DIS005002
+	DIS006258
+	DIS007240
+	Number of diseases: 4
+
+
+Cluster 18:
+	DIS003730
+	DIS006090
+	Number of diseases: 2
+
+
+Cluster 19:
+	DIS003746
+	DIS004649
+	Number of diseases: 2
+
+
+Cluster 20:
+	DIS003891
+	DIS004480
+	DIS005142
+	DIS006673
+	Number of diseases: 4
+
+
+Cluster 21:
+	DIS003893
+	DIS007107
+	Number of diseases: 2
+
+
+Cluster 22:
+	DIS003954
+	DIS005719
+	Number of diseases: 2
+
+
+Cluster 23:
+	DIS004096
+	DIS004244
+	Number of diseases: 2
+
+
+Cluster 24:
+	DIS004162
+	DIS007791
+	Number of diseases: 2
+
+
+Cluster 25:
+	DIS004310
+	DIS007416
+	Number of diseases: 2
+
+
+Cluster 26:
+	DIS004410
+	DIS005664
+	DIS006143
+	Number of diseases: 3
+
+
+Cluster 27:
+	DIS004439
+	DIS006493
+	Number of diseases: 2
+
+
+Cluster 28:
+	DIS004496
+	DIS007005
+	Number of diseases: 2
+
+
+Cluster 29:
+	DIS004567
+	DIS008218
+	Number of diseases: 2
+
+
+Cluster 30:
+	DIS004812
+	DIS006158
+	Number of diseases: 2
+
+
+Cluster 31:
+	DIS004819
+	DIS006211
+	Number of diseases: 2
+
+
+Cluster 32:
+	DIS004838
+	DIS005836
+	DIS007950
+	Number of diseases: 3
+
+
+Cluster 33:
+	DIS004870
+	DIS005223
+	DIS005419
+	DIS005715
+	DIS006924
+	Number of diseases: 5
+
+
+Cluster 34:
+	DIS004950
+	DIS007307
+	Number of diseases: 2
+
+
+Cluster 35:
+	DIS005329
+	DIS006704
+	DIS007315
+	Number of diseases: 3
+
+
+Cluster 36:
+	DIS005496
+	DIS007917
+	Number of diseases: 2
+
+
+Cluster 37:
+	DIS005525
+	DIS007266
+	Number of diseases: 2
+
+
+Cluster 38:
+	DIS005607
+	DIS006512
+	DIS006769
+	DIS008107
+	Number of diseases: 4
+
+
+Cluster 39:
+	DIS006045
+	DIS006067
+	DIS007465
+	Number of diseases: 3
+
+
+Cluster 40:
+	DIS006063
+	DIS007694
+	Number of diseases: 2
+
+
+Cluster 41:
+	DIS006338
+	DIS006731
+	Number of diseases: 2
+
+
+Cluster 42:
+	DIS006417
+	DIS006853
+	DIS007499
+	Number of diseases: 3
+
+
+Cluster 43:
+	DIS006550
+	DIS006694
+	DIS007047
+	Number of diseases: 3
+
+
+Cluster 44:
+	DIS006691
+	DIS007852
+	Number of diseases: 2
+
+
+Cluster 45:
+	DIS006891
+	DIS007823
+	Number of diseases: 2
+
+
+Cluster 46:
+	DIS007263
+	DIS007828
+	Number of diseases: 2
+
+
+Cluster 47:
+	DIS007402
+	DIS007507
+	Number of diseases: 2
+
+
+Cluster 48:
+	DIS007489
+	DIS008131
+	Number of diseases: 2
+
+
+Cluster 49:
+	DIS007723
+	DIS008077
+	Number of diseases: 2
+
+

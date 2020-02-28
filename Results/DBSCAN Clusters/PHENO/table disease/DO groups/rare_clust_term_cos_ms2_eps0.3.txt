@@ -1,0 +1,208 @@
+CLUSTERS for [RARE phenotypical disease] term_cos, MS 2, eps 0.3
+	--> Number of clusters: 29
+	--> Number of outliers: 1501
+	--> Silhouette coefficient: -0.08948254689897016
+
+Cluster 0:
+	DIS002054
+	DIS006430
+	Number of diseases: 2
+
+
+Cluster 1:
+	DIS002091
+	DIS007522
+	Number of diseases: 2
+
+
+Cluster 2:
+	DIS002514
+	DIS004773
+	DIS007538
+	Number of diseases: 3
+
+
+Cluster 3:
+	DIS003167
+	DIS004508
+	Number of diseases: 2
+
+
+Cluster 4:
+	DIS003338
+	DIS004147
+	Number of diseases: 2
+
+
+Cluster 5:
+	DIS003426
+	DIS003763
+	Number of diseases: 2
+
+
+Cluster 6:
+	DIS003440
+	DIS004361
+	DIS008207
+	Number of diseases: 3
+
+
+Cluster 7:
+	DIS003453
+	DIS003590
+	DIS003634
+	DIS003672
+	DIS004171
+	DIS004423
+	DIS004745
+	DIS004996
+	DIS005299
+	DIS005333
+	DIS006091
+	DIS006275
+	DIS006394
+	DIS006519
+	DIS006775
+	DIS007110
+	DIS007431
+	DIS008107
+	Number of diseases: 18
+
+
+Cluster 8:
+	DIS003463
+	DIS004560
+	Number of diseases: 2
+
+
+Cluster 9:
+	DIS003539
+	DIS005505
+	Number of diseases: 2
+
+
+Cluster 10:
+	DIS003555
+	DIS005366
+	Number of diseases: 2
+
+
+Cluster 11:
+	DIS003775
+	DIS005105
+	DIS005812
+	DIS006407
+	DIS007143
+	Number of diseases: 5
+
+
+Cluster 12:
+	DIS003809
+	DIS005949
+	Number of diseases: 2
+
+
+Cluster 13:
+	DIS003846
+	DIS004342
+	DIS006343
+	DIS007402
+	DIS007507
+	Number of diseases: 5
+
+
+Cluster 14:
+	DIS003856
+	DIS007455
+	DIS008422
+	Number of diseases: 3
+
+
+Cluster 15:
+	DIS004079
+	DIS004378
+	DIS004438
+	DIS004475
+	DIS005073
+	Number of diseases: 5
+
+
+Cluster 16:
+	DIS004410
+	DIS005664
+	Number of diseases: 2
+
+
+Cluster 17:
+	DIS004488
+	DIS004885
+	Number of diseases: 2
+
+
+Cluster 18:
+	DIS005218
+	DIS006639
+	DIS007003
+	Number of diseases: 3
+
+
+Cluster 19:
+	DIS005265
+	DIS006297
+	Number of diseases: 2
+
+
+Cluster 20:
+	DIS005278
+	DIS005598
+	Number of diseases: 2
+
+
+Cluster 21:
+	DIS005447
+	DIS007121
+	Number of diseases: 2
+
+
+Cluster 22:
+	DIS005673
+	DIS007707
+	Number of diseases: 2
+
+
+Cluster 23:
+	DIS006063
+	DIS007694
+	Number of diseases: 2
+
+
+Cluster 24:
+	DIS006211
+	DIS007578
+	Number of diseases: 2
+
+
+Cluster 25:
+	DIS006638
+	DIS007103
+	Number of diseases: 2
+
+
+Cluster 26:
+	DIS006950
+	DIS007546
+	Number of diseases: 2
+
+
+Cluster 27:
+	DIS007088
+	DIS007390
+	Number of diseases: 2
+
+
+Cluster 28:
+	DIS007129
+	DIS007839
+	Number of diseases: 2
+
+

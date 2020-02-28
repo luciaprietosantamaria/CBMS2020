@@ -1,0 +1,89 @@
+CLUSTERS for [BACTERIAL phenotypical has_biological_info] term_jaccard, MS 2, eps 0.75
+	--> Number of clusters: 13
+	--> Number of outliers: 32
+	--> Silhouette coefficient: 0.23954058784879156
+
+Cluster 0:
+	C0006060	Boutonneuse Fever
+	C0035021	Relapsing Fever
+	C0041471	TYPHUS
+	Number of diseases: 3
+
+
+Cluster 1:
+	C0006818	Campylobacter infection
+	C1527298	Dysentery, Bacillary
+	Number of diseases: 2
+
+
+Cluster 2:
+	C0007947	Chancroids
+	C0085434	Angiomatosis, Bacillary
+	C0085568	Buruli Ulcer
+	Number of diseases: 3
+
+
+Cluster 3:
+	C0018081	Gonorrhea
+	C0041351	Tularemia
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0023240	Legionellosis
+	C0023241	Legionnaires' Disease
+	Number of diseases: 2
+
+
+Cluster 5:
+	C0023364	Leptospirosis
+	C0085399	Ehrlichiosis
+	Number of diseases: 2
+
+
+Cluster 6:
+	C0024198	Lyme Disease
+	C0242381	Lyme Arthritis
+	Number of diseases: 2
+
+
+Cluster 7:
+	C0027927	Neurosyphilis
+	C0205858	General Paralysis
+	Number of diseases: 2
+
+
+Cluster 8:
+	C0030528	Paratyphoid Fever
+	C0041466	Typhoid Fever
+	Number of diseases: 2
+
+
+Cluster 9:
+	C0032064	Plague
+	C0152936	Plague, Septicemic
+	C0282312	Bubonic Plague
+	C0524688	Pneumonic Plague
+	Number of diseases: 4
+
+
+Cluster 10:
+	C0034362	Q Fever
+	C0519066	Acute Q fever
+	C1443892	Chronic Q Fever
+	C2973787	Coxiella burnetii Infection
+	Number of diseases: 4
+
+
+Cluster 11:
+	C0035793	Rocky Mountain Spotted Fever
+	C0038041	Spotted fevers
+	Number of diseases: 2
+
+
+Cluster 12:
+	C0041296	Tuberculosis
+	C0041321	Tuberculosis, Miliary
+	Number of diseases: 2
+
+

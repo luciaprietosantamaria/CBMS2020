@@ -1,0 +1,23 @@
+CLUSTERS for [GENET phenotypical disease] term_cos, MS 2, eps 0.3
+	--> Number of clusters: 3
+	--> Number of outliers: 270
+	--> Silhouette coefficient: -0.03138356863743658
+
+Cluster 0:
+	DIS002091
+	DIS007522
+	Number of diseases: 2
+
+
+Cluster 1:
+	DIS003846
+	DIS007507
+	Number of diseases: 2
+
+
+Cluster 2:
+	DIS005265
+	DIS006297
+	Number of diseases: 2
+
+

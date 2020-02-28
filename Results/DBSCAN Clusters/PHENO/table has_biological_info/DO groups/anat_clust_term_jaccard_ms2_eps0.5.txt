@@ -1,0 +1,2272 @@
+CLUSTERS for [ANAT phenotypical has_biological_info] term_jaccard, MS 2, eps 0.5
+	--> Number of clusters: 316
+	--> Number of outliers: 1084
+	--> Silhouette coefficient: 0.39142232554575584
+
+Cluster 0:
+	C0001206	Acromegaly
+	C0405578	Gigantism and acromegaly
+	C1863340	PITUITARY ADENOMA PREDISPOSITION (disorder)
+	Number of diseases: 3
+
+
+Cluster 1:
+	C0001339	Acute pancreatitis
+	C0030305	Pancreatitis
+	Number of diseases: 2
+
+
+Cluster 2:
+	C0001361	Acute tonsillitis
+	C0040425	Tonsillitis
+	Number of diseases: 2
+
+
+Cluster 3:
+	C0001733	Afibrinogenemia
+	C2584774	Congenital hypofibrinogenemia
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0001787	Osteoporosis, Age-Related
+	C0029456	Osteoporosis
+	C0029458	Osteoporosis, Postmenopausal
+	C0029459	Osteoporosis, Senile
+	Number of diseases: 4
+
+
+Cluster 5:
+	C0001824	Agranulocytosis
+	C0027947	Neutropenia
+	Number of diseases: 2
+
+
+Cluster 6:
+	C0002170	Alopecia
+	C0086873	Pseudopelade
+	C0162311	Androgenetic Alopecia
+	C4083212	Alopecia, Male Pattern
+	Number of diseases: 4
+
+
+Cluster 7:
+	C0002171	Alopecia Areata
+	C0263505	Alopecia universalis
+	Number of diseases: 2
+
+
+Cluster 8:
+	C0002395	Alzheimer's Disease
+	C0276496	Familial Alzheimer Disease (FAD)
+	C0750901	Alzheimer Disease, Early Onset
+	C1863052	ALZHEIMER DISEASE, FAMILIAL, 1
+	Number of diseases: 4
+
+
+Cluster 9:
+	C0002736	Amyotrophic Lateral Sclerosis
+	C0393554	Amyotrophic Lateral Sclerosis With Dementia
+	C0543859	Amyotrophic Lateral Sclerosis, Guam Form
+	C1862939	AMYOTROPHIC LATERAL SCLEROSIS 1
+	C1862941	Amyotrophic Lateral Sclerosis, Sporadic
+	C3542025	AMYOTROPHIC LATERAL SCLEROSIS 1, AUTOSOMAL RECESSIVE
+	Number of diseases: 6
+
+
+Cluster 10:
+	C0002871	Anemia
+	C0162316	Iron deficiency anemia
+	Number of diseases: 2
+
+
+Cluster 11:
+	C0002874	Aplastic Anemia
+	C0178416	Hypoplastic anemia
+	Number of diseases: 2
+
+
+Cluster 12:
+	C0002876	Congenital dyserythropoietic anemia
+	C0271933	Congenital dyserythropoietic anemia, type I
+	C0271934	Congenital dyserythropoietic anemia, type III
+	C1306589	Congenital dyserythropoietic anemia, type II
+	Number of diseases: 4
+
+
+Cluster 13:
+	C0002878	Anemia, Hemolytic
+	C0002879	Anemia, Hemolytic, Acquired
+	C0014761	Erythroblastosis, Fetal
+	C0221021	Microangiopathic hemolytic anemia
+	Number of diseases: 4
+
+
+Cluster 14:
+	C0002880	Autoimmune hemolytic anemia
+	C0175816	Cold Hemagglutinin Disease
+	Number of diseases: 2
+
+
+Cluster 15:
+	C0002896	Sideroblastic anemia
+	C0221018	Hereditary sideroblastic anemia
+	C1845028	ANEMIA, SIDEROBLASTIC, AND SPINOCEREBELLAR ATAXIA
+	Number of diseases: 3
+
+
+Cluster 16:
+	C0002940	Aneurysm
+	C2713497	Saccular Aneurysm
+	Number of diseases: 2
+
+
+Cluster 17:
+	C0003028	Anhidrosis
+	C0020620	Hypohidrosis
+	Number of diseases: 2
+
+
+Cluster 18:
+	C0003496	Aortic Rupture
+	C0741160	Aortic Aneurysm, Ruptured
+	Number of diseases: 2
+
+
+Cluster 19:
+	C0003864	Arthritis
+	C0162323	Polyarthritis
+	Number of diseases: 2
+
+
+Cluster 20:
+	C0003868	Arthritis, Gouty
+	C0018099	Gout
+	Number of diseases: 2
+
+
+Cluster 21:
+	C0003875	Arthritis, Viral
+	C3891815	Arthritis, Suppurative
+	Number of diseases: 2
+
+
+Cluster 22:
+	C0004135	Ataxia Telangiectasia
+	C1876175	Ataxia-Telangiectasia Variant
+	Number of diseases: 2
+
+
+Cluster 23:
+	C0004138	Ataxias, Hereditary
+	C0024814	Marinesco-Sjogren syndrome
+	C0270749	Marie Cerebellar Ataxia
+	C0393519	Cerebellar Ataxia, Early Onset
+	C0393524	Cerebellar Ataxia, Late Onset
+	Number of diseases: 5
+
+
+Cluster 24:
+	C0004153	Atherosclerosis
+	C0010054	Coronary Arteriosclerosis
+	Number of diseases: 2
+
+
+Cluster 25:
+	C0004238	Atrial Fibrillation
+	C0235480	Paroxysmal atrial fibrillation
+	Number of diseases: 2
+
+
+Cluster 26:
+	C0004606	Nonproliferative diabetic retinopathy
+	C0024440	Macular Edema, Cystoid
+	C0154850	Cystoid macular retinal degeneration
+	Number of diseases: 3
+
+
+Cluster 27:
+	C0004712	Balo's Concentric Sclerosis
+	C0007795	Diffuse Cerebral Sclerosis of Schilder
+	Number of diseases: 2
+
+
+Cluster 28:
+	C0004763	Barrett Esophagus
+	C1258085	Barrett Epithelium
+	Number of diseases: 2
+
+
+Cluster 29:
+	C0004775	Bartter Disease
+	C1846343	Bartter syndrome, type 3
+	C1846344	Bartter Syndrome, Type 3, with Hypocalciuria
+	C1855849	Bartter syndrome, antenatal , type 2
+	C1865270	BARTTER SYNDROME, TYPE 4A
+	C1866495	Bartter syndrome, antenatal type 1
+	C2748440	Sensorineural Deafness With Mild Renal Dysfunction
+	Number of diseases: 7
+
+
+Cluster 30:
+	C0005129	Bernard-Soulier Syndrome
+	C0040015	Thrombasthenia
+	C0042974	von Willebrand Disease
+	C0235604	Qualitative platelet deficiency
+	C1264039	von Willebrand Disease, Type 1
+	C1856447	Bernard-Soulier Syndrome, Type B
+	C1856448	Bernard-Soulier Syndrome, Type C
+	C1861195	Glanzmann Thrombasthenia, Autosomal Dominant
+	C3278148	BERNARD-SOULIER SYNDROME, TYPE A1
+	Number of diseases: 9
+
+
+Cluster 31:
+	C0005592	Bird Fancier's Lung
+	C0031903	Pigeon Breeder's Lung
+	Number of diseases: 2
+
+
+Cluster 32:
+	C0005689	Bladder Exstrophy
+	C0029420	Osteochondritis
+	C0037859	Spermatocele
+	C0042341	Varicocele
+	C0265514	Dermatofibrosis lenticularis disseminata
+	C1838099	ABCD syndrome
+	Number of diseases: 6
+
+
+Cluster 33:
+	C0005747	Blepharospasm
+	C2930898	Benign essential blepharospasm
+	Number of diseases: 2
+
+
+Cluster 34:
+	C0006091	Brachial plexus lesion
+	C0039984	Thoracic Outlet Syndrome
+	Number of diseases: 2
+
+
+Cluster 35:
+	C0006267	Bronchiectasis
+	C0006277	Bronchitis
+	C0024117	Chronic Obstructive Airway Disease
+	Number of diseases: 3
+
+
+Cluster 36:
+	C0006272	Bronchiolitis Obliterans
+	C2350875	Constrictive Bronchiolitis
+	Number of diseases: 2
+
+
+Cluster 37:
+	C0006852	Candidiasis of vagina
+	C0700345	Candidiasis, Vulvovaginal
+	Number of diseases: 2
+
+
+Cluster 38:
+	C0007194	Hypertrophic Cardiomyopathy
+	C0205700	Asymmetric Septal Hypertrophy
+	C0949658	Cardiomyopathy, Hypertrophic, Familial
+	C3495498	Cardiomyopathy, Familial Hypertrophic, 1 (disorder)
+	Number of diseases: 4
+
+
+Cluster 39:
+	C0007282	Carotid Stenosis
+	C0340569	Internal Carotid Artery Stenosis
+	C0751635	Common Carotid Artery Stenosis
+	Number of diseases: 3
+
+
+Cluster 40:
+	C0007761	Myoclonic Cerebellar Dyssynergia
+	C3489626	Cerebelloparenchymal Disorder V
+	Number of diseases: 2
+
+
+Cluster 41:
+	C0007766	Intracranial Aneurysm
+	C0751003	Brain Aneurysm
+	C0917996	Cerebral Aneurysm
+	Number of diseases: 3
+
+
+Cluster 42:
+	C0007785	Cerebral Infarction
+	C0751956	Acute Cerebrovascular Accidents
+	C0948008	Ischemic stroke
+	Number of diseases: 3
+
+
+Cluster 43:
+	C0007786	Brain Ischemia
+	C0917798	Cerebral Ischemia
+	Number of diseases: 2
+
+
+Cluster 44:
+	C0007787	Transient Ischemic Attack
+	C0917805	Transient Cerebral Ischemia
+	Number of diseases: 2
+
+
+Cluster 45:
+	C0007789	Cerebral Palsy
+	C0023882	Little's Disease
+	C0270742	Athetoid cerebral palsy
+	C0338596	Spastic cerebral palsy
+	C2751938	Cerebral Palsy, Spastic Quadriplegic, 1
+	C2752061	Cerebral Palsy, Spastic Quadriplegic, 2
+	Number of diseases: 6
+
+
+Cluster 46:
+	C0007860	Uterine Cervicitis
+	C0157749	Arthropathy associated with infection
+	C0730295	BASAL LAMINAR DRUSEN (disorder)
+	C1832174	DOYNE HONEYCOMB RETINAL DYSTROPHY
+	C1852020	Malattia Leventinese
+	C1864205	Macular Degeneration, Age-Related, 1
+	Number of diseases: 6
+
+
+Cluster 47:
+	C0007959	Charcot-Marie-Tooth Disease
+	C0205713	Roussy-Levy Syndrome (disorder)
+	C0270911	Charcot-Marie-Tooth Disease, Type Ia (disorder)
+	C0270912	Charcot-Marie-Tooth Disease, Type Ib
+	C0270914	Hereditary Motor and Sensory-Neuropathy Type II
+	C0393808	Charcot-Marie-Tooth disease, X-linked, 1
+	C0751036	Hereditary Motor and Sensory Neuropathy Type I
+	C1839566	CHARCOT-MARIE-TOOTH DISEASE, X-LINKED RECESSIVE, 5
+	Number of diseases: 8
+
+
+Cluster 48:
+	C0008311	Cholangitis
+	C0008313	Cholangitis, Sclerosing
+	C0566602	Primary sclerosing cholangitis
+	Number of diseases: 3
+
+
+Cluster 49:
+	C0008312	Primary biliary cirrhosis
+	C0023892	Biliary cirrhosis
+	Number of diseases: 2
+
+
+Cluster 50:
+	C0008350	Cholelithiasis
+	C2609268	Low phospholipid-associated cholelithiasis
+	Number of diseases: 2
+
+
+Cluster 51:
+	C0008373	Cholesteatoma
+	C0155490	Middle Ear Cholesteatoma
+	Number of diseases: 2
+
+
+Cluster 52:
+	C0008513	Chorioretinitis
+	C0035333	Retinitis
+	Number of diseases: 2
+
+
+Cluster 53:
+	C0008525	Choroideremia
+	C0344297	Choroidal sclerosis
+	Number of diseases: 2
+
+
+Cluster 54:
+	C0008684	Chronic gingivitis
+	C0017574	Gingivitis
+	Number of diseases: 2
+
+
+Cluster 55:
+	C0008928	Cleidocranial Dysplasia
+	C1838416	CLEIDOCRANIAL DYSPLASIA, FORME FRUSTE, DENTAL ANOMALIES ONLY
+	C1861516	Cleidocranial Dysplasia, Forme Fruste, With Brachydactyly
+	Number of diseases: 3
+
+
+Cluster 56:
+	C0009207	Cockayne Syndrome
+	C0751037	Cockayne Syndrome, Type III
+	C0751038	Cockayne Syndrome, Type II
+	C0751039	Cockayne Syndrome, Type I
+	Number of diseases: 4
+
+
+Cluster 57:
+	C0009324	Ulcerative Colitis
+	C0010346	Crohn Disease
+	C0156147	Crohn's disease of large bowel
+	C0267380	Crohn's disease of the ileum
+	C0949272	IIeocolitis
+	C2674051	Inflammatory Bowel Disease 11
+	Number of diseases: 6
+
+
+Cluster 58:
+	C0009447	Common Variable Immunodeficiency
+	C2936664	Acquired Hypogammaglobulinemia
+	C3149378	IMMUNODEFICIENCY, COMMON VARIABLE, 1
+	C3150354	IMMUNODEFICIENCY, COMMON VARIABLE, 2
+	C3150738	Antibody Deficiency due to Defect in CD19
+	Number of diseases: 5
+
+
+Cluster 59:
+	C0009451	Communicating Hydrocephalus
+	C0549423	Obstructive Hydrocephalus
+	C3887608	HYDROCEPHALUS, NONSYNDROMIC, AUTOSOMAL RECESSIVE 1
+	Number of diseases: 3
+
+
+Cluster 60:
+	C0009714	Hepatic Fibrosis, Congenital
+	C0085548	Autosomal Recessive Polycystic Kidney Disease
+	Number of diseases: 2
+
+
+Cluster 61:
+	C0009766	Allergic Conjunctivitis
+	C0022577	Keratoconjunctivitis, Vernal
+	Number of diseases: 2
+
+
+Cluster 62:
+	C0010278	Craniosynostosis
+	C0175699	Saethre-Chotzen Syndrome
+	C0220658	Pfeiffer Syndrome
+	C1833340	Synostotic Posterior Plagiocephaly
+	C1863370	Saethre-Chotzen Syndrome with Eyelid Anomalies
+	C1864436	Muenke Syndrome
+	C2931150	Synostotic Anterior Plagiocephaly
+	C2931196	Craniofacial dysostosis type 1
+	Number of diseases: 8
+
+
+Cluster 63:
+	C0010308	Congenital Hypothyroidism
+	C0342200	Endemic Cretinism
+	Number of diseases: 2
+
+
+Cluster 64:
+	C0010495	Cutis Laxa
+	C0268351	Cutis Laxa, Autosomal Recessive, Type I
+	C3276539	CUTIS LAXA, AUTOSOMAL DOMINANT 1
+	Number of diseases: 3
+
+
+Cluster 65:
+	C0010930	Dacryocystitis
+	C0155223	Dacryoadenitis
+	Number of diseases: 2
+
+
+Cluster 66:
+	C0011430	Dentin Dysplasia
+	C0152255	Pinguecula
+	C0399379	Dentin dysplasia, type 1
+	C1527284	Dental Pulp Stone
+	Number of diseases: 4
+
+
+Cluster 67:
+	C0011615	Dermatitis, Atopic
+	C0013595	Eczema
+	C1864155	Dermatitis, Atopic, 1
+	Number of diseases: 3
+
+
+Cluster 68:
+	C0011644	Scleroderma
+	C0263409	Linear Scleroderma
+	C1527383	Morphea
+	Number of diseases: 3
+
+
+Cluster 69:
+	C0011848	Diabetes Insipidus
+	C0162283	Nephrogenic Diabetes Insipidus
+	C1563705	Nephrogenic Diabetes Insipidus, Type I
+	Number of diseases: 3
+
+
+Cluster 70:
+	C0011875	Diabetic Angiopathies
+	C0025945	Microangiopathy, Diabetic
+	Number of diseases: 2
+
+
+Cluster 71:
+	C0011884	Diabetic Retinopathy
+	C0342245	Diabetic oculopathy
+	Number of diseases: 2
+
+
+Cluster 72:
+	C0013261	Duane Retraction Syndrome
+	C0751083	Duane Retraction Syndrome, Type 2
+	Number of diseases: 2
+
+
+Cluster 73:
+	C0013264	Muscular Dystrophy, Duchenne
+	C0026850	Muscular Dystrophy
+	C0917713	Becker Muscular Dystrophy
+	C3542021	Duchenne and Becker Muscular Dystrophy
+	Number of diseases: 4
+
+
+Cluster 74:
+	C0013592	Ectropion
+	C0042171	Uveoparotid Fever
+	Number of diseases: 2
+
+
+Cluster 75:
+	C0013720	Ehlers-Danlos Syndrome
+	C0268338	Ehlers-Danlos Syndrome, Type IV
+	Number of diseases: 2
+
+
+Cluster 76:
+	C0014009	Empyema
+	C0014013	Empyema, Pleural
+	Number of diseases: 2
+
+
+Cluster 77:
+	C0014038	Encephalitis
+	C0393484	Rasmussen Syndrome
+	Number of diseases: 2
+
+
+Cluster 78:
+	C0014175	Endometriosis
+	C0341858	Endometriosis of uterus
+	Number of diseases: 2
+
+
+Cluster 79:
+	C0014518	Toxic Epidermal Necrolysis
+	C0038325	Stevens-Johnson Syndrome
+	C1274933	Drug-Induced Stevens Johnson Syndrome
+	C3658302	Stevens-Johnson Syndrome Toxic Epidermal Necrolysis Spectrum
+	Number of diseases: 4
+
+
+Cluster 80:
+	C0014534	Epididymitis
+	C0149881	Epididymo-orchitis
+	Number of diseases: 2
+
+
+Cluster 81:
+	C0014544	Epilepsy
+	C0086237	Epilepsy, Cryptogenic
+	C0234533	Generalized seizures
+	C0234535	Seizures, Clonic
+	C0494475	Tonic - clonic seizures
+	Number of diseases: 5
+
+
+Cluster 82:
+	C0014547	Epilepsies, Partial
+	C0270820	Gelastic Epilepsy
+	Number of diseases: 2
+
+
+Cluster 83:
+	C0014550	Epilepsies, Myoclonic
+	C0270853	Myoclonic Epilepsy, Juvenile
+	C0393702	Myoclonic Astatic Epilepsy
+	C0393703	Myoclonic Absence Epilepsy
+	C0438414	Myoclonic Encephalopathy
+	C0917800	Epilepsy, Myoclonic, Infantile
+	Number of diseases: 6
+
+
+Cluster 84:
+	C0014556	Epilepsy, Temporal Lobe
+	C0393682	Epilepsy, Lateral Temporal
+	Number of diseases: 2
+
+
+Cluster 85:
+	C0014583	Episcleritis
+	C0027547	Necrotizing Scleritis
+	C0036416	Scleritis
+	Number of diseases: 3
+
+
+Cluster 86:
+	C0014804	Erythromelalgia
+	C0014805	Primary Erythermalgia
+	Number of diseases: 2
+
+
+Cluster 87:
+	C0015190	Euthyroid Sick Syndromes
+	C0024043	Low T3 Syndrome
+	Number of diseases: 2
+
+
+Cluster 88:
+	C0015624	Fanconi Syndrome
+	C0341703	Adult Fanconi syndrome
+	C1857395	De Toni-Debre-Fanconi Syndrome
+	C3495427	Fanconi-Bickel Syndrome
+	Number of diseases: 4
+
+
+Cluster 89:
+	C0015625	Fanconi Anemia
+	C0702159	Constitutional aplastic anemia
+	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)
+	Number of diseases: 3
+
+
+Cluster 90:
+	C0016034	Breast Fibrocystic Disease
+	C1527375	Cystic Breast Disease
+	Number of diseases: 2
+
+
+Cluster 91:
+	C0016037	Fibrodysplasia Ossificans Progressiva
+	C0027122	Myositis Ossificans
+	Number of diseases: 2
+
+
+Cluster 92:
+	C0016719	Friedreich Ataxia
+	C1847416	FRIEDREICH ATAXIA WITH RETAINED REFLEXES
+	C1856689	FRIEDREICH ATAXIA 1
+	Number of diseases: 3
+
+
+Cluster 93:
+	C0016781	Fuchs Endothelial Dystrophy
+	C0544008	Chandler syndrome
+	C1850959	Corneal dystrophy, Fuchs' endothelial, 1
+	C1857800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 2
+	Number of diseases: 4
+
+
+Cluster 94:
+	C0017495	Gerstmann-Straussler-Scheinker Disease
+	C2931022	Amyloidosis, Cerebral, with Spongiform Encephalopathy
+	C3805618	CEREBRAL AMYLOID ANGIOPATHY, PRNP-RELATED
+	Number of diseases: 3
+
+
+Cluster 95:
+	C0017577	Gingivosis
+	C1956089	Osteophyte
+	Number of diseases: 2
+
+
+Cluster 96:
+	C0017665	Membranous glomerulonephritis
+	C0086445	Idiopathic Membranous Glomerulonephritis
+	C1704378	Heymann Nephritis
+	Number of diseases: 3
+
+
+Cluster 97:
+	C0017668	Focal glomerulosclerosis
+	C0333497	Segmental glomerulosclerosis
+	C1858915	FOCAL SEGMENTAL GLOMERULOSCLEROSIS 2
+	C2750475	Focal Segmental Glomerulosclerosis 5
+	Number of diseases: 4
+
+
+Cluster 98:
+	C0018202	Granulomatous Angiitis
+	C0238051	Cerebral Angiitis
+	C0751878	Vasculitis, Central Nervous System
+	Number of diseases: 3
+
+
+Cluster 99:
+	C0018213	Graves Disease
+	C0040156	Thyrotoxicosis
+	C0342122	Toxic diffuse goiter
+	Number of diseases: 3
+
+
+Cluster 100:
+	C0018378	Guillain-Barre Syndrome
+	C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+	C3542501	Acute inflammatory demyelinating polyneuropathy
+	C4083008	Guillain-Barre Syndrome, Familial
+	Number of diseases: 4
+
+
+Cluster 101:
+	C0018784	Sensorineural Hearing Loss (disorder)
+	C1691779	Sensory hearing loss
+	Number of diseases: 2
+
+
+Cluster 102:
+	C0018801	Heart failure
+	C0018802	Congestive heart failure
+	C0023212	Left-Sided Heart Failure
+	C0235527	Heart Failure, Right-Sided
+	C1959583	Myocardial Failure
+	Number of diseases: 5
+
+
+Cluster 103:
+	C0019050	Hemoglobinuria, Paroxysmal
+	C0024790	Paroxysmal nocturnal hemoglobinuria
+	C3806670	PAROXYSMAL NOCTURNAL HEMOGLOBINURIA 1
+	Number of diseases: 3
+
+
+Cluster 104:
+	C0019061	Hemolytic-Uremic Syndrome
+	C1856143	HEMOLYTIC UREMIC SYNDROME, TYPICAL
+	Number of diseases: 2
+
+
+Cluster 105:
+	C0019147	Hepatic Coma
+	C0019151	Hepatic Encephalopathy
+	Number of diseases: 2
+
+
+Cluster 106:
+	C0019154	Hepatic Vein Thrombosis
+	C0856761	Budd-Chiari Syndrome
+	Number of diseases: 2
+
+
+Cluster 107:
+	C0019243	Angioedemas, Hereditary
+	C1857728	Hereditary Angioedema Type III
+	C1862892	Hereditary Angioedema Type II
+	C2717906	Hereditary Angioedema Type I
+	Number of diseases: 4
+
+
+Cluster 108:
+	C0019569	Hirschsprung Disease
+	C3661523	Congenital Intestinal Aganglionosis
+	Number of diseases: 2
+
+
+Cluster 109:
+	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1
+	C1842586	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux
+	C3150896	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE IC
+	C3150972	NEUROPATHY, HEREDITARY SENSORY, TYPE ID
+	C3279885	Hereditary Sensory and Autonomic Neuropathy Type Ie
+	Number of diseases: 5
+
+
+Cluster 110:
+	C0020072	Hereditary Sensory Autonomic Neuropathy, Type 2
+	C0020074	HSAN Type IV
+	C0020075	Hereditary Sensory Autonomic Neuropathy, Type 5
+	C0086405	Hereditary Sensory Radicular Neuropathy
+	C0699739	Sensory Neuropathy, Hereditary
+	Number of diseases: 5
+
+
+Cluster 111:
+	C0020179	Huntington Disease
+	C0393574	Huntington Disease, Late Onset
+	C0751208	Juvenile Huntington Disease
+	Number of diseases: 3
+
+
+Cluster 112:
+	C0020192	Hyaline Membrane Disease
+	C0035220	Respiratory Distress Syndrome, Newborn
+	C1968593	Respiratory Distress Syndrome In Premature Infants
+	Number of diseases: 3
+
+
+Cluster 113:
+	C0020302	Hydrophthalmos
+	C1856439	GLAUCOMA 3, PRIMARY CONGENITAL, A
+	C3278153	GLAUCOMA, PRIMARY OPEN ANGLE, JUVENILE-ONSET
+	Number of diseases: 3
+
+
+Cluster 114:
+	C0020428	Hyperaldosteronism
+	C1260386	Glucocorticoid-remediable aldosteronism
+	C1384514	Conn Syndrome
+	C1854107	Hyperaldosteronism, Familial, Type II
+	Number of diseases: 4
+
+
+Cluster 115:
+	C0020459	Hyperinsulinism
+	C1257965	Compensatory Hyperinsulinemia
+	Number of diseases: 2
+
+
+Cluster 116:
+	C0020540	Malignant Hypertension
+	C0155616	Secondary hypertension
+	Number of diseases: 2
+
+
+Cluster 117:
+	C0020550	Hyperthyroidism
+	C3714618	Primary Hyperthyroidism
+	Number of diseases: 2
+
+
+Cluster 118:
+	C0020615	Hypoglycemia
+	C0020617	Hypoglycemic coma
+	C0271710	Reactive hypoglycemia
+	Number of diseases: 3
+
+
+Cluster 119:
+	C0020619	Hypogonadism
+	C0271623	Hypogonadotropic hypogonadism
+	C0948896	Primary hypogonadism
+	Number of diseases: 3
+
+
+Cluster 120:
+	C0020626	Hypoparathyroidism
+	C0342342	Idiopathic Hypoparathyroidism
+	C0342345	Hypoparathyroidism - autosomal dominant
+	C1832648	Hypoparathyroidism familial isolated
+	C1840334	Hypoparathyroidism, Autosomal Recessive
+	Number of diseases: 5
+
+
+Cluster 121:
+	C0020635	Hypopituitarism
+	C0242342	Sheehan Syndrome
+	C0242343	Panhypopituitarism
+	Number of diseases: 3
+
+
+Cluster 122:
+	C0020757	Ichthyoses
+	C0043345	Xeroderma
+	C0154916	Rubeosis iridis
+	Number of diseases: 3
+
+
+Cluster 123:
+	C0021847	Intestinal Pseudo-Obstruction
+	C0042781	Visceral Myopathy
+	Number of diseases: 2
+
+
+Cluster 124:
+	C0022336	Creutzfeldt-Jakob disease
+	C0376329	New Variant Creutzfeldt-Jakob Disease
+	C0751254	Creutzfeldt-Jakob Disease, Familial
+	C1852467	Creutzfeldt-Jakob Disease, Sporadic
+	Number of diseases: 4
+
+
+Cluster 125:
+	C0022541	Kearns-Sayre syndrome
+	C2931928	Mitochondrial cytopathy
+	Number of diseases: 2
+
+
+Cluster 126:
+	C0022578	Keratoconus
+	C1835677	Keratoconus 1
+	Number of diseases: 2
+
+
+Cluster 127:
+	C0022595	Keratosis Follicularis
+	C0265971	Acrokeratosis Verruciformis of Hopf
+	C1852296	Darier Disease, Acral Hemorrhagic Type
+	C1852297	Darier Disease, Segmental
+	Number of diseases: 4
+
+
+Cluster 128:
+	C0022603	Seborrheic keratosis
+	C0030807	Pemphigus
+	C0030809	Pemphigus Vulgaris
+	C0085106	Familial benign pemphigus
+	C0263313	Pemphigus Foliaceus
+	Number of diseases: 5
+
+
+Cluster 129:
+	C0022650	Kidney Calculi
+	C1833683	NEPHROLITHIASIS, CALCIUM OXALATE
+	Number of diseases: 2
+
+
+Cluster 130:
+	C0022661	Kidney Failure, Chronic
+	C3695318	Chronic kidney disease due to hypertension
+	Number of diseases: 2
+
+
+Cluster 131:
+	C0023381	Letterer-Siwe Disease
+	C1455705	Pulmonary Histiocytosis X
+	Number of diseases: 2
+
+
+Cluster 132:
+	C0023529	Leukomalacia, Periventricular
+	C0751280	Cystic Periventricular Leukomalacia
+	Number of diseases: 2
+
+
+Cluster 133:
+	C0023786	Mucopolysaccharidosis I
+	C0026708	Mucopolysaccharidosis V
+	C0086431	Hurler-Scheie Syndrome
+	C0086795	Pfaundler-Hurler Syndrome
+	C2713321	alpha-L-Iduronidase Deficiency
+	Number of diseases: 5
+
+
+Cluster 134:
+	C0023787	Lipodystrophy
+	C1720862	Congenital Generalized Lipodystrophy Type 1
+	C2675861	Lipodystrophy, Congenital Generalized, Type 3
+	C2750069	Lipodystrophy, Congenital Generalized, Type 4
+	Number of diseases: 4
+
+
+Cluster 135:
+	C0023890	Liver Cirrhosis
+	C0156189	Cirrhosis and chronic liver disease
+	C0239946	Fibrosis, Liver
+	Number of diseases: 3
+
+
+Cluster 136:
+	C0023931	Lobstein's Disease
+	C0029434	Osteogenesis Imperfecta
+	Number of diseases: 2
+
+
+Cluster 137:
+	C0024198	Lyme Disease
+	C0242381	Lyme Arthritis
+	Number of diseases: 2
+
+
+Cluster 138:
+	C0024236	Lymphedema
+	C1704423	Milroy Disease
+	Number of diseases: 2
+
+
+Cluster 139:
+	C0024291	Lymphohistiocytosis, Hemophagocytic
+	C1837174	HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 3
+	C1863727	HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 2
+	C1863728	Hemophagocytic lymphohistiocytosis, familial, 4
+	C3887558	Hemophagocytic Syndrome
+	Number of diseases: 5
+
+
+Cluster 140:
+	C0024408	Machado-Joseph Disease
+	C0751668	Machado-Joseph Disease Type I
+	C0751669	Machado-Joseph Disease Type II
+	C0751670	Machado-Joseph Disease Type III
+	Number of diseases: 4
+
+
+Cluster 141:
+	C0024894	Mastitis
+	C3495439	Inflammatory disorder of breast
+	Number of diseases: 2
+
+
+Cluster 142:
+	C0025183	Meige Syndrome
+	C0152115	Lingual-Facial-Buccal Dyskinesia
+	Number of diseases: 2
+
+
+Cluster 143:
+	C0025237	Melnick-Needles Syndrome
+	C0036391	Schwartz-Jampel Syndrome
+	C0038015	Spondyloepiphyseal Dysplasia
+	C0432272	Van Buchem disease
+	C1832998	EPIPHYSEAL DYSPLASIA, MULTIPLE, 3
+	C1838280	Epiphyseal dysplasia, multiple, 1
+	C1838429	Epiphyseal dysplasia, multiple, 2
+	C1846843	EPIPHYSEAL DYSPLASIA, MULTIPLE, 5
+	C1847593	EPIPHYSEAL DYSPLASIA, MULTIPLE, 4
+	C3152083	EPIPHYSEAL DYSPLASIA, MULTIPLE, 3, WITH MYOPATHY
+	Number of diseases: 10
+
+
+Cluster 144:
+	C0025239	Melorheostosis
+	C3149631	MELORHEOSTOSIS, ISOLATED
+	Number of diseases: 2
+
+
+Cluster 145:
+	C0025290	Aseptic Meningitis
+	C0025297	Viral meningitis
+	Number of diseases: 2
+
+
+Cluster 146:
+	C0025322	Premature Menopause
+	C0085215	Ovarian Failure, Premature
+	C0086367	Gonadotropin-Resistant Ovary Syndrome
+	C3494522	Hypergonadotropic Ovarian Failure, X-Linked
+	Number of diseases: 4
+
+
+Cluster 147:
+	C0026269	Mitral Valve Stenosis
+	C0264766	Rheumatic mitral stenosis
+	Number of diseases: 2
+
+
+Cluster 148:
+	C0026691	Mucocutaneous Lymph Node Syndrome
+	C2936917	Infantile polyarteritis
+	Number of diseases: 2
+
+
+Cluster 149:
+	C0026847	Spinal Muscular Atrophy
+	C0043116	HMN (Hereditary Motor Neuropathy) Proximal Type I
+	C0152109	Juvenile Spinal Muscular Atrophy
+	C0393538	Muscular Atrophy, Spinal, Type II
+	C0700595	Spinal Muscular Atrophies of Childhood
+	C1838230	SPINAL MUSCULAR ATROPHY, TYPE IV
+	Number of diseases: 6
+
+
+Cluster 150:
+	C0026896	Myasthenia Gravis
+	C0751339	Myasthenia Gravis, Generalized
+	C0751340	Myasthenia Gravis, Ocular
+	Number of diseases: 3
+
+
+Cluster 151:
+	C0027051	Myocardial Infarction
+	C0155626	Acute myocardial infarction
+	Number of diseases: 2
+
+
+Cluster 152:
+	C0027059	Myocarditis
+	C0155686	Acute myocarditis
+	C0869523	Carditis
+	Number of diseases: 3
+
+
+Cluster 153:
+	C0027126	Myotonic Dystrophy
+	C0410226	Congenital Myotonic Dystrophy
+	C2931689	Dystrophia myotonica 2
+	C3250443	MYOTONIC DYSTROPHY 1
+	Number of diseases: 4
+
+
+Cluster 154:
+	C0027127	Myotonia Congenita
+	C0270959	Myotonia Levior
+	C0751360	Becker Generalized Myotonia
+	C2936781	Generalized Myotonia of Thomsen
+	Number of diseases: 4
+
+
+Cluster 155:
+	C0027707	Nephritis, Interstitial
+	C0041349	Nephritis, Tubulointerstitial
+	Number of diseases: 2
+
+
+Cluster 156:
+	C0027822	Neurodermatitis
+	C0149922	Lichen Simplex Chronicus
+	Number of diseases: 2
+
+
+Cluster 157:
+	C0028738	Nystagmus
+	C0240595	Rotary Nystagmus
+	C0271382	Periodic Alternating Nystagmus
+	C0271385	Horizontal Nystagmus
+	C0271386	Vertical Nystagmus
+	C0271388	Pendular Nystagmus
+	Number of diseases: 6
+
+
+Cluster 158:
+	C0029401	Osteitis Deformans
+	C4085251	PAGET DISEASE OF BONE 2, EARLY-ONSET
+	Number of diseases: 2
+
+
+Cluster 159:
+	C0029405	Osteitis Fibrosa Cystica
+	C0221002	Hyperparathyroidism, Primary
+	Number of diseases: 2
+
+
+Cluster 160:
+	C0029421	Osteochondritis Dissecans
+	C3665488	Familial Osteochondritis Dissecans
+	Number of diseases: 2
+
+
+Cluster 161:
+	C0029454	Osteopetrosis
+	C1850127	Osteopetrosis, Autosomal Recessive 1
+	C3179239	Osteopetrosis Autosomal Dominant Type 2
+	C3645711	Congenital Osteopetrosis
+	Number of diseases: 4
+
+
+Cluster 162:
+	C0029899	Otosclerosis
+	C1854022	OTOSCLEROSIS 2
+	Number of diseases: 2
+
+
+Cluster 163:
+	C0030246	Pustulosis of Palms and Soles
+	C0033860	Psoriasis
+	Number of diseases: 2
+
+
+Cluster 164:
+	C0030442	Progressive bulbar palsy
+	C4082299	Bulbar palsy
+	Number of diseases: 2
+
+
+Cluster 165:
+	C0030443	Familial Periodic Paralysis
+	C0238357	Hyperkalemic periodic paralysis
+	Number of diseases: 2
+
+
+Cluster 166:
+	C0030446	Paralytic Ileus
+	C1258215	Ileus
+	Number of diseases: 2
+
+
+Cluster 167:
+	C0030489	Paraproteinemias
+	C1136084	Plasma cell dyscrasia
+	Number of diseases: 2
+
+
+Cluster 168:
+	C0030567	Parkinson Disease
+	C1838867	PARKINSON DISEASE, MITOCHONDRIAL (disorder)
+	C3160718	PARKINSON DISEASE, LATE-ONSET
+	Number of diseases: 3
+
+
+Cluster 169:
+	C0030804	Pemphigoid, Benign Mucous Membrane
+	C1282359	Ocular Cicatricial Pemphigoid
+	Number of diseases: 2
+
+
+Cluster 170:
+	C0030920	Peptic Ulcer
+	C0038358	Gastric ulcer
+	Number of diseases: 2
+
+
+Cluster 171:
+	C0031036	Polyarteritis Nodosa
+	C0553548	Necrotizing Arteritis
+	Number of diseases: 2
+
+
+Cluster 172:
+	C0031039	Pericardial effusion
+	C0265122	Disorder of pericardium
+	Number of diseases: 2
+
+
+Cluster 173:
+	C0031046	Pericarditis
+	C0031048	Pericarditis, Constrictive
+	Number of diseases: 2
+
+
+Cluster 174:
+	C0031099	Periodontitis
+	C0034219	Alveolar pyorrhea
+	Number of diseases: 2
+
+
+Cluster 175:
+	C0031556	Phlegmasia Alba Dolens
+	C0040046	Thrombophlebitis
+	Number of diseases: 2
+
+
+Cluster 176:
+	C0032197	Platelet Storage Pool Deficiency
+	C0242597	Leukocyte-Adhesion Deficiency Syndrome
+	Number of diseases: 2
+
+
+Cluster 177:
+	C0032285	Pneumonia
+	C0032300	Lobar Pneumonia
+	C3714636	Pneumonitis
+	Number of diseases: 3
+
+
+Cluster 178:
+	C0032586	Polyradiculopathy
+	C0936251	Polyradiculitis
+	Number of diseases: 2
+
+
+Cluster 179:
+	C0032915	Preexcitation Syndrome
+	C0043202	Wolff-Parkinson-White Syndrome
+	Number of diseases: 2
+
+
+Cluster 180:
+	C0034050	Pulmonary Alveolar Proteinosis
+	C1968602	Surfactant Metabolism Dysfunction, Pulmonary, 1
+	C1970456	Surfactant Metabolism Dysfunction, Pulmonary, 3
+	C1970470	SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 2 (disorder)
+	Number of diseases: 4
+
+
+Cluster 181:
+	C0034065	Pulmonary Embolism
+	C0524702	Pulmonary Thromboembolisms
+	Number of diseases: 2
+
+
+Cluster 182:
+	C0034068	Pulmonary Eosinophilia
+	C0242459	Simple Pulmonary Eosinophilia
+	C1527407	Eosinophilic Pneumonia
+	Number of diseases: 3
+
+
+Cluster 183:
+	C0034069	Pulmonary Fibrosis
+	C0085786	Hamman-Rich syndrome
+	C1800706	Idiopathic Pulmonary Fibrosis
+	Number of diseases: 3
+
+
+Cluster 184:
+	C0034089	Pulmonary Valve Stenosis
+	C1956257	Pulmonary Stenosis
+	Number of diseases: 2
+
+
+Cluster 185:
+	C0034091	Pulmonary Veno-Occlusive Disease (disorder)
+	C3887658	PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT
+	Number of diseases: 2
+
+
+Cluster 186:
+	C0034155	Purpura, Thrombotic Thrombocytopenic
+	C1268935	Congenital Thrombotic Thrombocytopenic Purpura
+	C1956258	Familial Thrombotic Thrombocytopenic Purpura
+	Number of diseases: 3
+
+
+Cluster 187:
+	C0034186	Pyelonephritis
+	C0085697	Chronic pyelonephritis
+	C0520575	Acute pyelonephritis
+	Number of diseases: 3
+
+
+Cluster 188:
+	C0034372	Quadriplegia
+	C0426970	Spastic Quadriplegia
+	Number of diseases: 2
+
+
+Cluster 189:
+	C0034734	Raynaud Disease
+	C0034735	Raynaud Phenomenon
+	Number of diseases: 2
+
+
+Cluster 190:
+	C0034931	Reflex Sympathetic Dystrophy
+	C0458219	Complex Regional Pain Syndromes
+	Number of diseases: 2
+
+
+Cluster 191:
+	C0035066	Renal Artery Obstruction
+	C0035067	Renal Artery Stenosis
+	Number of diseases: 2
+
+
+Cluster 192:
+	C0035078	Kidney Failure
+	C0041948	Uremia
+	Number of diseases: 2
+
+
+Cluster 193:
+	C0035305	Retinal Detachment
+	C0339546	Retinal Pigment Epithelial Detachment
+	Number of diseases: 2
+
+
+Cluster 194:
+	C0035344	Retinopathy of Prematurity
+	C1851402	Exudative vitreoretinopathy 1
+	Number of diseases: 2
+
+
+Cluster 195:
+	C0035457	Rhinitis, Allergic, Perennial
+	C2607914	Allergic rhinitis (disorder)
+	Number of diseases: 2
+
+
+Cluster 196:
+	C0035854	Rosacea
+	C1275718	Granulomatous rosacea
+	C1449853	Papulopustular Rosacea
+	Number of diseases: 3
+
+
+Cluster 197:
+	C0036420	Localized scleroderma
+	C0036421	Systemic Scleroderma
+	Number of diseases: 2
+
+
+Cluster 198:
+	C0037199	Sinusitis
+	C0149516	Chronic sinusitis
+	Number of diseases: 2
+
+
+Cluster 199:
+	C0037769	West Syndrome
+	C0393698	Cryptogenic Infantile Spasms
+	C0393699	Symptomatic Infantile Spasms
+	C1527366	Salaam Seizures
+	C3463992	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1
+	Number of diseases: 5
+
+
+Cluster 200:
+	C0037773	Spastic Paraplegia, Hereditary
+	C0751602	Hereditary Autosomal Dominant Spastic Paraplegia
+	C1839264	SPASTIC PARAPLEGIA 2, X-LINKED (disorder)
+	Number of diseases: 3
+
+
+Cluster 201:
+	C0037889	Hereditary spherocytosis
+	C2674218	SPHEROCYTOSIS, TYPE 1 (disorder)
+	Number of diseases: 2
+
+
+Cluster 202:
+	C0038220	Status Epilepticus
+	C0270823	Petit mal status
+	Number of diseases: 2
+
+
+Cluster 203:
+	C0038362	Stomatitis
+	C1568868	Oral Mucositis
+	Number of diseases: 2
+
+
+Cluster 204:
+	C0039103	Synovitis
+	C0410574	Synovial Hypertrophy
+	Number of diseases: 2
+
+
+Cluster 205:
+	C0039446	Telangiectasis
+	C0154835	Retinal telangiectasia
+	Number of diseases: 2
+
+
+Cluster 206:
+	C0039483	Giant Cell Arteritis
+	C1956390	Cranial Arteritis
+	C1956391	Temporal Arteritis
+	Number of diseases: 3
+
+
+Cluster 207:
+	C0039503	Tendinitis
+	C0242490	Enthesopathy
+	C1568272	Tendinopathy
+	C1568363	Tendinosis
+	Number of diseases: 4
+
+
+Cluster 208:
+	C0039585	Androgen-Insensitivity Syndrome
+	C0268301	Reifenstein Syndrome
+	C0936016	Testicular Feminization
+	C2713546	Androgen Receptor Deficiency
+	Number of diseases: 4
+
+
+Cluster 209:
+	C0040028	Thrombocythemia, Essential
+	C1845888	THROMBOCYTHEMIA, X-LINKED
+	C3275998	THROMBOCYTHEMIA 2
+	C3277671	THROMBOCYTHEMIA 1
+	C3281125	THROMBOCYTHEMIA 3
+	Number of diseases: 5
+
+
+Cluster 210:
+	C0041408	Turner Syndrome
+	C0242526	Gonadal Dysgenesis, 45,X
+	Number of diseases: 2
+
+
+Cluster 211:
+	C0079136	Cockayne-Touraine Disease
+	C0079294	Epidermolysis Bullosa Dystrophica
+	C0079474	Hallopeau-Siemens Disease
+	Number of diseases: 3
+
+
+Cluster 212:
+	C0079295	Epidermolysis Bullosa Herpetiformis Dowling-Meara
+	C0079298	Epidermolysis Bullosa Simplex
+	C0080333	Weber-Cockayne Syndrome
+	Number of diseases: 3
+
+
+Cluster 213:
+	C0079301	Junctional Epidermolysis Bullosa
+	C0079683	Herlitz Disease
+	C0268374	Adult junctional epidermolysis bullosa (disorder)
+	C1856934	Epidermolysis bullosa with pyloric atresia
+	C2608084	EPIDERMOLYSIS BULLOSA, JUNCTIONAL, LOCALISATA VARIANT (disorder)
+	C2673609	Epidermolysis bullosa inversa dystrophica
+	Number of diseases: 6
+
+
+Cluster 214:
+	C0085110	Severe Combined Immunodeficiency
+	C0242583	Bare Lymphocyte Syndrome
+	C2700553	Omenn Syndrome
+	C2931884	Reticuloendotheliosis, familial, with eosinophilia
+	Number of diseases: 4
+
+
+Cluster 215:
+	C0085278	Antiphospholipid Syndrome
+	C2930802	Familial antiphospholipid syndrome
+	Number of diseases: 2
+
+
+Cluster 216:
+	C0085292	Stiff-Person Syndrome
+	C1861457	PROGRESSIVE ENCEPHALOMYELITIS WITH RIGIDITY
+	C4084968	Hereditary Hyperekplexia
+	Number of diseases: 3
+
+
+Cluster 217:
+	C0085413	Polycystic Kidney, Autosomal Dominant
+	C0311245	Congenital cystic kidney disease
+	C2751306	Polycystic kidney disease, type 2
+	C3149841	POLYCYSTIC KIDNEY DISEASE 1
+	Number of diseases: 4
+
+
+Cluster 218:
+	C0085859	Polyglandular Type I Autoimmune Syndrome
+	C0085860	Autoimmune Syndrome Type II, Polyglandular
+	C1855869	Autoimmune Polyendocrinopathy Syndrome, Type I, Autosomal Dominant
+	Number of diseases: 3
+
+
+Cluster 219:
+	C0086981	Sicca Syndrome
+	C1527336	Sjogren's Syndrome
+	Number of diseases: 2
+
+
+Cluster 220:
+	C0087012	Ataxia, Spinocerebellar
+	C0752120	Spinocerebellar Ataxia Type 1
+	C0752121	Spinocerebellar Ataxia Type 2
+	C0752122	Spinocerebellar Ataxia Type 4
+	C0752123	Spinocerebellar Ataxia Type 5
+	C0752124	Spinocerebellar Ataxia Type 6 (disorder)
+	C0752125	Spinocerebellar Ataxia Type 7
+	Number of diseases: 7
+
+
+Cluster 221:
+	C0152025	Polyneuropathy
+	C0271683	Polyneuropathy, Motor
+	C0751448	Polyneuropathy, Familial
+	Number of diseases: 3
+
+
+Cluster 222:
+	C0152171	Idiopathic pulmonary hypertension
+	C1969342	PULMONARY HYPERTENSION, PRIMARY, DEXFENFLURAMINE-ASSOCIATED
+	C1969343	Pulmonary Hypertension, Primary, Fenfluramine-Associated
+	C3203102	Idiopathic pulmonary arterial hypertension
+	C3714844	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia
+	Number of diseases: 5
+
+
+Cluster 223:
+	C0152200	Achromatopsia
+	C0155015	Color Blindness, Red
+	C0155016	Color Blindness, Red-Green
+	C0155017	Color Blindness, Blue
+	C0242225	Color blindness
+	Number of diseases: 5
+
+
+Cluster 224:
+	C0152222	Parinaud Syndrome
+	C0242567	Opsoclonus
+	Number of diseases: 2
+
+
+Cluster 225:
+	C0154681	Anterior Horn Cell Disease
+	C0154682	Lateral Sclerosis
+	C0270763	Familial Motor Neuron Disease
+	C0270764	Motor Neuron Disease, Lower
+	C0521659	Motor Neuron Disease, Upper
+	C1135993	Wasting Disease, Chronic
+	C1721005	Leukokeratosis, Hereditary Mucosal
+	C1968845	Primary Lateral Sclerosis, Adult, 1
+	C4011926	WHITE SPONGE NEVUS 1
+	Number of diseases: 9
+
+
+Cluster 226:
+	C0162309	Adrenoleukodystrophy
+	C1527231	Adrenomyeloneuropathy
+	C3550234	PEROXISOME BIOGENESIS DISORDER 2B
+	Number of diseases: 3
+
+
+Cluster 227:
+	C0162538	Immunoglobulin A deficiency (disorder)
+	C2931161	Immunoglobulin a deficiency 1
+	C4049006	Selective immunoglobulin A deficiency
+	Number of diseases: 3
+
+
+Cluster 228:
+	C0162566	Porphyria Cutanea Tarda
+	C0162569	Hepatoerythropoietic Porphyria
+	C0268323	Familial porphyria cutanea tarda
+	Number of diseases: 3
+
+
+Cluster 229:
+	C0162809	Kallmann Syndrome
+	C0342384	Idiopathic hypogonadotropic hypogonadism
+	C1563719	Kallmann Syndrome 1
+	C1563720	Kallmann Syndrome 2 (disorder)
+	C2930927	Kallmann syndrome, type 3, recessive
+	C3489396	Hypogonadism, Isolated Hypogonadotropic
+	C3550478	HYPOGONADOTROPIC HYPOGONADISM 3 WITH OR WITHOUT ANOSMIA
+	Number of diseases: 7
+
+
+Cluster 230:
+	C0162871	Aortic Aneurysm, Abdominal
+	C1853365	AORTIC ANEURYSM, FAMILIAL ABDOMINAL 1
+	Number of diseases: 2
+
+
+Cluster 231:
+	C0162872	Aortic Aneurysm, Thoracic
+	C0392775	Cystic medial necrosis of aorta
+	Number of diseases: 2
+
+
+Cluster 232:
+	C0175709	Centronuclear myopathy
+	C0410207	Tubular Aggregate Myopathy
+	C0752282	Congenital Structural Myopathy
+	C1834558	Myopathy, Centronuclear, Autosomal Dominant
+	C3645536	Autosomal Recessive Centronuclear Myopathy
+	Number of diseases: 5
+
+
+Cluster 233:
+	C0205710	Alpers Syndrome (disorder)
+	C1849096	Infantile onset spinocerebellar ataxia
+	Number of diseases: 2
+
+
+Cluster 234:
+	C0205711	Pelizaeus-Merzbacher Disease
+	C0751915	Pelizaeus-Merzbacher Disease, Atypical
+	C0751916	Classic Pelizaeus-Merzbacher Disease
+	C0751917	Pelizaeus-Merzbacher Disease, Transitional
+	Number of diseases: 4
+
+
+Cluster 235:
+	C0205730	Hereditary Opalescent Dentin (disorder)
+	C2931244	Craniometaphyseal dysplasia, autosomal recessive type
+	C2973527	Dentinogenesis imperfecta without osteogenesis imperfecta
+	C4049050	Opalescent dentin
+	Number of diseases: 4
+
+
+Cluster 236:
+	C0206157	Myopathies, Nemaline
+	C0546125	Nemaline Myopathy, Childhood Onset
+	C0751656	Nemaline Myopathy, Autosomal Dominant
+	C0751657	Nemaline Myopathy, Autosomal Recessive
+	C1834336	Nemaline myopathy 3
+	C1834339	Myopathy, Actin, Congenital, with Excess of Thin Myofilaments
+	C1836448	Nemaline myopathy 1
+	C1850569	Nemaline Myopathy 2
+	C1854380	NEMALINE MYOPATHY 5
+	C2750537	Myopathy, Actin, Congenital, With Cores
+	Number of diseases: 10
+
+
+Cluster 237:
+	C0206307	Canavan Disease
+	C3542499	Aminoacylase 2 Deficiency
+	Number of diseases: 2
+
+
+Cluster 238:
+	C0220662	ARTHROGRYPOSIS, DISTAL, TYPE 1
+	C1834523	ARTHROGRYPOSIS, DISTAL, TYPE 2B
+	C1862472	Oculomelic amyoplasia
+	Number of diseases: 3
+
+
+Cluster 239:
+	C0220669	Familial benign neonatal epilepsy
+	C0270851	Benign neonatal epilepsy
+	C1843140	SEIZURES, BENIGN FAMILIAL INFANTILE, 3
+	C1852581	EPILEPSY, BENIGN NEONATAL, 2
+	C3149074	SEIZURES, BENIGN FAMILIAL NEONATAL, 1
+	C3149075	SEIZURES, BENIGN FAMILIAL NEONATAL, 1, AND/OR MYOKYMIA
+	Number of diseases: 6
+
+
+Cluster 240:
+	C0220756	Niemann-Pick Disease, Type C
+	C0268247	Niemann-Pick Disease, Type D
+	C1843366	NIEMANN-PICK DISEASE, TYPE C2
+	C3179455	Niemann-Pick Disease, Type C1
+	Number of diseases: 4
+
+
+Cluster 241:
+	C0220766	Congenital hypoplasia of adrenal gland
+	C0342482	X-linked adrenal hypoplasia congenita
+	Number of diseases: 2
+
+
+Cluster 242:
+	C0221054	Welander Distal Myopathy
+	C1450052	Tibial Muscular Dystrophy
+	C1838244	TIBIAL MUSCULAR DYSTROPHY, TARDIVE
+	C1847532	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET
+	C1850808	Miyoshi myopathy
+	Number of diseases: 5
+
+
+Cluster 243:
+	C0221055	Paramyotonia Congenita (disorder)
+	C0752355	Myotonia Fluctuans (disorder)
+	Number of diseases: 2
+
+
+Cluster 244:
+	C0221056	Adult type dermatomyositis
+	C0263666	Dermatomyositis, Childhood Type
+	Number of diseases: 2
+
+
+Cluster 245:
+	C0221759	Brachial Plexus Neuritis
+	C1510479	Neuralgic Amyotrophy
+	C1834304	AMYOTROPHY, HEREDITARY NEURALGIC
+	Number of diseases: 3
+
+
+Cluster 246:
+	C0238190	Inclusion Body Myositis (disorder)
+	C0751713	Inclusion Body Myopathy, Sporadic
+	Number of diseases: 2
+
+
+Cluster 247:
+	C0238288	Muscular Dystrophy, Facioscapulohumeral
+	C1834671	FACIOSCAPULOHUMERAL MUSCULAR DYSTROPHY 1B
+	C1834673	Facioscapulohumeral muscular dystrophy 1a
+	Number of diseases: 3
+
+
+Cluster 248:
+	C0238358	Hypokalemic periodic paralysis
+	C1279412	periodic paralysis (finding)
+	Number of diseases: 2
+
+
+Cluster 249:
+	C0239849	Harlequin Fetus
+	C0598226	Harlequin type ichthyosis
+	C3536797	Ichthyosis Congenita II
+	Number of diseases: 3
+
+
+Cluster 250:
+	C0265221	Walker-Warburg congenital muscular dystrophy
+	C0410174	Fukuyama Type Congenital Muscular Dystrophy
+	C3151519	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 3
+	Number of diseases: 3
+
+
+Cluster 251:
+	C0268242	Niemann-Pick Disease, Type A
+	C0268243	Niemann-Pick Disease, Type B
+	C2675646	NIEMANN-PICK DISEASE, INTERMEDIATE, PROTRACTED NEUROVISCERAL (disorder)
+	Number of diseases: 3
+
+
+Cluster 252:
+	C0268312	Progressive intrahepatic cholestasis (disorder)
+	C1865643	Cholestasis, progressive familial intrahepatic 3
+	C2931067	Cholestasis, progressive familial intrahepatic 4
+	C3489789	Cholestasis, Progressive Familial Intrahepatic, 2
+	Number of diseases: 4
+
+
+Cluster 253:
+	C0268435	Renal Tubular Acidosis, Type II
+	C1704380	Distal Renal Tubular Acidosis
+	Number of diseases: 2
+
+
+Cluster 254:
+	C0270736	Essential Tremor
+	C0393615	Familial Tremor
+	C1860861	TREMOR, HEREDITARY ESSENTIAL, 1
+	C1865810	TREMOR, HEREDITARY ESSENTIAL, 2
+	Number of diseases: 4
+
+
+Cluster 255:
+	C0270968	Limb-girdle muscular dystrophy type 2H
+	C0410173	Severe autosomal recessive muscular dystrophy of childhood - North African type (disorder)
+	C1299884	Eosinophilic myositis (disorder)
+	C1832525	Limb-girdle muscular dystrophy type 2F
+	C1832567	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1C
+	C1834653	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B (disorder)
+	C1834659	Muscular dystrophy, limb-girdle, type 1A
+	C1836373	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2K
+	C1836765	LIMB-GIRDLE MUSCULAR DYSTROPHY, TYPE 1G (disorder)
+	C1837342	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J
+	C1842062	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1F
+	C1846672	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2I
+	C1850889	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2B
+	C1858593	Limb-girdle muscular dystrophy, type 2E
+	C1866008	Muscular Dystrophy, Limb-Girdle, Type 2G
+	C1869123	Limb-girdle muscular dystrophy type 2A
+	C1969040	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2M
+	C1969785	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2L (disorder)
+	C2936332	Alpha-Sarcoglycanopathies
+	C3148763	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1E
+	Number of diseases: 20
+
+
+Cluster 256:
+	C0272236	Hyperimmunoglobulin M syndrome
+	C1720956	Hyper-IgM Immunodeficiency Syndrome, Type 2
+	C1720957	Hyper-IgM Immunodeficiency Syndrome, Type 3
+	C1720958	Hyper-IgM Immunodeficiency Syndrome, Type 5
+	Number of diseases: 4
+
+
+Cluster 257:
+	C0272375	Antithrombin III Deficiency
+	C3658294	Hereditary Antithrombin Deficiency
+	Number of diseases: 2
+
+
+Cluster 258:
+	C0278110	Hemiplegia, Crossed
+	C0392550	Hemiplegia, Infantile
+	Number of diseases: 2
+
+
+Cluster 259:
+	C0282488	Interstitial Cystitis
+	C0600040	Chronic interstitial cystitis
+	C1720830	Painful Bladder Syndrome
+	Number of diseases: 3
+
+
+Cluster 260:
+	C0338451	Frontotemporal dementia
+	C0520716	Pallidopontonigral degeneration
+	C1838313	Pick Complex
+	C3888102	Frontotemporal Dementia With Motor Neuron Disease
+	Number of diseases: 4
+
+
+Cluster 261:
+	C0339510	Vitelliform Macular Dystrophy
+	C1842914	Adult-Onset Vitelliform Macular Dystrophy
+	C2745945	Juvenile-Onset Vitelliform Macular Dystrophy
+	Number of diseases: 3
+
+
+Cluster 262:
+	C0343065	Symptomatic dermographism
+	C1852145	Familial dermographism
+	Number of diseases: 2
+
+
+Cluster 263:
+	C0349788	Arrhythmogenic Right Ventricular Dysplasia
+	C1862511	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 1 (disorder)
+	Number of diseases: 2
+
+
+Cluster 264:
+	C0376532	Epilepsy, Rolandic
+	C1832814	Rolandic Epilepsy, Mental Retardation, And Speech Dyspraxia, Autosomal Dominant
+	C2363129	Benign Rolandic Epilepsy
+	C3806402	EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT MENTAL RETARDATION
+	C3806403	CONTINUOUS SPIKE AND WAVES DURING SLOW-WAVE SLEEP SYNDROME
+	Number of diseases: 5
+
+
+Cluster 265:
+	C0393541	Distal Spinal Muscular Atrophy
+	C0393547	Bulbospinal Neuronopathy
+	C0751335	Scapuloperoneal Form of Spinal Muscular Atrophy
+	C0917981	Progressive Muscular Atrophy
+	C3661519	Hereditary Motor Neuronopathy
+	Number of diseases: 5
+
+
+Cluster 266:
+	C0403399	Finnish congenital nephrotic syndrome
+	C1853124	NEPHROTIC SYNDROME, TYPE 3
+	C1868672	NEPHROTIC SYNDROME, STEROID-RESISTANT, AUTOSOMAL RECESSIVE
+	C3151568	NEPHROTIC SYNDROME, TYPE 4
+	C3280113	NEPHROTIC SYNDROME, TYPE 5, WITH OR WITHOUT OCULAR ABNORMALITIES
+	C3496337	Idiopathic Nephrotic Syndrome
+	C3554330	NEPHROTIC SYNDROME, TYPE 7
+	C3808953	NEPHROTIC SYNDROME, TYPE 8
+	C3809965	NEPHROTIC SYNDROME, TYPE 9
+	C4014507	NEPHROTIC SYNDROME, TYPE 10
+	Number of diseases: 10
+
+
+Cluster 267:
+	C0409667	Juvenile Chronic Polyarthritis
+	C1858558	Rheumatoid Arthritis, Systemic Juvenile
+	Number of diseases: 2
+
+
+Cluster 268:
+	C0410179	Scleroatonic muscular dystrophy
+	C0410422	Chronic multifocal osteomyelitis
+	C0740376	Middle Cerebral Artery Thrombosis
+	C0740392	Infarction, Middle Cerebral Artery
+	Number of diseases: 4
+
+
+Cluster 269:
+	C0410189	Muscular Dystrophy, Emery-Dreifuss
+	C0410190	Autosomal Dominant Emery-Dreifuss Muscular Dystrophy (disorder)
+	C0751337	X-Linked Emery-Dreifuss Muscular Dystrophy
+	C1450051	Autosomal Recessive Emery-Dreifuss Muscular Dystrophy
+	Number of diseases: 4
+
+
+Cluster 270:
+	C0428791	Aortic valve calcification
+	C1260873	Aortic valve disorder
+	C3887892	Aortic Valve Disease 1
+	Number of diseases: 3
+
+
+Cluster 271:
+	C0494261	Combined immunodeficiency
+	C1279481	X-Linked Combined Immunodeficiency Diseases
+	Number of diseases: 2
+
+
+Cluster 272:
+	C0553730	Calcium pyrophosphate deposition disease
+	C0856830	Calcium pyrophosphate arthropathy
+	C1833499	CHONDROCALCINOSIS WITH EARLY-ONSET OSTEOARTHRITIS (disorder)
+	Number of diseases: 3
+
+
+Cluster 273:
+	C0677501	Congenital Nephrogenic Diabetes Insipidus
+	C1563706	Nephrogenic Diabetes Insipidus, Type II
+	Number of diseases: 2
+
+
+Cluster 274:
+	C0733682	Hypophosphatemic Rickets, X-Linked Dominant
+	C1845168	Hypophosphatemic Rickets, X-Linked Recessive
+	C3536983	Familial Hypophosphatemic Rickets
+	C3536984	Vitamin D-Resistant Rickets, X-Linked
+	C3540852	Rickets, X-Linked Hypophosphatemic
+	Number of diseases: 5
+
+
+Cluster 275:
+	C0751587	CADASIL Syndrome
+	C1847967	OVARIOLEUKODYSTROPHY
+	C1857813	Macular Degeneration, Age-Related, 7
+	C1858991	Childhood Ataxia with Central Nervous System Hypomyelinization
+	Number of diseases: 4
+
+
+Cluster 276:
+	C0751778	Myoclonic Epilepsies, Progressive
+	C0751779	Action Myoclonus-Renal Failure Syndrome
+	C0751781	Dentatorubral-Pallidoluysian Atrophy
+	Number of diseases: 3
+
+
+Cluster 277:
+	C0751783	Lafora Disease
+	C1850764	EPILEPSY, PROGRESSIVE MYOCLONIC 2B
+	Number of diseases: 2
+
+
+Cluster 278:
+	C0751882	Myasthenic Syndromes, Congenital
+	C0751883	Congenital Myasthenic Syndromes, Postsynaptic
+	C0751884	Congenital Myasthenic Syndromes, Presynaptic
+	C0751885	Myasthenic Syndromes, Congenital, Slow Channel
+	Number of diseases: 4
+
+
+Cluster 279:
+	C0751951	Central Core Myopathy (disorder)
+	C2674259	NEUROMUSCULAR DISEASE, CONGENITAL, WITH UNIFORM TYPE 1 FIBER (disorder)
+	Number of diseases: 2
+
+
+Cluster 280:
+	C0752347	Lewy Body Disease
+	C1851958	Lewy Body Variant of Alzheimer Disease
+	Number of diseases: 2
+
+
+Cluster 281:
+	C0795907	CONOTRUNCAL ANOMALY FACE SYNDROME
+	C1857586	CONOTRUNCAL HEART MALFORMATIONS (disorder)
+	Number of diseases: 2
+
+
+Cluster 282:
+	C0796070	MICROPHTHALMIA, SYNDROMIC 7
+	C1832661	ANOPHTHALMIA AND PULMONARY HYPOPLASIA
+	C1836006	NANOPHTHALMOS 2 (disorder)
+	C1838502	NANOPHTHALMOS 1
+	C1846265	Microphthalmia, syndromic 2
+	C1859773	Microphthalmia, Syndromic 3
+	C1859774	Optic Nerve Hypoplasia and Abnormalities of the Central Nervous System
+	C1864689	MICROPHTHALMIA, SYNDROMIC 6 (disorder)
+	C1864690	Microphthalmia, Syndromic 5
+	C1864720	MICROPHTHALMIA, ISOLATED 2
+	C1970236	Microphthalmia, Posterior, With Retinitis Pigmentosa, Foveoschisis, And Optic Disc Drusen
+	C1970237	Microphthalmia, Isolated 3
+	C2678467	Nanophthalmos 3
+	C2751307	MICROPHTHALMIA, ISOLATED 4 (disorder)
+	C3150969	MICROPHTHALMIA, ISOLATED 7
+	C4014848	NANOPHTHALMOS 4
+	Number of diseases: 16
+
+
+Cluster 283:
+	C0878681	Dent's disease
+	C1848336	Dent disease 1
+	Number of diseases: 2
+
+
+Cluster 284:
+	C0994344	Rheumatoid lung disease
+	C2350236	Idiopathic Interstitial Pneumonias
+	Number of diseases: 2
+
+
+Cluster 285:
+	C1142166	Brugada Syndrome (disorder)
+	C1955837	Sudden Unexplained Nocturnal Death Syndrome (SUNDS)
+	C2748542	CARDIAC CONDUCTION DEFECT, NONSPECIFIC (disorder)
+	Number of diseases: 3
+
+
+Cluster 286:
+	C1148551	X-Linked Dyskeratosis Congenita
+	C1846142	HOYERAAL-HREIDARSSON SYNDROME
+	Number of diseases: 2
+
+
+Cluster 287:
+	C1260899	Anemia, Diamond-Blackfan
+	C2676137	Diamond-Blackfan Anemia 1
+	Number of diseases: 2
+
+
+Cluster 288:
+	C1275808	Congenital central hypoventilation
+	C1859049	CCHS WITH HIRSCHSPRUNG DISEASE
+	Number of diseases: 2
+
+
+Cluster 289:
+	C1306122	Oguchi disease
+	C1848172	NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A
+	C3495587	Night Blindness, Congenital Stationary, Type 1A
+	Number of diseases: 3
+
+
+Cluster 290:
+	C1328840	Autoimmune Lymphoproliferative Syndrome
+	C1858968	Autoimmune Lymphoproliferative Syndrome, Type IIA
+	C1866119	Autoimmune Lymphoproliferative Syndrome, Type IA
+	C1866120	Autoimmune Lymphoproliferative Syndrome, Type IB
+	Number of diseases: 4
+
+
+Cluster 291:
+	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)
+	C2677794	Stress-induced polymorphic ventricular tachycardia
+	Number of diseases: 2
+
+
+Cluster 292:
+	C1719788	Episodic ataxia type 1
+	C1720416	Episodic ataxia type 2 (disorder)
+	C1847839	Episodic Ataxia, Type 3
+	C1847843	EPISODIC ATAXIA, TYPE 4
+	C2674766	Myokymia 1
+	Number of diseases: 5
+
+
+Cluster 293:
+	C1739363	Prostatic Hypertrophy
+	C2937421	Prostatic Hyperplasia
+	Number of diseases: 2
+
+
+Cluster 294:
+	C1832244	CARDIOMYOPATHY, DILATED, 1C (disorder)
+	C3152137	LEFT VENTRICULAR NONCOMPACTION 3
+	Number of diseases: 2
+
+
+Cluster 295:
+	C1832884	Hemiplegic migraine, familial type 1
+	C1832903	MIGRAINE, SPORADIC HEMIPLEGIC
+	C1864987	Migraine, Familial Hemiplegic, 3
+	C1865322	MIGRAINE, FAMILIAL HEMIPLEGIC, 2
+	C1865323	Migraine, Familial Basilar
+	Number of diseases: 5
+
+
+Cluster 296:
+	C1835614	Hereditary Hyperexplexia
+	C1845102	Hyperekplexia and Epilepsy
+	Number of diseases: 2
+
+
+Cluster 297:
+	C1835905	Epilepsy, Nocturnal Frontal Lobe, Type 4
+	C1838049	Epilepsy, Nocturnal Frontal Lobe, Type 1
+	C1854335	Epilepsy, Nocturnal Frontal Lobe, Type 3
+	C1864125	Epilepsy, Nocturnal Frontal Lobe, Type 2
+	Number of diseases: 4
+
+
+Cluster 298:
+	C1838644	Stargardt disease 3
+	C1855465	STARGARDT DISEASE 1 (disorder)
+	C1858080	Retinal Dystrophy, Early Onset Severe
+	C1863534	Stargardt disease 4
+	Number of diseases: 4
+
+
+Cluster 299:
+	C1839163	THROMBOCYTOPENIA 1 (disorder)
+	C1839164	Thrombocytopenia, X-Linked, Intermittent
+	C1861185	THROMBOCYTOPENIA 2 (disorder)
+	C2677608	Thrombocytopenia 4
+	C3550789	THROMBOCYTOPENIA, X-LINKED, WITH OR WITHOUT DYSERYTHROPOIETIC ANEMIA
+	Number of diseases: 5
+
+
+Cluster 300:
+	C1839259	Bulbo-Spinal Atrophy, X-Linked
+	C2931395	Bulbospinal neuronopathy, X-linked recessive
+	Number of diseases: 2
+
+
+Cluster 301:
+	C1842462	CAMPOMELIC DYSPLASIA WITH AUTOSOMAL SEX REVERSAL
+	C1861922	CAMPOMELIC DYSPLASIA
+	C1861923	Acampomelic Campomelic Dysplasia
+	Number of diseases: 3
+
+
+Cluster 302:
+	C1844376	Granulomatous Disease, Chronic, X-Linked
+	C1856251	Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Positive, Type I
+	C1856255	Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Negative
+	C3661525	Autosomal Recessive Chronic Granulomatous Disease
+	Number of diseases: 4
+
+
+Cluster 303:
+	C1845987	Neutropenia, Severe Congenital, X-Linked
+	C1859966	Neutropenia, Severe Congenital, Autosomal Dominant 1
+	C2675526	Neutropenia, Severe Congenital, Autosomal Recessive 4
+	C2751288	Neutropenia, Severe Congenital, Autosomal Dominant 2
+	C2751630	Dursun Syndrome
+	C3809031	NEUTROPENIA, SEVERE CONGENITAL, 5, AUTOSOMAL RECESSIVE
+	Number of diseases: 6
+
+
+Cluster 304:
+	C1849792	Achromatopsia 3
+	C1857618	Achromatopsia 2
+	C2751308	CONE DYSTROPHY 4 (disorder)
+	C2751309	Achromatopsia 5
+	Number of diseases: 4
+
+
+Cluster 305:
+	C1850554	Atelosteogenesis type 2
+	C1850555	De La Chapelle Dysplasia
+	C1857255	Diastrophic Dysplasia, Broad Bone-Platyspondylic Variant
+	Number of diseases: 3
+
+
+Cluster 306:
+	C1851945	DYSTONIA 1, TORSION, AUTOSOMAL DOMINANT
+	C3888090	Early onset torsion dystonia
+	Number of diseases: 2
+
+
+Cluster 307:
+	C1853345	Generalized Epilepsy With Febrile Seizures Plus, Type 4
+	C1858672	GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 1
+	Number of diseases: 2
+
+
+Cluster 308:
+	C1857761	Alagille Syndrome 2
+	C1956125	Alagille Syndrome 1
+	C2930797	Hepatic ductular hypoplasia
+	Number of diseases: 3
+
+
+Cluster 309:
+	C1858266	Bare Lymphocyte Syndrome, Type I
+	C1859534	Bare Lymphocyte Syndrome, Type II, Complementation Group A
+	C1859535	Bare Lymphocyte Syndrome, Type II, Complementation Group B
+	C1859537	Bare Lymphocyte Syndrome, Type II, Complementation Group D
+	C1859538	Bare Lymphocyte Syndrome, Type II, Complementation Group E
+	C2931418	Bare lymphocyte syndrome 2
+	Number of diseases: 6
+
+
+Cluster 310:
+	C1864694	Complement Component 7 Deficiency
+	C3150275	COMPLEMENT COMPONENT 2 DEFICIENCY
+	Number of diseases: 2
+
+
+Cluster 311:
+	C1968689	Hyper-Immunoglobulin E Syndrome, Autosomal Recessive
+	C2936739	Hyper-Immunoglobulin E Syndrome, Autosomal Dominant
+	C3489795	Hyper-Ige Recurrent Infection Syndrome, Autosomal Dominant
+	C3887645	Job Syndrome
+	Number of diseases: 4
+
+
+Cluster 312:
+	C2748896	46,Xy Gonadal Dysgenesis, Complete, Sry-Related
+	C2748897	46,Xy True Hermaphroditism, Sry-Related
+	C2936694	Swyer Syndrome
+	Number of diseases: 3
+
+
+Cluster 313:
+	C2937288	THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT
+	C2940786	Thyroid Hormone Resistance Syndrome
+	C3489796	Thyroid Hormone Resistance, Generalized, Autosomal Recessive
+	Number of diseases: 3
+
+
+Cluster 314:
+	C3275750	ATRIOVENTRICULAR SEPTAL DEFECT 3
+	C3280781	ATRIOVENTRICULAR SEPTAL DEFECT 4
+	C3280939	ATRIOVENTRICULAR SEPTAL DEFECT 5
+	Number of diseases: 3
+
+
+Cluster 315:
+	C3280777	VENTRICULAR SEPTAL DEFECT 1
+	C3280785	VENTRICULAR SEPTAL DEFECT 3
+	Number of diseases: 2
+
+

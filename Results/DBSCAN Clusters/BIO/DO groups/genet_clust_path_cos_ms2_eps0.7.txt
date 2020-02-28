@@ -1,0 +1,248 @@
+CLUSTERS for [genet]path_cos, MS 2, eps 0.7
+	--> Number of clusters: 3
+	--> Number of outliers: 84
+	--> Silhouette coefficient: 0.13830035576748964
+
+Cluster 0:
+	C0002312	alpha-Thalassemia
+	C0002875	Cooley's anemia
+	C0002895	Anemia, Sickle Cell
+	C0004903	Beckwith-Wiedemann Syndrome
+	C0005283	beta Thalassemia
+	C0005859	Bloom Syndrome
+	C0007965	Chediak-Higashi Syndrome
+	C0008029	Cherubism
+	C0009207	Cockayne Syndrome
+	C0009714	Hepatic Fibrosis, Congenital
+	C0010314	Cri-du-Chat Syndrome
+	C0010674	Cystic Fibrosis
+	C0012236	DiGeorge Syndrome
+	C0013080	Down Syndrome
+	C0013903	Ellis-Van Creveld Syndrome
+	C0015523	Factor XI Deficiency
+	C0015526	Factor XII Deficiency
+	C0016063	Osteitis Fibrosa Disseminata
+	C0016395	Focal Dermal Hypoplasia
+	C0016667	Fragile X Syndrome
+	C0017097	Gardner Syndrome
+	C0019025	Hemoglobin F Disease
+	C0019069	Hemophilia A
+	C0020630	Hypophosphatasia
+	C0020640	Inherited Factor II deficiency
+	C0020758	Congenital ichthyosis
+	C0022521	Kartagener Syndrome
+	C0022595	Keratosis Follicularis
+	C0022681	Medullary sponge kidney
+	C0022735	Klinefelter Syndrome
+	C0023003	Langer-Giedion Syndrome
+	C0024591	Malignant hyperpyrexia due to anesthesia
+	C0024796	Marfan Syndrome
+	C0027341	Nail-Patella Syndrome
+	C0028326	Noonan Syndrome
+	C0028860	Oculocerebrorenal Syndrome
+	C0029294	Orofaciodigital Syndromes
+	C0030779	Pelger-Huet Anomaly
+	C0033300	Progeria
+	C0033847	Pseudoxanthoma Elasticum
+	C0035934	Rubinstein-Taybi Syndrome
+	C0037231	Sjogren-Larsson Syndrome
+	C0039445	Hereditary hemorrhagic telangiectasia
+	C0039446	Telangiectasis
+	C0043119	Werner Syndrome
+	C0043194	Wiskott-Aldrich Syndrome
+	C0043207	Wolfram Syndrome
+	C0079153	Hyperkeratosis, Epidermolytic
+	C0079504	Hermanski-Pudlak Syndrome
+	C0079583	Ichthyosiform Erythroderma, Congenital
+	C0079584	Ichthyosis Vulgaris
+	C0079588	Ichthyosis, X-Linked
+	C0085413	Polycystic Kidney, Autosomal Dominant
+	C0085548	Autosomal Recessive Polycystic Kidney Disease
+	C0085578	Thalassemia Minor
+	C0152096	Complete trisomy 18 syndrome
+	C0162359	Christ-Siemens-Touraine syndrome
+	C0162361	Hidrotic Ectodermal Dysplasia
+	C0162635	Angelman Syndrome
+	C0175693	Russell-Silver syndrome
+	C0175695	Sotos' syndrome
+	C0175701	Aarskog syndrome
+	C0175702	Williams Syndrome
+	C0175704	LEOPARD Syndrome
+	C0175778	Larsen syndrome
+	C0206115	WAGR Syndrome
+	C0220704	Shprintzen syndrome
+	C0220743	Childhood hypophosphatasia (disorder)
+	C0220748	Cartilage-hair hypoplasia
+	C0220769	FG syndrome
+	C0221060	Mobius Syndrome
+	C0238261	Lymphedema praecox
+	C0239849	Harlequin Fetus
+	C0242292	McCune-Albright Syndrome
+	C0265202	Seckel syndrome
+	C0265205	Robinow Syndrome
+	C0265210	Weaver syndrome
+	C0265219	Miller Dieker syndrome
+	C0265224	Freeman-Sheldon syndrome
+	C0265233	Cryptophthalmos syndrome
+	C0265234	Branchio-Oto-Renal Syndrome
+	C0265240	Goldenhar Syndrome
+	C0265252	Coffin-Lowry syndrome
+	C0265259	Popliteal pterygium syndrome
+	C0265264	Holt-Oram syndrome
+	C0265275	Jeune thoracic dystrophy
+	C0265326	Bannayan-Riley-Ruvalcaba Syndrome
+	C0265334	Pachyonychia Congenita
+	C0265336	Senter syndrome
+	C0265338	Coffin-Siris syndrome
+	C0265344	Donohue Syndrome
+	C0265962	Ichthyosis linearis circumflexa
+	C0268135	Xeroderma pigmentosum, group A
+	C0268412	Infantile hypophosphatasia
+	C0268413	Adult hypophosphatasia (disorder)
+	C0268494	Oculocutaneous albinism type 1
+	C0268495	Oculocutaneous albinism type 2
+	C0270972	Cornelia De Lange Syndrome
+	C0271097	Usher Syndrome
+	C0271568	Laron Syndrome
+	C0271689	Insulin Receptor, Defect in
+	C0271695	Rabson-Mendenhall Syndrome
+	C0271742	Glucocorticoid deficiency with achalasia
+	C0271829	Pendred's syndrome
+	C0271979	Thalassemia Intermedia
+	C0272317	Hereditary factor II deficiency disease
+	C0282102	Chondrodysplasia punctata, X-linked dominant type
+	C0282529	Chondrodysplasia Punctata, Rhizomelic
+	C0311245	Congenital cystic kidney disease
+	C0340968	Deficiency of pyruvate kinase
+	C0342276	Maturity onset diabetes mellitus in young
+	C0342277	Diabetes mellitus autosomal dominant type II (disorder)
+	C0346010	Multiple fibrofolliculomas
+	C0376524	Branchio-Oculo-Facial Syndrome
+	C0392164	Pulmonary Cystic Fibrosis
+	C0392475	Roberts-SC phocomelia syndrome
+	C0398738	Leukocyte adhesion deficiency type 1
+	C0398791	Nijmegen Breakage Syndrome
+	C0403553	Renal dysplasia and retinal aplasia (disorder)
+	C0431375	Classical Lissencephaly
+	C0431399	Familial aplasia of the vermis
+	C0431693	Renal cysts and diabetes syndrome
+	C0524582	Mulibrey Nanism
+	C0543687	Thymic alymphoplasia
+	C0553586	Cafe-au-lait macules with pulmonary stenosis
+	C0587248	Costello syndrome (disorder)
+	C0751038	Cockayne Syndrome, Type II
+	C0751039	Cockayne Syndrome, Type I
+	C0752166	Bardet-Biedl Syndrome
+	C0795864	Smith-Magenis syndrome
+	C0795889	Allan-Herndon-Dudley syndrome (AHDS)
+	C0795907	CONOTRUNCAL ANOMALY FACE SYNDROME
+	C0795917	Alpha-Thalassemia Mental Retardation Syndrome, Deletion-Type
+	C0796126	AICARDI-GOUTIERES SYNDROME 1
+	C0917715	Hajdu-Cheney Syndrome
+	C0950121	Denys-Drash Syndrome
+	C1510460	Orofaciodigital Syndrome I
+	C1536500	Deficiency of acetyl-CoA acetyltransferase
+	C1567742	Alport Syndrome, X-Linked
+	C1567743	Alport Syndrome, Autosomal Dominant
+	C1567744	Alport Syndrome, Autosomal Recessive
+	C1568247	Usher Syndrome, Type I
+	C1568248	Usher Syndrome, Type III
+	C1568249	Usher Syndrome, Type II
+	C1623209	Okihiro Syndrome
+	C1704423	Milroy Disease
+	C1706595	Pachyonychia Congenita, Jadassohn Lewandowsky Type
+	C1785148	RAPP-HODGKIN SYNDROME
+	C1832661	ANOPHTHALMIA AND PULMONARY HYPOPLASIA
+	C1835398	LI-FRAUMENI SYNDROME 1
+	C1836635	Loeys-Dietz Aortic Aneurysm Syndrome
+	C1838099	ABCD syndrome
+	C1838100	MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 3 (disorder)
+	C1838163	OSLER-RENDU-WEBER SYNDROME 2
+	C1838257	Serpentine fibula polycystic kidney syndrome
+	C1838625	Warburg Sjo Fledelius syndrome
+	C1839928	IRIS HYPOPLASIA WITH GLAUCOMA
+	C1840322	ODONTOHYPOPHOSPHATASIA (disorder)
+	C1840333	Barakat syndrome
+	C1840365	King Denborough syndrome
+	C1842870	Chromosome 1p36 Deletion Syndrome
+	C1845055	ALPHA-THALASSEMIA/MENTAL RETARDATION SYNDROME, NONDELETION TYPE, X-LINKED
+	C1847800	Waardenburg Syndrome Type 1
+	C1848199	X-Linked Lissencephaly
+	C1848201	Subcortical Band Heterotopia
+	C1848634	USHER SYNDROME, TYPE IIA
+	C1848862	Miller-McKusick-Malvaux-Syndrome (3M Syndrome)
+	C1851841	ECTRODACTYLY, ECTODERMAL DYSPLASIA, AND CLEFT LIP/PALATE SYNDROME 1
+	C1852093	Maturity-Onset Diabetes of the Young, Type 1
+	C1854465	TUBEROUS SCLEROSIS 1 (disorder)
+	C1855433	Mandibulofacial dysostosis, Treacher Collins type, autosomal recessive
+	C1855681	Nephronophthisis, familial juvenile
+	C1860042	Antley-Bixler Syndrome with Disordered Steroidogenesis
+	C1860707	TUBEROUS SCLEROSIS 2 (disorder)
+	C1860787	DOWN SYNDROME CRITICAL REGION
+	C1860788	Transient Myeloproliferative Disorder of Down Syndrome
+	C1861303	SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)
+	C1861481	Stickler syndrome, type 3
+	C1863204	ADULT SYNDROME
+	C1864648	CHROMOSOME 16p13.3 DELETION SYNDROME, PROXIMAL
+	C1866398	Proteus-Like Syndrome (disorder)
+	C1866560	IRIDOGONIODYSGENESIS, TYPE 1 (disorder)
+	C1867440	Multiple Pterygium Syndrome, Autosomal Dominant
+	C1868081	Juvenile Polyposis Coli
+	C1955870	Classical Lissencephalies and Subcortical Band Heterotopias
+	C1956097	Wolf-Hirschhorn Syndrome
+	C1969056	LEOPARD SYNDROME 2
+	C2020284	Stickler syndrome, type 1
+	C2350233	Antley-Bixler Syndrome Phenotype
+	C2607929	Carney Complex, Type 1
+	C2674574	Aortic aneurysm, familial thoracic 3
+	C2674616	FAMILIAL ADENOMATOUS POLYPOSIS, ATTENUATED (disorder)
+	C2674949	Chromosome 3q29 Deletion Syndrome
+	C2675080	Li-Fraumeni-Like Syndrome
+	C2675336	Duplication 15q11-q13 Syndrome
+	C2675369	Chromosome 22q11.2 Microduplication Syndrome
+	C2678480	Chromosome 22q11.2 Deletion Syndrome, Distal
+	C2697932	Loeys-Dietz Syndrome
+	C2717836	Steroid Sulfatase Deficiency Disease
+	C2720163	Placental Steroid Sulfatase Deficiency
+	C2750787	Weill-Marchesani-Like Syndrome
+	C2751306	Polycystic kidney disease, type 2
+	C2931205	Usher syndrome, type 1A
+	C2936791	Antley-Bixler Syndrome, Autosomal Dominant
+	C2936862	Bardet-Biedl syndrome 1 (disorder)
+	C2936904	Opitz GBBB Syndrome, X-Linked
+	C3149841	POLYCYSTIC KIDNEY DISEASE 1
+	C3150941	RUBINSTEIN-TAYBI SYNDROME 2
+	C3150971	LEOPARD SYNDROME 3
+	C3150983	TREACHER COLLINS SYNDROME 2
+	C3151087	LOEYS-DIETZ SYNDROME 3
+	C3266898	Waardenburg Syndrome
+	C3489725	Pseudo-TORCH syndrome
+	C3494187	Factor VIII Deficiency
+	C3553762	LOEYS-DIETZ SYNDROME 4
+	C3554518	COWDEN SYNDROME 5
+	C3554519	COWDEN SYNDROME 6
+	C3714506	Meckel syndrome type 1
+	C3714581	Multicystic Dysplastic Kidney
+	C3887494	ECTODERMAL DYSPLASIA 10B, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL RECESSIVE
+	C3888065	ECTODERMAL DYSPLASIA 10A, HYPOHIDROTIC/HAIR/NAIL TYPE, AUTOSOMAL DOMINANT
+
+	Associated symptoms average: 10.597285067873303
+	Number of diseases: 221
+
+
+Cluster 1:
+	C0685838	Gonadal dysgenesis XX type deafness
+	C1859133	RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 1
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 2:
+	C1838612	Rhizomelic chondrodysplasia punctata, type 3
+	C1857242	Rhizomelic chondrodysplasia punctata, type 2
+
+	Associated symptoms average: 4.0
+	Number of diseases: 2
+
+

@@ -1,0 +1,224 @@
+CLUSTERS for [DSI] path_cos, MS 2, eps 0.7
+	--> Number of clusters: 1
+	--> Number of outliers: 57
+	--> Silhouette coefficient: 0.39996617643786664
+
+Cluster 0:
+	C0002395	Alzheimer's Disease
+	C0002726	Amyloidosis
+	C0002736	Amyotrophic Lateral Sclerosis
+	C0002876	Congenital dyserythropoietic anemia
+	C0003615	Appendicitis
+	C0003864	Arthritis
+	C0003873	Rheumatoid Arthritis
+	C0004096	Asthma
+	C0004135	Ataxia Telangiectasia
+	C0004138	Ataxias, Hereditary
+	C0004238	Atrial Fibrillation
+	C0004509	Azoospermia
+	C0004763	Barrett Esophagus
+	C0004903	Beckwith-Wiedemann Syndrome
+	C0004943	Behcet Syndrome
+	C0005283	beta Thalassemia
+	C0006287	Bronchopulmonary Dysplasia
+	C0006309	Brucellosis
+	C0007282	Carotid Stenosis
+	C0007570	Celiac Disease
+	C0007959	Charcot-Marie-Tooth Disease
+	C0008354	Cholera
+	C0008370	Cholestasis
+	C0008677	Bronchitis, Chronic
+	C0009324	Ulcerative Colitis
+	C0010346	Crohn Disease
+	C0010964	Dandy-Walker Syndrome
+	C0011334	Dental caries
+	C0011615	Dermatitis, Atopic
+	C0011854	Diabetes Mellitus, Insulin-Dependent
+	C0011860	Diabetes Mellitus, Non-Insulin-Dependent
+	C0011881	Diabetic Nephropathy
+	C0011884	Diabetic Retinopathy
+	C0013080	Down Syndrome
+	C0013312	Dupuytren Contracture
+	C0013364	Dysautonomia, Familial
+	C0013537	Eclampsia
+	C0014175	Endometriosis
+	C0014544	Epilepsy
+	C0014553	Absence Epilepsy
+	C0014556	Epilepsy, Temporal Lobe
+	C0015300	Exophthalmos
+	C0016053	Fibromyalgia
+	C0016667	Fragile X Syndrome
+	C0017601	Glaucoma
+	C0017612	Glaucoma, Open-Angle
+	C0017661	IGA Glomerulonephritis
+	C0017980	Glycosuria, Renal
+	C0018099	Gout
+	C0018133	Graft-vs-Host Disease
+	C0018213	Graves Disease
+	C0018784	Sensorineural Hearing Loss (disorder)
+	C0018790	Cardiac Arrest
+	C0019061	Hemolytic-Uremic Syndrome
+	C0019163	Hepatitis B
+	C0019187	Hepatitis, Alcoholic
+	C0019196	Hepatitis C
+	C0019202	Hepatolenticular Degeneration
+	C0019562	Von Hippel-Lindau Syndrome
+	C0019569	Hirschsprung Disease
+	C0020179	Huntington Disease
+	C0020295	Hydronephrosis
+	C0020474	Hyperlipidemia, Familial Combined
+	C0020480	Hyperlipoproteinemia Type IV
+	C0020503	Hyperparathyroidism, Secondary
+	C0020676	Hypothyroidism
+	C0021171	Bloch Sulzberger syndrome
+	C0021400	Influenza
+	C0021847	Intestinal Pseudo-Obstruction
+	C0022336	Creutzfeldt-Jakob disease
+	C0022660	Kidney Failure, Acute
+	C0022661	Kidney Failure, Chronic
+	C0023264	Leigh Disease
+	C0023281	Leishmaniasis
+	C0023290	Leishmaniasis, Visceral
+	C0023343	Leprosy
+	C0023794	Lipoidosis
+	C0023890	Liver Cirrhosis
+	C0024117	Chronic Obstructive Airway Disease
+	C0024141	Lupus Erythematosus, Systemic
+	C0024143	Lupus Nephritis
+	C0024530	Malaria
+	C0024535	Malaria, Falciparum
+	C0024591	Malignant hyperpyrexia due to anesthesia
+	C0024796	Marfan Syndrome
+	C0025281	Meniere Disease
+	C0026267	Mitral Valve Prolapse Syndrome
+	C0026691	Mucocutaneous Lymph Node Syndrome
+	C0026769	Multiple Sclerosis
+	C0026847	Spinal Muscular Atrophy
+	C0027051	Myocardial Infarction
+	C0027092	Myopia
+	C0027126	Myotonic Dystrophy
+	C0027404	Narcolepsy
+	C0027430	Nasal Polyps
+	C0028754	Obesity
+	C0028860	Oculocerebrorenal Syndrome
+	C0028960	Oligospermia
+	C0029401	Osteitis Deformans
+	C0029408	Degenerative polyarthritis
+	C0029434	Osteogenesis Imperfecta
+	C0029443	Osteomyelitis
+	C0029454	Osteopetrosis
+	C0029456	Osteoporosis
+	C0029882	Otitis Media
+	C0029899	Otosclerosis
+	C0029927	Ovarian Cysts
+	C0030567	Parkinson Disease
+	C0031039	Pericardial effusion
+	C0032339	Rothmund-Thomson syndrome
+	C0032371	Poliomyelitis
+	C0032460	Polycystic Ovary Syndrome
+	C0033860	Psoriasis
+	C0034186	Pyelonephritis
+	C0034494	Rabies (disorder)
+	C0035222	Respiratory Distress Syndrome, Adult
+	C0035258	Restless Legs Syndrome
+	C0035334	Retinitis Pigmentosa
+	C0035920	Rubella
+	C0036202	Sarcoidosis
+	C0037116	Silicosis
+	C0037769	West Syndrome
+	C0038013	Ankylosing spondylitis
+	C0038379	Strabismus
+	C0038522	Subacute Sclerosing Panencephalitis
+	C0038868	Progressive supranuclear palsy
+	C0039445	Hereditary hemorrhagic telangiectasia
+	C0041296	Tuberculosis
+	C0041466	Typhoid Fever
+	C0042214	Vaccinia
+	C0042345	Varicosity
+	C0042900	Vitiligo
+	C0042961	Intestinal Volvulus
+	C0043119	Werner Syndrome
+	C0043194	Wiskott-Aldrich Syndrome
+	C0079153	Hyperkeratosis, Epidermolytic
+	C0085110	Severe Combined Immunodeficiency
+	C0085166	Bacterial Vaginosis
+	C0085580	Essential Hypertension
+	C0085655	Polymyositis
+	C0087012	Ataxia, Spinocerebellar
+	C0149521	Pancreatitis, Chronic
+	C0149721	Left Ventricular Hypertrophy
+	C0151517	Complete atrioventricular block
+	C0152105	Hypertensive heart disease
+	C0152136	Low Tension Glaucoma
+	C0152244	Bone Cysts, Aneurysmal
+	C0154723	Migraine with Aura
+	C0154832	Exudative retinopathy
+	C0162309	Adrenoleukodystrophy
+	C0162429	Malnutrition
+	C0162635	Angelman Syndrome
+	C0162809	Kallmann Syndrome
+	C0162820	Dermatitis, Allergic Contact
+	C0162871	Aortic Aneurysm, Abdominal
+	C0175693	Russell-Silver syndrome
+	C0175702	Williams Syndrome
+	C0206368	Exfoliation Syndrome
+	C0220769	FG syndrome
+	C0238288	Muscular Dystrophy, Facioscapulohumeral
+	C0242383	Age related macular degeneration
+	C0263454	Chloracne
+	C0265202	Seckel syndrome
+	C0265245	Nager syndrome
+	C0265354	CHARGE Syndrome
+	C0266929	Chronic Periodontitis
+	C0268237	Cytochrome-c Oxidase Deficiency
+	C0270736	Essential Tremor
+	C0270850	Idiopathic generalized epilepsy
+	C0270853	Myoclonic Epilepsy, Juvenile
+	C0270952	Muscular Dystrophy, Oculopharyngeal
+	C0272170	Shwachman syndrome
+	C0272302	Gray Platelet Syndrome
+	C0282687	Hemorrhagic Fever, Ebola
+	C0338480	Common Migraine
+	C0341106	Eosinophilic esophagitis
+	C0342276	Maturity onset diabetes mellitus in young
+	C0392514	Hereditary hemochromatosis
+	C0394006	Dysequilibrium syndrome
+	C0398650	Immune thrombocytopenic purpura
+	C0403553	Renal dysplasia and retinal aplasia (disorder)
+	C0524620	Metabolic Syndrome X
+	C0577631	Carotid Atherosclerosis
+	C0729353	Subfertility
+	C0740394	Hyperuricemia
+	C0795956	Chylomicron retention disease
+	C0796074	MOHR-TRANEBJAERG SYNDROME
+	C0878555	Diffuse panbronchiolitis
+	C0917796	Optic Atrophy, Hereditary, Leber
+	C0920350	Autoimmune thyroiditis
+	C0948089	Acute Coronary Syndrome
+	C1136249	Mental Retardation, X-Linked
+	C1175175	Severe Acute Respiratory Syndrome
+	C1260899	Anemia, Diamond-Blackfan
+	C1319853	Asthma, Aspirin-Induced
+	C1449563	Cardiomyopathy, Familial Idiopathic
+	C1527336	Sjogren's Syndrome
+	C1800706	Idiopathic Pulmonary Fibrosis
+	C1832916	Timothy syndrome
+	C1836929	Emanuel syndrome
+	C1840333	Barakat syndrome
+	C1843687	ATRIAL FIBRILLATION, FAMILIAL, 1 (disorder)
+	C1846129	Terminal Osseous Dysplasia and Pigmentary Defects
+	C1848862	Miller-McKusick-Malvaux-Syndrome (3M Syndrome)
+	C1862939	AMYOTROPHIC LATERAL SCLEROSIS 1
+	C1956097	Wolf-Hirschhorn Syndrome
+	C1956346	Coronary Artery Disease
+	C2607914	Allergic rhinitis (disorder)
+	C2930802	Familial antiphospholipid syndrome
+	C2930930	Abdominal obesity metabolic syndrome
+	C2931187	Nephropathic cystinosis
+	C2931384	Moyamoya disease 1
+	C2931689	Dystrophia myotonica 2
+	C2936904	Opitz GBBB Syndrome, X-Linked
+	C2940786	Thyroid Hormone Resistance Syndrome
+	C3495559	Juvenile arthritis
+	C3711381	Hereditary Diffuse Leukoencephalopathy with Spheroids
+	C3888090	Early onset torsion dystonia

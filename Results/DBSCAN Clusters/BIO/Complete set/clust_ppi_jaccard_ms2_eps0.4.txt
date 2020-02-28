@@ -1,0 +1,1771 @@
+CLUSTERS for ppi_jaccard, MS 2, eps 0.4
+	--> Number of clusters: 183
+	--> Number of outliers: 3003
+	--> Silhouette coefficient: 0.08498318435599865
+
+Cluster 0:
+	C0001733	Afibrinogenemia
+	C2584774	Congenital hypofibrinogenemia
+
+	Associated symptoms average: 5.0
+	Number of diseases: 2
+
+
+Cluster 1:
+	C0001957	Alcohol Withdrawal Delirium
+	C0221271	Elastosis perforans serpiginosa
+
+	Associated symptoms average: 12.0
+	Number of diseases: 2
+
+
+Cluster 2:
+	C0002882	Anemia, Hemolytic, Congenital Nonspherocytic
+	C0017920	Glycogen Storage Disease Type I
+	C0020435	Hyperbilirubinemia, Hereditary
+	C0031306	Phagocyte Bactericidal Dysfunction
+	C0242225	Color blindness
+	C0268328	Porphobilinogen synthase deficiency
+	C2720289	ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY
+
+	Associated symptoms average: 8.428571428571429
+	Number of diseases: 7
+
+
+Cluster 3:
+	C0002888	Anemia, Megaloblastic
+	C0268117	Gout, HPRT-Related
+
+	Associated symptoms average: 9.5
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0002963	Angina Pectoris, Variant
+	C0451641	Urolithiasis
+
+	Associated symptoms average: 24.0
+	Number of diseases: 2
+
+
+Cluster 5:
+	C0002982	Angioid Streaks
+	C0024421	Macroglossia
+	C0040046	Thrombophlebitis
+	C0040412	Fissured tongue
+
+	Associated symptoms average: 6.75
+	Number of diseases: 4
+
+
+Cluster 6:
+	C0003081	Anisometropia
+	C0009451	Communicating Hydrocephalus
+	C0014179	Endometritis
+	C0031190	Persistent Fetal Circulation Syndrome
+	C0155300	Pseudopapilledema
+	C0282207	Cronkhite-Canada Syndrome
+	C1275273	Familial Multiple Lipomatosis
+	C1866398	Proteus-Like Syndrome (disorder)
+
+	Associated symptoms average: 6.5
+	Number of diseases: 8
+
+
+Cluster 7:
+	C0003496	Aortic Rupture
+	C0005592	Bird Fancier's Lung
+	C0005716	Blastomycosis
+	C0006060	Boutonneuse Fever
+	C0009021	Clonorchiasis
+	C0014740	Erythema Chronicum Migrans
+	C0016436	Folliculitis
+	C0018567	Hand Dermatoses
+	C0018889	Helminthiasis
+	C0025306	Meningococcemia
+	C0025309	Meningoencephalitis
+	C0029001	Onchocerciasis
+	C0029077	Ophthalmia, Sympathetic
+	C0030343	Panuveitis
+	C0030409	Paracoccidioidomycosis
+	C0033838	Kimura Disease
+	C0035319	Retinal Necrosis Syndrome, Acute
+	C0036329	Schistosomiasis japonica
+	C0042166	Uveitis, Intermediate
+	C0152066	Lobomycosis
+	C0162823	Dermatitis, Irritant
+	C0242381	Lyme Arthritis
+	C0748540	Scleroderma, Limited
+	C0869523	Carditis
+	C0949272	IIeocolitis
+	C1853392	Interleukin 2 Receptor, Alpha, Deficiency of
+	C2350621	Eumycetoma
+	C3887558	Hemophagocytic Syndrome
+	C4049006	Selective immunoglobulin A deficiency
+
+	Associated symptoms average: 11.379310344827585
+	Number of diseases: 29
+
+
+Cluster 8:
+	C0003850	Arteriosclerosis
+	C0004153	Atherosclerosis
+
+	Associated symptoms average: 17.5
+	Number of diseases: 2
+
+
+Cluster 9:
+	C0003851	Arteriosclerosis Obliterans
+	C0011127	Pressure Ulcer
+	C0013884	Filarial Elephantiases
+	C0033770	Prune Belly Syndrome
+	C0034103	Pulpitis
+	C0085411	Angiodysplasia
+	C0155686	Acute myocarditis
+	C1720830	Painful Bladder Syndrome
+
+	Associated symptoms average: 13.5
+	Number of diseases: 8
+
+
+Cluster 10:
+	C0004138	Ataxias, Hereditary
+	C0752124	Spinocerebellar Ataxia Type 6 (disorder)
+
+	Associated symptoms average: 23.0
+	Number of diseases: 2
+
+
+Cluster 11:
+	C0004245	Atrioventricular Block
+	C0018794	Heart Block
+	C0221032	Familial generalized lipodystrophy
+	C0271694	Familial partial lipodystrophy
+	C0410190	Autosomal Dominant Emery-Dreifuss Muscular Dystrophy (disorder)
+	C1834653	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B (disorder)
+
+	Associated symptoms average: 5.166666666666667
+	Number of diseases: 6
+
+
+Cluster 12:
+	C0004606	Nonproliferative diabetic retinopathy
+	C0017609	Glaucoma, Neovascular
+	C0085388	Intracranial Tuberculoma
+	C0085434	Angiomatosis, Bacillary
+	C0154841	Central retinal vein occlusion
+	C0154916	Rubeosis iridis
+	C0221025	Kasabach-Merritt syndrome
+	C0282548	Leukostasis
+	C0343084	Capillary Leak Syndrome
+
+	Associated symptoms average: 3.7777777777777777
+	Number of diseases: 9
+
+
+Cluster 13:
+	C0006105	Brain Abscess
+	C0034091	Pulmonary Veno-Occlusive Disease (disorder)
+	C1510428	Cerebral abscess
+	C1838163	OSLER-RENDU-WEBER SYNDROME 2
+
+	Associated symptoms average: 25.0
+	Number of diseases: 4
+
+
+Cluster 14:
+	C0006384	Bundle-Branch Block
+	C0878675	Erdheim-Chester Disease
+
+	Associated symptoms average: 7.0
+	Number of diseases: 2
+
+
+Cluster 15:
+	C0006852	Candidiasis of vagina
+	C0268151	Classical galactosemia
+	C0700345	Candidiasis, Vulvovaginal
+
+	Associated symptoms average: 14.0
+	Number of diseases: 3
+
+
+Cluster 16:
+	C0007361	Cat-Scratch Disease
+	C0029307	Oroya Fever
+
+	Associated symptoms average: 36.5
+	Number of diseases: 2
+
+
+Cluster 17:
+	C0007384	Cataplexy
+	C0036489	Sea-Blue Histiocyte Syndrome
+
+	Associated symptoms average: 16.5
+	Number of diseases: 2
+
+
+Cluster 18:
+	C0007761	Myoclonic Cerebellar Dyssynergia
+	C0032453	Polychondritis, Relapsing
+	C0085132	Mucopolysaccharidosis VII
+	C0155017	Color Blindness, Blue
+	C0155223	Dacryoadenitis
+	C0156372	Asherman Syndrome
+	C0519030	Pneumonia due to Klebsiella pneumoniae
+
+	Associated symptoms average: 17.714285714285715
+	Number of diseases: 7
+
+
+Cluster 19:
+	C0007795	Diffuse Cerebral Sclerosis of Schilder
+	C0271683	Polyneuropathy, Motor
+
+	Associated symptoms average: 22.5
+	Number of diseases: 2
+
+
+Cluster 20:
+	C0007860	Uterine Cervicitis
+	C1850889	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2B
+
+	Associated symptoms average: 6.5
+	Number of diseases: 2
+
+
+Cluster 21:
+	C0008372	Intrahepatic Cholestasis
+	C0023321	Lentigo
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 22:
+	C0008684	Chronic gingivitis
+	C0014534	Epididymitis
+
+	Associated symptoms average: 21.0
+	Number of diseases: 2
+
+
+Cluster 23:
+	C0008728	Churg-Strauss Syndrome
+	C0010051	Coronary Aneurysm
+	C0014518	Toxic Epidermal Necrolysis
+	C0014742	Erythema Multiforme
+	C0014761	Erythroblastosis, Fetal
+	C0015696	Fatty Liver, Alcoholic
+	C0015773	Felty Syndrome
+	C0018522	Hallermann's Syndrome
+	C0019050	Hemoglobinuria, Paroxysmal
+	C0019114	Hemosiderosis
+	C0019655	Histoplasmosis
+	C0020540	Malignant Hypertension
+	C0024137	Lupus Erythematosus, Cutaneous
+	C0024140	Lupus Erythematosus, Subacute Cutaneous
+	C0024440	Macular Edema, Cystoid
+	C0024441	Macular Holes
+	C0026916	Mycobacterium avium-intracellulare Infection
+	C0027873	Neuromyelitis Optica
+	C0029899	Otosclerosis
+	C0030491	Parapsoriasis
+	C0030569	Secondary Parkinson Disease
+	C0030848	Peyronie Disease
+	C0032026	Pityriasis Rosea
+	C0034902	Pure Red-Cell Aplasia
+	C0034931	Reflex Sympathetic Dystrophy
+	C0036391	Schwartz-Jampel Syndrome
+	C0037354	Smallpox
+	C0039128	Syphilis
+	C0041324	Tuberculosis, Osteoarticular
+	C0041466	Typhoid Fever
+	C0085273	Erythema Infectiosum
+	C0086445	Idiopathic Membranous Glomerulonephritis
+	C0162538	Immunoglobulin A deficiency (disorder)
+	C0162566	Porphyria Cutanea Tarda
+	C0162836	Hidradenitis Suppurativa
+	C0206178	Cytomegalovirus Retinitis
+	C0263505	Alopecia universalis
+	C0342342	Idiopathic Hypoparathyroidism
+	C0376300	Dengue Shock Syndrome
+	C0458219	Complex Regional Pain Syndromes
+	C0524702	Pulmonary Thromboembolisms
+	C0553730	Calcium pyrophosphate deposition disease
+	C0577620	Nut Hypersensitivity
+	C0751340	Myasthenia Gravis, Ocular
+	C0878555	Diffuse panbronchiolitis
+	C1328252	Mucocutaneous leishmaniasis
+	C1832588	Chromosome 11p11.2 Deletion Syndrome
+	C1849193	PEELING SKIN SYNDROME
+	C1853959	Birdshot chorioretinopathy
+	C2350168	Polymorphic Reticulosis
+	C3276706	Small Fiber Neuropathy
+	C3495436	American cutaneous leishmaniasis
+	C3658302	Stevens-Johnson Syndrome Toxic Epidermal Necrolysis Spectrum
+
+	Associated symptoms average: 12.547169811320755
+	Number of diseases: 53
+
+
+Cluster 24:
+	C0010043	Corneal Ulcer
+	C0010273	Craniofacial Dysostosis
+	C0010930	Dacryocystitis
+	C0155119	Recurrent erosion of cornea
+	C1864436	Muenke Syndrome
+	C2931196	Craniofacial dysostosis type 1
+
+	Associated symptoms average: 18.0
+	Number of diseases: 6
+
+
+Cluster 25:
+	C0010324	Crigler Najjar syndrome, type 1
+	C0015519	Factor X Deficiency
+	C0015530	Factor XIII Deficiency
+	C0042880	Vitamin K Deficiency
+
+	Associated symptoms average: 4.75
+	Number of diseases: 4
+
+
+Cluster 26:
+	C0011195	Dejerine-Sottas Disease (disorder)
+	C1848296	DOSAGE-SENSITIVE SEX REVERSAL
+
+	Associated symptoms average: 9.5
+	Number of diseases: 2
+
+
+Cluster 27:
+	C0013298	Duodenitis
+	C0206368	Exfoliation Syndrome
+	C0268118	Xanthinuria, Type I
+
+	Associated symptoms average: 5.666666666666667
+	Number of diseases: 3
+
+
+Cluster 28:
+	C0013299	Duodenogastric Reflux
+	C0019099	Hemorrhagic Fever, Crimean
+	C0020192	Hyaline Membrane Disease
+	C0038539	Empyema, Subdural
+	C0239295	Candidiasis of the esophagus
+
+	Associated symptoms average: 6.4
+	Number of diseases: 5
+
+
+Cluster 29:
+	C0013405	Dyspnea, Paroxysmal
+	C0023212	Left-Sided Heart Failure
+	C0392775	Cystic medial necrosis of aorta
+	C1836635	Loeys-Dietz Aortic Aneurysm Syndrome
+	C2674574	Aortic aneurysm, familial thoracic 3
+
+	Associated symptoms average: 41.0
+	Number of diseases: 5
+
+
+Cluster 30:
+	C0013426	Dystrophy of vulva
+	C0019112	Hemorrhoids
+	C0024454	Maffucci Syndrome
+	C0039503	Tendinitis
+	C0178416	Hypoplastic anemia
+	C0242670	Persistent Vegetative State
+	C0265354	CHARGE Syndrome
+	C0392475	Roberts-SC phocomelia syndrome
+	C1832648	Hypoparathyroidism familial isolated
+	C1855739	Indifference to Pain, Congenital, Autosomal Recessive
+	C3714534	dowling-degos disease
+
+	Associated symptoms average: 14.181818181818182
+	Number of diseases: 11
+
+
+Cluster 31:
+	C0013902	Elliptocytosis, Hereditary
+	C0022610	Kernicterus
+
+	Associated symptoms average: 2.0
+	Number of diseases: 2
+
+
+Cluster 32:
+	C0013949	Embryopathies
+	C0043208	Wolman Disease
+	C0268419	Acatalasia
+	C0282526	Hyperpipecolic Acidemia
+	C0752048	Hypocatalasemia
+	C2931868	Catalase deficiency
+	C2936847	Acatalasemia Japanese type
+
+	Associated symptoms average: 1.1428571428571428
+	Number of diseases: 7
+
+
+Cluster 33:
+	C0014008	Empty Sella Syndrome
+	C0018979	Hemianopsia
+	C0036992	Short Bowel Syndrome
+	C0149887	Slipped Capital Femoral Epiphyses
+	C0238402	Pycnodysostosis
+	C0242993	Nephropathia Epidemica
+	C0405578	Gigantism and acromegaly
+	C1956089	Osteophyte
+	C3540852	Rickets, X-Linked Hypophosphatemic
+
+	Associated symptoms average: 6.777777777777778
+	Number of diseases: 9
+
+
+Cluster 34:
+	C0014059	Encephalomyelitis, Acute Disseminated
+	C0026975	Myelitis
+	C0152101	Hypoplastic Left Heart Syndrome
+
+	Associated symptoms average: 19.333333333333332
+	Number of diseases: 3
+
+
+Cluster 35:
+	C0014078	Venezuelan equine encephalomyelitis
+	C3887525	Keratosis Follicularis Spinulosa Decalvans, X-Linked
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 36:
+	C0014084	Enchondromatosis
+	C0016064	Fibrous Dysplasia, Monostotic
+	C0029438	Massive Osteolyses
+	C0040156	Thyrotoxicosis
+	C0220659	Acrodysostosis
+	C1739395	Takotsubo Cardiomyopathy
+	C1836438	Familial neurocardiogenic syncope
+	C1864100	PSEUDOHYPOPARATHYROIDISM, TYPE IB
+	C3665358	Galactorrhea
+
+	Associated symptoms average: 16.22222222222222
+	Number of diseases: 9
+
+
+Cluster 37:
+	C0014122	Subacute Bacterial Endocarditis
+	C0033771	Prurigo
+	C1719528	Other stomatitis and mucositis (ulcerative)
+
+	Associated symptoms average: 10.333333333333334
+	Number of diseases: 3
+
+
+Cluster 38:
+	C0014390	Entropion
+	C0020725	Type II Mucolipidosis
+	C0037188	Sinoatrial Block
+	C0043325	Xanthomatosis
+	C0406585	Lethal tight skin contracture syndrome (disorder)
+	C0796031	Malouf syndrome
+	C0796083	Najjar syndrome
+	C1450051	Autosomal Recessive Emery-Dreifuss Muscular Dystrophy
+	C1720859	Familial Partial Lipodystrophy, Type 1
+	C1720860	Familial Partial Lipodystrophy, Type 2
+	C1834674	Bethlem myopathy
+	C1857829	Heart-hand syndrome, Slovenian type
+	C3148763	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1E
+
+	Associated symptoms average: 3.8461538461538463
+	Number of diseases: 13
+
+
+Cluster 39:
+	C0014458	Eosinophilia, Tropical
+	C0030328	Panniculitis, Nodular Nonsuppurative
+	C0037061	Siderosis
+	C0268312	Progressive intrahepatic cholestasis (disorder)
+	C0751753	Carbamoyl-Phosphate Synthase I Deficiency Disease
+
+	Associated symptoms average: 3.4
+	Number of diseases: 5
+
+
+Cluster 40:
+	C0014733	Erysipelas
+	C0031046	Pericarditis
+
+	Associated symptoms average: 31.0
+	Number of diseases: 2
+
+
+Cluster 41:
+	C0015499	Factor V Deficiency
+	C0016522	Foramen Ovale, Patent
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 42:
+	C0015503	Factor VII Deficiency
+	C0015523	Factor XI Deficiency
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 43:
+	C0015625	Fanconi Anemia
+	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)
+
+	Associated symptoms average: 8.0
+	Number of diseases: 2
+
+
+Cluster 44:
+	C0015645	Fasciitis
+	C0036413	Scleredema Adultorum
+	C0038557	Submandibular Gland Diseases
+
+	Associated symptoms average: 0.6666666666666666
+	Number of diseases: 3
+
+
+Cluster 45:
+	C0016395	Focal Dermal Hypoplasia
+	C0025290	Aseptic Meningitis
+	C0936251	Polyradiculitis
+
+	Associated symptoms average: 15.333333333333334
+	Number of diseases: 3
+
+
+Cluster 46:
+	C0017155	Gastritis, Hypertrophic
+	C0796081	Growth mental deficiency syndrome of Myhre
+	C1832942	JUVENILE POLYPOSIS/HEREDITARY HEMORRHAGIC TELANGIECTASIA SYNDROME (disorder)
+
+	Associated symptoms average: 23.333333333333332
+	Number of diseases: 3
+
+
+Cluster 47:
+	C0017577	Gingivosis
+	C0878486	Arteriolosclerosis
+	C3495919	Enthesitis-Related Arthritis
+
+	Associated symptoms average: 14.666666666666666
+	Number of diseases: 3
+
+
+Cluster 48:
+	C0017677	Glossitis, Benign Migratory
+	C0017980	Glycosuria, Renal
+	C0038012	Spondylitis
+	C0039520	Tenosynovitis
+
+	Associated symptoms average: 6.75
+	Number of diseases: 4
+
+
+Cluster 49:
+	C0018023	Nodular Goiter
+	C0030326	Panniculitis
+	C0030353	Papilledema
+	C1318500	Non-toxic nodular goiter
+
+	Associated symptoms average: 9.25
+	Number of diseases: 4
+
+
+Cluster 50:
+	C0018425	Gyrate Atrophy
+	C0030443	Familial Periodic Paralysis
+	C1279412	periodic paralysis (finding)
+
+	Associated symptoms average: 19.333333333333332
+	Number of diseases: 3
+
+
+Cluster 51:
+	C0018801	Heart failure
+	C0018802	Congestive heart failure
+
+	Associated symptoms average: 85.0
+	Number of diseases: 2
+
+
+Cluster 52:
+	C0018995	Hemochromatosis
+	C3469186	HEMOCHROMATOSIS, TYPE 1
+
+	Associated symptoms average: 49.0
+	Number of diseases: 2
+
+
+Cluster 53:
+	C0019269	Hermaphroditism
+	C1721017	Paraneoplastic Opsoclonus-Myoclonus Ataxia
+
+	Associated symptoms average: 7.0
+	Number of diseases: 2
+
+
+Cluster 54:
+	C0019345	Herpes Labialis
+	C0751230	Hypothalamic Dysfunction Syndromes
+	C1955760	Idiopathic normal pressure hydrocephalus (INPH)
+
+	Associated symptoms average: 19.333333333333332
+	Number of diseases: 3
+
+
+Cluster 55:
+	C0019880	Homocystinuria
+	C0037198	Sinus Thrombosis, Intracranial
+	C0086540	Leishmaniasis, New World
+	C0338586	Vertebral Artery Dissection
+	C0936215	Vitamin B 6 Deficiency
+
+	Associated symptoms average: 8.0
+	Number of diseases: 5
+
+
+Cluster 56:
+	C0019937	Horner Syndrome
+	C0242567	Opsoclonus
+
+	Associated symptoms average: 17.5
+	Number of diseases: 2
+
+
+Cluster 57:
+	C0020295	Hydronephrosis
+	C0028077	Night Blindness
+	C0043459	Zellweger Syndrome
+	C0282525	Adrenoleukodystrophy, Neonatal
+	C0282527	Infantile Refsum Disease (disorder)
+	C0405580	Adrenal cortical hypofunction
+
+	Associated symptoms average: 15.666666666666666
+	Number of diseases: 6
+
+
+Cluster 58:
+	C0020428	Hyperaldosteronism
+	C0033805	Pseudohypoaldosteronism
+	C0221043	Liddle Syndrome
+	C0268436	Pseudohypoaldosteronism, Type I
+	C1449843	Pseudohypoaldosteronism, Type I, Autosomal Recessive
+
+	Associated symptoms average: 6.4
+	Number of diseases: 5
+
+
+Cluster 59:
+	C0020551	Hyperthyroxinemia
+	C0022806	Kwashiorkor
+	C2750824	Dystransthyretinemic Euthyroidal Hyperthyroxinemia
+
+	Associated symptoms average: 6.666666666666667
+	Number of diseases: 3
+
+
+Cluster 60:
+	C0020597	Hypobetalipoproteinemias
+	C1704429	Hypoalphalipoproteinemia, Familial
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 61:
+	C0020617	Hypoglycemic coma
+	C3149378	IMMUNODEFICIENCY, COMMON VARIABLE, 1
+
+	Associated symptoms average: 48.5
+	Number of diseases: 2
+
+
+Cluster 62:
+	C0020630	Hypophosphatasia
+	C0268412	Infantile hypophosphatasia
+
+	Associated symptoms average: 8.0
+	Number of diseases: 2
+
+
+Cluster 63:
+	C0020758	Congenital ichthyosis
+	C0079153	Hyperkeratosis, Epidermolytic
+	C0079583	Ichthyosiform Erythroderma, Congenital
+	C1855789	Self-Healing Collodion Baby
+
+	Associated symptoms average: 11.5
+	Number of diseases: 4
+
+
+Cluster 64:
+	C0021828	Intestinal Atresia
+	C0079683	Herlitz Disease
+
+	Associated symptoms average: 5.0
+	Number of diseases: 2
+
+
+Cluster 65:
+	C0022340	Late-Infantile Neuronal Ceroid Lipfuscinosis
+	C1876161	CEROID LIPOFUSCINOSIS, NEURONAL, 2
+
+	Associated symptoms average: 12.5
+	Number of diseases: 2
+
+
+Cluster 66:
+	C0022573	Keratoconjunctivitis
+	C0085860	Autoimmune Syndrome Type II, Polyglandular
+	C3494489	Autoimmune polyendocrinopathy syndrome, type 1
+	C4083008	Guillain-Barre Syndrome, Familial
+
+	Associated symptoms average: 17.25
+	Number of diseases: 4
+
+
+Cluster 67:
+	C0022672	Acute Kidney Tubular Necrosis
+	C0034734	Raynaud Disease
+	C0268255	Farber Lipogranulomatosis
+	C0392702	Abnormal involuntary movement
+
+	Associated symptoms average: 19.25
+	Number of diseases: 4
+
+
+Cluster 68:
+	C0022802	Kuru
+	C0036457	Scrapie
+	C0376329	New Variant Creutzfeldt-Jakob Disease
+	C0393911	Pure Autonomic Failure
+	C0751254	Creutzfeldt-Jakob Disease, Familial
+	C0751645	Human Transmissible Spongiform Encephalopathies, Inherited
+	C0751758	Advanced Sleep Phase Syndrome
+	C1135993	Wasting Disease, Chronic
+	C1864112	HUNTINGTON DISEASE-LIKE 1
+	C2931022	Amyloidosis, Cerebral, with Spongiform Encephalopathy
+
+	Associated symptoms average: 10.9
+	Number of diseases: 10
+
+
+Cluster 69:
+	C0022951	Lactose Intolerance
+	C0268181	Lactose Intolerance, Adult Type
+
+	Associated symptoms average: 14.0
+	Number of diseases: 2
+
+
+Cluster 70:
+	C0023075	Laryngostenosis
+	C0040583	Tracheal Stenosis
+	C0432201	Boomerang dysplasia
+
+	Associated symptoms average: 3.3333333333333335
+	Number of diseases: 3
+
+
+Cluster 71:
+	C0023343	Leprosy
+	C0023364	Leptospirosis
+	C0030481	Tropical Spastic Paraparesis
+	C0042170	Uveomeningoencephalitic Syndrome
+	C0282687	Hemorrhagic Fever, Ebola
+
+	Associated symptoms average: 17.6
+	Number of diseases: 5
+
+
+Cluster 72:
+	C0023795	Lipoid Proteinosis of Urbach and Wiethe
+	C0238378	Desquamative interstitial pneumonia
+	C1970470	SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 2 (disorder)
+
+	Associated symptoms average: 7.0
+	Number of diseases: 3
+
+
+Cluster 73:
+	C0023801	Lipomatosis
+	C0265326	Bannayan-Riley-Ruvalcaba Syndrome
+	C2745963	Kashin-Beck Disease
+	C2931826	Potassium aggravated myotonia
+
+	Associated symptoms average: 2.0
+	Number of diseases: 4
+
+
+Cluster 74:
+	C0023882	Little's Disease
+	C0041351	Tularemia
+
+	Associated symptoms average: 15.5
+	Number of diseases: 2
+
+
+Cluster 75:
+	C0024054	Lown-Ganong-Levine Syndrome
+	C0042167	Uveitis, Posterior
+	C1968689	Hyper-Immunoglobulin E Syndrome, Autosomal Recessive
+	C2936739	Hyper-Immunoglobulin E Syndrome, Autosomal Dominant
+	C3489795	Hyper-Ige Recurrent Infection Syndrome, Autosomal Dominant
+
+	Associated symptoms average: 6.0
+	Number of diseases: 5
+
+
+Cluster 76:
+	C0024131	Lupus Vulgaris
+	C0024138	Lupus Erythematosus, Discoid
+	C0409974	Lupus Erythematosus
+
+	Associated symptoms average: 6.666666666666667
+	Number of diseases: 3
+
+
+Cluster 77:
+	C0024266	Lymphocytic Choriomeningitis
+	C0153014	Non-arthropod borne lymphocytic choriomeningitis
+
+	Associated symptoms average: 56.0
+	Number of diseases: 2
+
+
+Cluster 78:
+	C0025229	Melioidosis
+	C0042961	Intestinal Volvulus
+
+	Associated symptoms average: 16.0
+	Number of diseases: 2
+
+
+Cluster 79:
+	C0026697	Mucolipidoses
+	C0086795	Pfaundler-Hurler Syndrome
+	C0268226	Type I Mucolipidosis
+	C0268228	Neuraminidase 1 deficiency
+	C0268233	GALACTOSIALIDOSIS
+	C2718068	beta-Galactosidase Deficiency
+
+	Associated symptoms average: 16.0
+	Number of diseases: 6
+
+
+Cluster 80:
+	C0027122	Myositis Ossificans
+	C0041349	Nephritis, Tubulointerstitial
+
+	Associated symptoms average: 10.0
+	Number of diseases: 2
+
+
+Cluster 81:
+	C0027127	Myotonia Congenita
+	C2936781	Generalized Myotonia of Thomsen
+
+	Associated symptoms average: 14.0
+	Number of diseases: 2
+
+
+Cluster 82:
+	C0027547	Necrotizing Scleritis
+	C0238067	Colitis, Collagenous
+	C0878693	Conjunctivochalasis
+
+	Associated symptoms average: 10.333333333333334
+	Number of diseases: 3
+
+
+Cluster 83:
+	C0028326	Noonan Syndrome
+	C0041409	Turner Syndrome, Male
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 84:
+	C0028840	Ocular Hypertension
+	C0152136	Low Tension Glaucoma
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 85:
+	C0029294	Orofaciodigital Syndromes
+	C1510460	Orofaciodigital Syndrome I
+
+	Associated symptoms average: 4.0
+	Number of diseases: 2
+
+
+Cluster 86:
+	C0029421	Osteochondritis Dissecans
+	C0038016	Spondylolisthesis
+	C1859726	ARTERIAL TORTUOSITY SYNDROME
+	C2697932	Loeys-Dietz Syndrome
+	C3151087	LOEYS-DIETZ SYNDROME 3
+
+	Associated symptoms average: 13.4
+	Number of diseases: 5
+
+
+Cluster 87:
+	C0031111	Periostitis
+	C0085074	Granuloma Annulare
+
+	Associated symptoms average: 3.5
+	Number of diseases: 2
+
+
+Cluster 88:
+	C0032300	Lobar Pneumonia
+	C0155862	Streptococcal pneumonia
+
+	Associated symptoms average: 6.0
+	Number of diseases: 2
+
+
+Cluster 89:
+	C0032310	Pneumonia, Viral
+	C0206744	T-Lymphocytopenia, Idiopathic CD4-Positive
+
+	Associated symptoms average: 11.0
+	Number of diseases: 2
+
+
+Cluster 90:
+	C0033806	Pseudohypoparathyroidism
+	C0033835	Pseudopseudohypoparathyroidism
+	C0242292	McCune-Albright Syndrome
+	C3494506	Pseudohypoparathyroidism, Type Ia
+
+	Associated symptoms average: 9.25
+	Number of diseases: 4
+
+
+Cluster 91:
+	C0034735	Raynaud Phenomenon
+	C0036285	Scarlet Fever
+
+	Associated symptoms average: 35.0
+	Number of diseases: 2
+
+
+Cluster 92:
+	C0035021	Relapsing Fever
+	C0398691	Hyperimmunoglobulinemia D
+
+	Associated symptoms average: 10.0
+	Number of diseases: 2
+
+
+Cluster 93:
+	C0035302	Retinal Artery Occlusion
+	C1956391	Temporal Arteritis
+
+	Associated symptoms average: 9.5
+	Number of diseases: 2
+
+
+Cluster 94:
+	C0035436	Rheumatic Fever
+	C0264490	Acute respiratory failure
+
+	Associated symptoms average: 19.0
+	Number of diseases: 2
+
+
+Cluster 95:
+	C0035613	Rift Valley Fever
+	C0043116	HMN (Hereditary Motor Neuropathy) Proximal Type I
+
+	Associated symptoms average: 14.0
+	Number of diseases: 2
+
+
+Cluster 96:
+	C0036310	Scheuermann's Disease
+	C0265211	Marshall-Smith syndrome
+
+	Associated symptoms average: 7.5
+	Number of diseases: 2
+
+
+Cluster 97:
+	C0036508	Seborrheic dermatitis
+	C0795907	CONOTRUNCAL ANOMALY FACE SYNDROME
+	C2936346	22q11 Deletion Syndrome
+
+	Associated symptoms average: 19.333333333333332
+	Number of diseases: 3
+
+
+Cluster 98:
+	C0036689	Streptococcal sore throat
+	C0042025	Urinary Stress Incontinence
+	C0156221	Acute glomerulonephritis
+	C0238124	Necrotizing fasciitis
+
+	Associated symptoms average: 15.75
+	Number of diseases: 4
+
+
+Cluster 99:
+	C0038362	Stomatitis
+	C1568868	Oral Mucositis
+
+	Associated symptoms average: 24.0
+	Number of diseases: 2
+
+
+Cluster 100:
+	C0040261	Onychomycosis
+	C0343065	Symptomatic dermographism
+
+	Associated symptoms average: 9.0
+	Number of diseases: 2
+
+
+Cluster 101:
+	C0040479	Torsades de Pointes
+	C1142307	Paratubal Cyst
+
+	Associated symptoms average: 8.0
+	Number of diseases: 2
+
+
+Cluster 102:
+	C0040963	Tricuspid Valve Stenosis
+	C1832916	Timothy syndrome
+
+	Associated symptoms average: 4.0
+	Number of diseases: 2
+
+
+Cluster 103:
+	C0041364	Tumor Lysis Syndrome
+	C0206067	Focal Epithelial Hyperplasia
+	C0268647	Lysinuric Protein Intolerance
+	C0398367	Histiocytic Necrotizing Lymphadenitis
+	C0456483	Simple Endometrial Hyperplasia
+	C2748503	Corneal Dystrophy, Subepithelial Mucinous
+
+	Associated symptoms average: 6.333333333333333
+	Number of diseases: 6
+
+
+Cluster 104:
+	C0041972	Urethral Obstruction
+	C0206525	Tuberculosis, Drug-Resistant
+	C1861303	SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)
+	C1969623	NEUROFIBROMATOSIS, TYPE 1-LIKE SYNDROME
+
+	Associated symptoms average: 0.25
+	Number of diseases: 4
+
+
+Cluster 105:
+	C0078981	Arachnoid Cysts
+	C0264353	Bronchomalacia
+	C0795998	JACKSON-WEISS SYNDROME
+	C0948187	Tracheomalacia
+	C2931888	Pfeiffer type acrocephalosyndactyly
+	C2936791	Antley-Bixler Syndrome, Autosomal Dominant
+
+	Associated symptoms average: 12.0
+	Number of diseases: 6
+
+
+Cluster 106:
+	C0079504	Hermanski-Pudlak Syndrome
+	C2931875	Albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells
+
+	Associated symptoms average: 11.0
+	Number of diseases: 2
+
+
+Cluster 107:
+	C0079588	Ichthyosis, X-Linked
+	C2717836	Steroid Sulfatase Deficiency Disease
+
+	Associated symptoms average: 1.0
+	Number of diseases: 2
+
+
+Cluster 108:
+	C0085077	Sweet Syndrome
+	C0086981	Sicca Syndrome
+
+	Associated symptoms average: 20.0
+	Number of diseases: 2
+
+
+Cluster 109:
+	C0085082	Fungemia
+	C1443892	Chronic Q Fever
+	C3489393	Hiatal Hernia
+
+	Associated symptoms average: 15.0
+	Number of diseases: 3
+
+
+Cluster 110:
+	C0085083	Ovarian Hyperstimulation Syndrome
+	C1858805	Vohwinkel Syndrome, Variant Form
+
+	Associated symptoms average: 5.5
+	Number of diseases: 2
+
+
+Cluster 111:
+	C0085574	Palindromic rheumatism
+	C0085693	Acute appendicitis NOS (disorder)
+
+	Associated symptoms average: 25.0
+	Number of diseases: 2
+
+
+Cluster 112:
+	C0085652	Pyoderma Gangrenosum
+	C1858361	Pyogenic Arthritis, Pyoderma Gangrenosum and Acne
+	C3891815	Arthritis, Suppurative
+
+	Associated symptoms average: 16.333333333333332
+	Number of diseases: 3
+
+
+Cluster 113:
+	C0086647	Mucopolysaccharidosis Type IIIA
+	C2713321	alpha-L-Iduronidase Deficiency
+
+	Associated symptoms average: 5.0
+	Number of diseases: 2
+
+
+Cluster 114:
+	C0087031	Juvenile-Onset Still Disease
+	C0393534	Paraneoplastic Cerebellar Degeneration
+	C0751913	Paraneoplastic Cerebellar Degeneration, Anti-Yo-Associated
+	C2363129	Benign Rolandic Epilepsy
+
+	Associated symptoms average: 20.25
+	Number of diseases: 4
+
+
+Cluster 115:
+	C0149781	Spontaneous pneumothorax
+	C0268146	Glucose-6-phosphate transport defect
+	C0342245	Diabetic oculopathy
+	C0346010	Multiple fibrofolliculomas
+	C1834523	ARTHROGRYPOSIS, DISTAL, TYPE 2B
+	C3695318	Chronic kidney disease due to hypertension
+
+	Associated symptoms average: 19.666666666666668
+	Number of diseases: 6
+
+
+Cluster 116:
+	C0152109	Juvenile Spinal Muscular Atrophy
+	C0393538	Muscular Atrophy, Spinal, Type II
+	C0393541	Distal Spinal Muscular Atrophy
+	C1834690	Spinal Muscular Atrophy, Childhood, Proximal, Autosomal Dominant
+	C1838230	SPINAL MUSCULAR ATROPHY, TYPE IV
+
+	Associated symptoms average: 9.6
+	Number of diseases: 5
+
+
+Cluster 117:
+	C0154850	Cystoid macular retinal degeneration
+	C0268450	Gitelman Syndrome
+	C1842914	Adult-Onset Vitelliform Macular Dystrophy
+	C2720163	Placental Steroid Sulfatase Deficiency
+	C2745945	Juvenile-Onset Vitelliform Macular Dystrophy
+
+	Associated symptoms average: 3.8
+	Number of diseases: 5
+
+
+Cluster 118:
+	C0155111	Bullous keratopathy
+	C0410179	Scleroatonic muscular dystrophy
+
+	Associated symptoms average: 1.5
+	Number of diseases: 2
+
+
+Cluster 119:
+	C0158945	Congenital cytomegalovirus infection
+	C0265210	Weaver syndrome
+	C0406587	Wrinkly skin syndrome
+
+	Associated symptoms average: 9.666666666666666
+	Number of diseases: 3
+
+
+Cluster 120:
+	C0175683	Citrullinemia
+	C0393615	Familial Tremor
+
+	Associated symptoms average: 14.5
+	Number of diseases: 2
+
+
+Cluster 121:
+	C0175694	Smith-Lemli-Opitz Syndrome
+	C0546983	Post-Concussion Syndrome
+
+	Associated symptoms average: 25.0
+	Number of diseases: 2
+
+
+Cluster 122:
+	C0175709	Centronuclear myopathy
+	C0752282	Congenital Structural Myopathy
+
+	Associated symptoms average: 18.0
+	Number of diseases: 2
+
+
+Cluster 123:
+	C0175713	Aicardi's syndrome
+	C0268297	Pseudovaginal Perineoscrotal Hypospadias
+	C0404572	Female infertility associated with anovulation
+	C0752352	Muscular Disorders, Atrophic
+	C2678098	Hypospadias 1, X-Linked
+	C2713546	Androgen Receptor Deficiency
+	C2931395	Bulbospinal neuronopathy, X-linked recessive
+	C3887980	COLORBLINDNESS, PARTIAL, PROTAN SERIES
+	C4083212	Alopecia, Male Pattern
+
+	Associated symptoms average: 9.0
+	Number of diseases: 9
+
+
+Cluster 124:
+	C0220669	Familial benign neonatal epilepsy
+	C0338484	Familial Hemiplegic Migraine
+	C0349578	Complex Endometrial Hyperplasia
+	C0393702	Myoclonic Astatic Epilepsy
+	C0752210	Dyskinesias, Paroxysmal
+	C1847501	Glut1 Deficiency Syndrome
+
+	Associated symptoms average: 12.666666666666666
+	Number of diseases: 6
+
+
+Cluster 125:
+	C0220710	Medium-chain acyl-coenzyme A dehydrogenase deficiency
+	C0272203	Indolent Systemic Mastocytosis
+
+	Associated symptoms average: 6.0
+	Number of diseases: 2
+
+
+Cluster 126:
+	C0221011	Malignant Atrophic Papulosis
+	C0265221	Walker-Warburg congenital muscular dystrophy
+	C0392550	Hemiplegia, Infantile
+	C0457133	Muscle eye brain disease
+	C0751003	Brain Aneurysm
+	C3489725	Pseudo-TORCH syndrome
+
+	Associated symptoms average: 16.166666666666668
+	Number of diseases: 6
+
+
+Cluster 127:
+	C0221018	Hereditary sideroblastic anemia
+	C1862839	Anterior segment mesenchymal dysgenesis
+
+	Associated symptoms average: 7.0
+	Number of diseases: 2
+
+
+Cluster 128:
+	C0238286	Mucolipidosis Type IV
+	C0342853	Sialuria
+	C0878677	Glycogen Storage Disease Type IIb
+	C1096903	Sialic Acid Storage Disease, Finnish Type (disorder)
+
+	Associated symptoms average: 6.0
+	Number of diseases: 4
+
+
+Cluster 129:
+	C0242287	Isaacs syndrome
+	C0270851	Benign neonatal epilepsy
+	C1719788	Episodic ataxia type 1
+
+	Associated symptoms average: 10.333333333333334
+	Number of diseases: 3
+
+
+Cluster 130:
+	C0242583	Bare Lymphocyte Syndrome
+	C2931418	Bare lymphocyte syndrome 2
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 131:
+	C0264423	Asthma, Occupational
+	C1840253	IgE RESPONSIVENESS, ATOPIC
+
+	Associated symptoms average: 21.5
+	Number of diseases: 2
+
+
+Cluster 132:
+	C0264611	Apraxia of Phonation
+	C0393554	Amyotrophic Lateral Sclerosis With Dementia
+	C4085251	PAGET DISEASE OF BONE 2, EARLY-ONSET
+
+	Associated symptoms average: 19.333333333333332
+	Number of diseases: 3
+
+
+Cluster 133:
+	C0265220	Pallister-Hall syndrome
+	C1857800	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 2
+	C1970431	PITT-HOPKINS SYNDROME
+	C2750451	CORNEAL DYSTROPHY, FUCHS ENDOTHELIAL, 3
+
+	Associated symptoms average: 7.5
+	Number of diseases: 4
+
+
+Cluster 134:
+	C0265970	Porokeratosis, Disseminated Superficial Actinic
+	C0949506	Porokeratosis of Mibelli
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 135:
+	C0266427	Testicular regression syndrome
+	C2936694	Swyer Syndrome
+
+	Associated symptoms average: 1.0
+	Number of diseases: 2
+
+
+Cluster 136:
+	C0267809	Cirrhosis, Cryptogenic
+	C1861556	Cirrhosis, Familial
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 137:
+	C0268125	Purine-nucleoside phosphorylase deficiency
+	C0268483	Tyrosinemias
+	C0268487	Tyrosine Transaminase Deficiency Disease
+
+	Associated symptoms average: 8.666666666666666
+	Number of diseases: 3
+
+
+Cluster 138:
+	C0268274	Gangliosidoses, GM2
+	C0268275	Tay-Sachs Disease, AB Variant
+
+	Associated symptoms average: 11.0
+	Number of diseases: 2
+
+
+Cluster 139:
+	C0268465	Phenylketonuria II
+	C0751436	Hyperphenylalaninemia, Non-Phenylketonuric
+	C0752207	Familial Dystonia
+
+	Associated symptoms average: 10.0
+	Number of diseases: 3
+
+
+Cluster 140:
+	C0268568	Classic Maple Syrup Urine Disease
+	C0268569	Intermittent Maple Syrup Urine Disease
+	C0751285	Maple Syrup Urine Disease, Thiamine Responsive
+	C1621920	Intermediate Maple Syrup Urine Disease
+
+	Associated symptoms average: 22.0
+	Number of diseases: 4
+
+
+Cluster 141:
+	C0270726	Alexander Disease
+	C1832370	MYOPATHY, MYOFIBRILLAR, DESMIN-RELATED
+
+	Associated symptoms average: 5.5
+	Number of diseases: 2
+
+
+Cluster 142:
+	C0270764	Motor Neuron Disease, Lower
+	C0917981	Progressive Muscular Atrophy
+
+	Associated symptoms average: 3.5
+	Number of diseases: 2
+
+
+Cluster 143:
+	C0271097	Usher Syndrome
+	C1568247	Usher Syndrome, Type I
+	C2931205	Usher syndrome, type 1A
+
+	Associated symptoms average: 6.0
+	Number of diseases: 3
+
+
+Cluster 144:
+	C0271623	Hypogonadotropic hypogonadism
+	C3489396	Hypogonadism, Isolated Hypogonadotropic
+
+	Associated symptoms average: 22.0
+	Number of diseases: 2
+
+
+Cluster 145:
+	C0271979	Thalassemia Intermedia
+	C0271985	Delta-Beta Thalassemia
+	C0271990	delta-Thalassemia
+
+	Associated symptoms average: 10.0
+	Number of diseases: 3
+
+
+Cluster 146:
+	C0282102	Chondrodysplasia punctata, X-linked dominant type
+	C0282529	Chondrodysplasia Punctata, Rhizomelic
+	C0362030	Verrucous epidermal nevus
+	C1300257	Thanatophoric dysplasia, type 2
+	C1956097	Wolf-Hirschhorn Syndrome
+	C2677099	CROUZON SYNDROME WITH ACANTHOSIS NIGRICANS (disorder)
+
+	Associated symptoms average: 2.8333333333333335
+	Number of diseases: 6
+
+
+Cluster 147:
+	C0311245	Congenital cystic kidney disease
+	C1863728	Hemophagocytic lymphohistiocytosis, familial, 4
+
+	Associated symptoms average: 17.5
+	Number of diseases: 2
+
+
+Cluster 148:
+	C0340375	Subaortic stenosis
+	C0376356	Premenstrual Tension
+
+	Associated symptoms average: 13.5
+	Number of diseases: 2
+
+
+Cluster 149:
+	C0341306	Microvillus inclusion disease
+	C1849437	Mainzer-Saldino Disease
+
+	Associated symptoms average: 2.0
+	Number of diseases: 2
+
+
+Cluster 150:
+	C0342384	Idiopathic hypogonadotropic hypogonadism
+	C1563720	Kallmann Syndrome 2 (disorder)
+
+	Associated symptoms average: 26.5
+	Number of diseases: 2
+
+
+Cluster 151:
+	C0376524	Branchio-Oculo-Facial Syndrome
+	C1867020	SCALP-EAR-NIPPLE SYNDROME
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 152:
+	C0393584	Benign Hereditary Chorea
+	C0743332	Focal Dystonia
+	C0752202	Childhood Onset Dystonias
+	C0752205	Dystonia, Secondary
+	C1834570	Myoclonic dystonia
+
+	Associated symptoms average: 9.0
+	Number of diseases: 5
+
+
+Cluster 153:
+	C0393808	Charcot-Marie-Tooth disease, X-linked, 1
+	C1856113	Mowat-Wilson syndrome
+	C1861922	CAMPOMELIC DYSPLASIA
+	C1866425	Yemenite deaf-blind hypopigmentation syndrome
+
+	Associated symptoms average: 7.5
+	Number of diseases: 4
+
+
+Cluster 154:
+	C0410204	Myopathy, Centronuclear, Autosomal Recessive
+	C0751951	Central Core Myopathy (disorder)
+	C1834558	Myopathy, Centronuclear, Autosomal Dominant
+	C3645536	Autosomal Recessive Centronuclear Myopathy
+
+	Associated symptoms average: 12.5
+	Number of diseases: 4
+
+
+Cluster 155:
+	C0545044	Acrokeratoelastoidosis of Costa
+	C3665488	Familial Osteochondritis Dissecans
+	C3888318	Myopathy, familial idiopathic inflammatory
+
+	Associated symptoms average: 6.0
+	Number of diseases: 3
+
+
+Cluster 156:
+	C0553586	Cafe-au-lait macules with pulmonary stenosis
+	C2931482	Neurofibromatosis-Noonan syndrome
+
+	Associated symptoms average: 18.0
+	Number of diseases: 2
+
+
+Cluster 157:
+	C0733682	Hypophosphatemic Rickets, X-Linked Dominant
+	C3536984	Vitamin D-Resistant Rickets, X-Linked
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 158:
+	C0751122	Infantile Severe Myoclonic Epilepsy
+	C1867403	Pyloric Stenosis, Infantile Hypertrophic 1
+
+	Associated symptoms average: 12.0
+	Number of diseases: 2
+
+
+Cluster 159:
+	C0751711	Anterior Ischemic Optic Neuropathy
+	C1861185	THROMBOCYTOPENIA 2 (disorder)
+
+	Associated symptoms average: 10.0
+	Number of diseases: 2
+
+
+Cluster 160:
+	C0872218	MITOCHONDRIAL NEUROGASTROINTESTINAL ENCEPHALOPATHY SYNDROME
+	C2749861	MITOCHONDRIAL DNA DEPLETION SYNDROME 8A (ENCEPHALOMYOPATHIC TYPE WITH RENAL TUBULOPATHY)
+	C3150914	MITOCHONDRIAL DNA DEPLETION SYNDROME 4B (MNGIE TYPE)
+
+	Associated symptoms average: 44.0
+	Number of diseases: 3
+
+
+Cluster 161:
+	C1258085	Barrett Epithelium
+	C1835398	LI-FRAUMENI SYNDROME 1
+
+	Associated symptoms average: 5.0
+	Number of diseases: 2
+
+
+Cluster 162:
+	C1268935	Congenital Thrombotic Thrombocytopenic Purpura
+	C1565662	Acute Kidney Insufficiency
+
+	Associated symptoms average: 38.0
+	Number of diseases: 2
+
+
+Cluster 163:
+	C1280469	Podoconiosis
+	C1843273	Tubulointerstitial nephritis and uveitis
+
+	Associated symptoms average: 2.5
+	Number of diseases: 2
+
+
+Cluster 164:
+	C1306122	Oguchi disease
+	C1860042	Antley-Bixler Syndrome with Disordered Steroidogenesis
+	C2350233	Antley-Bixler Syndrome Phenotype
+
+	Associated symptoms average: 5.333333333333333
+	Number of diseases: 3
+
+
+Cluster 165:
+	C1328349	Neuropathy ataxia and retinis pigmentosa
+	C1876175	Ataxia-Telangiectasia Variant
+
+	Associated symptoms average: 29.0
+	Number of diseases: 2
+
+
+Cluster 166:
+	C1563715	Andersen Syndrome
+	C1843687	ATRIAL FIBRILLATION, FAMILIAL, 1 (disorder)
+
+	Associated symptoms average: 10.5
+	Number of diseases: 2
+
+
+Cluster 167:
+	C1721005	Leukokeratosis, Hereditary Mucosal
+	C4011926	WHITE SPONGE NEVUS 1
+
+	Associated symptoms average: 1.0
+	Number of diseases: 2
+
+
+Cluster 168:
+	C1833693	Otodental Dysplasia
+	C2750325	Oculootodental Syndrome
+
+	Associated symptoms average: 12.0
+	Number of diseases: 2
+
+
+Cluster 169:
+	C1840392	HYPERPIGMENTATION, FAMILIAL PROGRESSIVE
+	C2681535	HYPERPIGMENTATION, FAMILIAL PROGRESSIVE, 1
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 170:
+	C1847967	OVARIOLEUKODYSTROPHY
+	C1858991	Childhood Ataxia with Central Nervous System Hypomyelinization
+
+	Associated symptoms average: 21.0
+	Number of diseases: 2
+
+
+Cluster 171:
+	C1851710	LATERAL MENINGOCELE SYNDROME
+	C1863753	LIMB-MAMMARY SYNDROME
+
+	Associated symptoms average: 1.5
+	Number of diseases: 2
+
+
+Cluster 172:
+	C1851958	Lewy Body Variant of Alzheimer Disease
+	C1961835	Gaucher Disease, Type 1
+
+	Associated symptoms average: 44.5
+	Number of diseases: 2
+
+
+Cluster 173:
+	C1853124	NEPHROTIC SYNDROME, TYPE 3
+	C3150971	LEOPARD SYNDROME 3
+
+	Associated symptoms average: 27.0
+	Number of diseases: 2
+
+
+Cluster 174:
+	C1855627	HAIM-MUNK SYNDROME
+	C3495551	Dihydropyrimidinuria
+
+	Associated symptoms average: 4.5
+	Number of diseases: 2
+
+
+Cluster 175:
+	C1857747	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 2 (disorder)
+	C2750220	Karak Syndrome
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 176:
+	C1862932	ANEURYSM, INTRACRANIAL BERRY, 1 (disorder)
+	C2713497	Saccular Aneurysm
+	C3887658	PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT
+
+	Associated symptoms average: 18.666666666666668
+	Number of diseases: 3
+
+
+Cluster 177:
+	C1863370	Saethre-Chotzen Syndrome with Eyelid Anomalies
+	C2242703	Cardio-Renal Syndrome
+	C2931150	Synostotic Anterior Plagiocephaly
+
+	Associated symptoms average: 26.333333333333332
+	Number of diseases: 3
+
+
+Cluster 178:
+	C1864124	SCHIZOPHRENIA 8 (disorder)
+	C3554519	COWDEN SYNDROME 6
+
+	Associated symptoms average: 27.0
+	Number of diseases: 2
+
+
+Cluster 179:
+	C1865285	Megalencephaly cutis marmorata telangiectatica congenita
+	C3554518	COWDEN SYNDROME 5
+
+	Associated symptoms average: 7.5
+	Number of diseases: 2
+
+
+Cluster 180:
+	C1868720	Periventricular Nodular Heterotopia
+	C1955870	Classical Lissencephalies and Subcortical Band Heterotopias
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 181:
+	C1969056	LEOPARD SYNDROME 2
+	C1969057	Noonan Syndrome 5
+	C2986536	Bisphosphonate-associated osteonecrosis
+
+	Associated symptoms average: 10.333333333333334
+	Number of diseases: 3
+
+
+Cluster 182:
+	C3275998	THROMBOCYTHEMIA 2
+	C3277671	THROMBOCYTHEMIA 1
+	C3281125	THROMBOCYTHEMIA 3
+
+	Associated symptoms average: 16.0
+	Number of diseases: 3
+
+

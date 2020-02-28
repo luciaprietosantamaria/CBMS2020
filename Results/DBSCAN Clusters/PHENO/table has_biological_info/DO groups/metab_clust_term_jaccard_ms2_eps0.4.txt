@@ -1,0 +1,519 @@
+CLUSTERS for [METABOLIC phenotypical has_biological_info] term_jaccard, MS 2, eps 0.4
+	--> Number of clusters: 71
+	--> Number of outliers: 210
+	--> Silhouette coefficient: 0.46473702868324734
+
+Cluster 0:
+	C0002986	Fabry Disease
+	C1970820	Fabry Disease, Cardiac Variant
+	Number of diseases: 2
+
+
+Cluster 1:
+	C0003969	Ascorbic Acid Deficiency
+	C0036474	Scurvy
+	Number of diseases: 2
+
+
+Cluster 2:
+	C0010691	Cystinuria
+	C1857388	Cystinuria, Type A
+	C1857389	Cystinuria, Type B
+	Number of diseases: 3
+
+
+Cluster 3:
+	C0011854	Diabetes Mellitus, Insulin-Dependent
+	C0205734	Diabetes, Autoimmune
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0016952	Galactosemias
+	C0268151	Classical galactosemia
+	C0268155	Deficiency of galactokinase
+	C0751161	UDPglucose 4-epimerase deficiency disease
+	Number of diseases: 4
+
+
+Cluster 5:
+	C0017205	Gaucher Disease
+	C0268250	Gaucher Disease, Type 2 (disorder)
+	C0268251	Gaucher Disease, Type 3 (disorder)
+	C1961835	Gaucher Disease, Type 1
+	Number of diseases: 4
+
+
+Cluster 6:
+	C0017920	Glycogen Storage Disease Type I
+	C0342749	GLYCOGEN STORAGE DISEASE Ic
+	C0342750	Glycogen storage disease type Id
+	Number of diseases: 3
+
+
+Cluster 7:
+	C0017921	Glycogen storage disease type II
+	C0342751	Generalized glycogen storage disease of infants
+	C0751173	Glycogen Storage Disease Type II, Infantile
+	Number of diseases: 3
+
+
+Cluster 8:
+	C0017922	Glycogen Storage Disease Type III
+	C1968739	Glycogen Storage Disease IIIA
+	C1968740	Glycogen Storage Disease IIIB
+	C1968741	Glycogen Storage Disease IIIC
+	Number of diseases: 4
+
+
+Cluster 9:
+	C0018995	Hemochromatosis
+	C0392514	Hereditary hemochromatosis
+	C3469186	HEMOCHROMATOSIS, TYPE 1
+	Number of diseases: 3
+
+
+Cluster 10:
+	C0019880	Homocystinuria
+	C0751202	Cystathionine beta-Synthase Deficiency Disease
+	C3150344	HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED
+	Number of diseases: 3
+
+
+Cluster 11:
+	C0020435	Hyperbilirubinemia, Hereditary
+	C0220991	Rotor Syndrome
+	Number of diseases: 2
+
+
+Cluster 12:
+	C0020445	Hypercholesterolemia, Familial
+	C0745103	Hyperlipoproteinemia Type IIa
+	C1704417	Hyperlipoproteinemia Type IIb
+	Number of diseases: 3
+
+
+Cluster 13:
+	C0020459	Hyperinsulinism
+	C1257965	Compensatory Hyperinsulinemia
+	Number of diseases: 2
+
+
+Cluster 14:
+	C0020615	Hypoglycemia
+	C0271710	Reactive hypoglycemia
+	Number of diseases: 2
+
+
+Cluster 15:
+	C0020725	Type II Mucolipidosis
+	C0026697	Mucolipidoses
+	C0033788	Pseudo-Hurler Polydystrophy
+	C0238286	Mucolipidosis Type IV
+	C2673377	MUCOLIPIDOSIS II ALPHA/BETA (disorder)
+	Number of diseases: 5
+
+
+Cluster 16:
+	C0022340	Late-Infantile Neuronal Ceroid Lipfuscinosis
+	C0022797	Adult Neuronal Ceroid Lipofuscinosis
+	C0027877	Neuronal Ceroid-Lipofuscinoses
+	C0751383	Juvenile Neuronal Ceroid Lipofuscinosis
+	C1834207	Ceroid Lipofuscinosis, Neuronal, Parry Type
+	Number of diseases: 5
+
+
+Cluster 17:
+	C0022951	Lactose Intolerance
+	C0268181	Lactose Intolerance, Adult Type
+	Number of diseases: 2
+
+
+Cluster 18:
+	C0023195	Lecithin Acyltransferase Deficiency
+	C0342895	Fish-Eye Disease
+	Number of diseases: 2
+
+
+Cluster 19:
+	C0023264	Leigh Disease
+	C1838951	LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX I DEFICIENCY
+	C1850598	Leigh Syndrome due to Mitochondrial Complex III Deficiency
+	Number of diseases: 3
+
+
+Cluster 20:
+	C0023374	Lesch-Nyhan Syndrome
+	C1845892	Lesch-Nyhan Syndrome, Neurologic Variant
+	Number of diseases: 2
+
+
+Cluster 21:
+	C0023521	Globoid cell leukodystrophy
+	C0268252	Late-Onset Globoid Cell Leukodystrophy
+	C0751273	Infantile Globoid Cell Leukodystrophy
+	Number of diseases: 3
+
+
+Cluster 22:
+	C0023522	Leukodystrophy, Metachromatic
+	C0751276	Metachromatic leukodystrophy, juvenile type
+	C0751278	Metachromatic Leukodystrophy, Infant
+	C0751279	Metachromatic Leukodystrophy, Adult-Type (disorder)
+	C1855255	Pseudoarylsulfatase A Deficiency
+	C2713319	Arylsulfatase A Deficiency
+	Number of diseases: 6
+
+
+Cluster 23:
+	C0023786	Mucopolysaccharidosis I
+	C0026708	Mucopolysaccharidosis V
+	C0086431	Hurler-Scheie Syndrome
+	C0086795	Pfaundler-Hurler Syndrome
+	C2713321	alpha-L-Iduronidase Deficiency
+	Number of diseases: 5
+
+
+Cluster 24:
+	C0023806	Lipomucopolysaccharidosis
+	C0268226	Type I Mucolipidosis
+	Number of diseases: 2
+
+
+Cluster 25:
+	C0023817	Hyperlipoproteinemia Type I
+	C1720779	Apolipoprotein C-II Deficiency (disorder)
+	Number of diseases: 2
+
+
+Cluster 26:
+	C0024776	Maple Syrup Urine Disease
+	C0268568	Classic Maple Syrup Urine Disease
+	C0268569	Intermittent Maple Syrup Urine Disease
+	C0751285	Maple Syrup Urine Disease, Thiamine Responsive
+	C1621920	Intermediate Maple Syrup Urine Disease
+	C1855369	Maple Syrup Urine Disease, Type IA
+	C1855371	MAPLE SYRUP URINE DISEASE, TYPE II
+	Number of diseases: 7
+
+
+Cluster 27:
+	C0026707	Mucopolysaccharidosis IV
+	C0086651	Mucopolysaccharidosis, MPS-IV-A
+	C0086652	Mucopolysaccharidosis type IVB
+	C3179194	GALNS Deficiency
+	Number of diseases: 4
+
+
+Cluster 28:
+	C0030443	Familial Periodic Paralysis
+	C0238357	Hyperkalemic periodic paralysis
+	C0268445	Normokalemic Periodic Paralysis
+	Number of diseases: 3
+
+
+Cluster 29:
+	C0033806	Pseudohypoparathyroidism
+	C3494506	Pseudohypoparathyroidism, Type Ia
+	Number of diseases: 2
+
+
+Cluster 30:
+	C0034345	Pyruvate Dehydrogenase Complex Deficiency Disease
+	C1839413	Pyruvate Dehydrogenase E1 Alpha Deficiency
+	Number of diseases: 2
+
+
+Cluster 31:
+	C0034960	Refsum Disease
+	C2749345	Refsum Disease, Adult, 1
+	Number of diseases: 2
+
+
+Cluster 32:
+	C0036161	Sandhoff Disease
+	C0751489	Adult Sandhoff Disease
+	C0751490	Infantile Sandhoff Disease
+	C0751491	Juvenile Sandhoff Disease
+	C1849320	Sandhoff Disease, Adult Type
+	C1849321	Sandhoff Disease, Juvenile Type
+	C1849322	Sandhoff Disease, Infantile Type
+	Number of diseases: 7
+
+
+Cluster 33:
+	C0039373	Tay-Sachs Disease
+	C0268275	Tay-Sachs Disease, AB Variant
+	C1848913	Tay-Sachs Disease, Juvenile
+	C1848916	Tay-Sachs Disease, Variant B1
+	C1848922	Hexosaminidase alpha-Subunit Deficiency (Variant B)
+	C2749283	Gm2-Gangliosidosis, Variant B1
+	Number of diseases: 6
+
+
+Cluster 34:
+	C0043459	Zellweger Syndrome
+	C1865803	Peroxisome Biogenesis Disorder, Complementation Group 1
+	C3658299	Zellweger Spectrum
+	Number of diseases: 3
+
+
+Cluster 35:
+	C0085131	Gangliosidosis GM1
+	C0268271	Gangliosidosis, Generalized GM1, Type 1 (disorder)
+	C0268272	Gangliosidosis, Generalized GM1, Type 2
+	C0268273	Gangliosidosis, Generalized GM1, Type 3
+	C1968748	Gangliosidosis, Generalized GM1, Type I, with Cardiac Involvement
+	C2718068	beta-Galactosidase Deficiency
+	Number of diseases: 6
+
+
+Cluster 36:
+	C0085547	Phenylketonuria, Maternal
+	C0268465	Phenylketonuria II
+	C0751434	Classical phenylketonuria
+	C0751435	Hyperphenylalaninaemia
+	C0751436	Hyperphenylalaninemia, Non-Phenylketonuric
+	C2678416	Hyperphenylalaninemia, Non-Pku Mild
+	Number of diseases: 6
+
+
+Cluster 37:
+	C0162530	Porphyria, Erythropoietic
+	C2718078	Deficiency of Uroporphyrinogen III Synthase
+	Number of diseases: 2
+
+
+Cluster 38:
+	C0162531	Hereditary Coproporphyria
+	C0342859	Harderoporphyria
+	Number of diseases: 2
+
+
+Cluster 39:
+	C0162532	Variegate Porphyria
+	C2936913	Porphyria, South African type
+	Number of diseases: 2
+
+
+Cluster 40:
+	C0162565	Acute intermittent porphyria
+	C1867969	Porphyria, Acute Intermittent, Nonerythroid Variant
+	C2936779	Hydroxymethylbilane Synthase Deficiency
+	Number of diseases: 3
+
+
+Cluster 41:
+	C0162566	Porphyria Cutanea Tarda
+	C0162569	Hepatoerythropoietic Porphyria
+	C0268323	Familial porphyria cutanea tarda
+	Number of diseases: 3
+
+
+Cluster 42:
+	C0175683	Citrullinemia
+	C1853942	CITRULLINEMIA, TYPE II, NEONATAL-ONSET
+	C1863844	Adult-onset citrullinemia type 2
+	Number of diseases: 3
+
+
+Cluster 43:
+	C0175694	Smith-Lemli-Opitz Syndrome
+	C2713347	7-Dehydrocholesterol Reductase Deficiency
+	Number of diseases: 2
+
+
+Cluster 44:
+	C0205710	Alpers Syndrome (disorder)
+	C0872218	MITOCHONDRIAL NEUROGASTROINTESTINAL ENCEPHALOPATHY SYNDROME
+	C1850406	NAVAJO NEUROHEPATOPATHY
+	C2749861	MITOCHONDRIAL DNA DEPLETION SYNDROME 8A (ENCEPHALOMYOPATHIC TYPE WITH RENAL TUBULOPATHY)
+	C2749864	MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH OR WITHOUT METHYLMALONIC ACIDURIA)
+	C3149750	MITOCHONDRIAL DNA DEPLETION SYNDROME 2 (MYOPATHIC TYPE)
+	C3150172	MITOCHONDRIAL DNA DEPLETION SYNDROME 8B (MNGIE TYPE)
+	C3150914	MITOCHONDRIAL DNA DEPLETION SYNDROME 4B (MNGIE TYPE)
+	C3151476	MITOCHONDRIAL DNA DEPLETION SYNDROME 9 (ENCEPHALOMYOPATHIC TYPE WITH METHYLMALONIC ACIDURIA)
+	C3151513	MITOCHONDRIAL DNA DEPLETION SYNDROME 3 (HEPATOCEREBRAL TYPE)
+	C3554462	MITOCHONDRIAL DNA DEPLETION SYNDROME 11
+	C3809443	MITOCHONDRIAL DNA DEPLETION SYNDROME 12 (CARDIOMYOPATHIC TYPE)
+	C3809592	MITOCHONDRIAL DNA DEPLETION SYNDROME 13 (ENCEPHALOMYOPATHIC TYPE)
+	Number of diseases: 13
+
+
+Cluster 45:
+	C0220756	Niemann-Pick Disease, Type C
+	C0268247	Niemann-Pick Disease, Type D
+	C1843366	NIEMANN-PICK DISEASE, TYPE C2
+	C3179455	Niemann-Pick Disease, Type C1
+	Number of diseases: 4
+
+
+Cluster 46:
+	C0265218	Neu-Laxova syndrome
+	C4015019	NEU-LAXOVA SYNDROME 2
+	Number of diseases: 2
+
+
+Cluster 47:
+	C0268118	Xanthinuria, Type I
+	C1863688	Xanthinuria, Type II
+	Number of diseases: 2
+
+
+Cluster 48:
+	C0268120	Adenine phosphoribosyltransferase deficiency
+	C3665382	2,8-Dihydroxyadenine Urolithiasis
+	Number of diseases: 2
+
+
+Cluster 49:
+	C0268228	Neuraminidase 1 deficiency
+	C1850510	SIALIDOSIS, TYPE I
+	Number of diseases: 2
+
+
+Cluster 50:
+	C0268242	Niemann-Pick Disease, Type A
+	C0268243	Niemann-Pick Disease, Type B
+	C2675646	NIEMANN-PICK DISEASE, INTERMEDIATE, PROTRACTED NEUROVISCERAL (disorder)
+	Number of diseases: 3
+
+
+Cluster 51:
+	C0268263	Multiple Sulfatase Deficiency Disease
+	C1720864	Sulfatidosis, Juvenile, Austin Type
+	Number of diseases: 2
+
+
+Cluster 52:
+	C0268285	Adrenal hyperplasia, congenital, type 5
+	C0268292	Congenital adrenal hyperplasia due to 11-Beta-hydroxylase deficiency
+	C0342474	Lipoid congenital adrenal hyperplasia
+	C3277849	17,20-Lyase Deficiency, Isolated
+	Number of diseases: 4
+
+
+Cluster 53:
+	C0268419	Acatalasia
+	C0752048	Hypocatalasemia
+	C2931868	Catalase deficiency
+	C2936847	Acatalasemia Japanese type
+	Number of diseases: 4
+
+
+Cluster 54:
+	C0268483	Tyrosinemias
+	C0268487	Tyrosine Transaminase Deficiency Disease
+	C0268490	Tyrosinemia, Type I
+	C0268623	Tyrosinemia, Type III
+	Number of diseases: 4
+
+
+Cluster 55:
+	C0268560	Hyperglycinemia, Transient Neonatal
+	C0751748	Nonketotic Hyperglycinemia
+	Number of diseases: 2
+
+
+Cluster 56:
+	C0268600	3-methylcrotonyl CoA carboxylase 1 deficiency
+	C1859499	3-methylcrotonyl CoA carboxylase 2 deficiency
+	Number of diseases: 2
+
+
+Cluster 57:
+	C0282527	Infantile Refsum Disease (disorder)
+	C3550693	PEROXISOME BIOGENESIS DISORDER 3B
+	Number of diseases: 2
+
+
+Cluster 58:
+	C0342637	Hypocalciuric hypercalcemia, familial, type 1
+	C1833372	HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE III
+	C1840347	HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE II (disorder)
+	Number of diseases: 3
+
+
+Cluster 59:
+	C0342731	Deficiency of mevalonate kinase
+	C1959626	Mevalonic Aciduria
+	Number of diseases: 2
+
+
+Cluster 60:
+	C0349653	Congenital disorder of glycosylation type 1A
+	C2931008	Congenital disorder of glycosylation type 2A
+	Number of diseases: 2
+
+
+Cluster 61:
+	C0524620	Metabolic Syndrome X
+	C2930930	Abdominal obesity metabolic syndrome
+	Number of diseases: 2
+
+
+Cluster 62:
+	C0751753	Carbamoyl-Phosphate Synthase I Deficiency Disease
+	C4082171	Hyperammonemia Due to Carbamoyl Phosphate Synthetase 1 Deficiency
+	C4085580	Carbamoyl Phosphate Synthase 1 Deficiency
+	Number of diseases: 3
+
+
+Cluster 63:
+	C0878682	Ceruloplasmin deficiency
+	C1858583	HEMOSIDEROSIS, SYSTEMIC, DUE TO ACERULOPLASMINEMIA
+	Number of diseases: 2
+
+
+Cluster 64:
+	C0949855	Electron Transport Chain Deficiencies, Mitochondrial
+	C0949856	Oxidative Phosphorylation Deficiencies
+	C0949857	Mitochondrial Respiratory Chain Deficiencies
+	Number of diseases: 3
+
+
+Cluster 65:
+	C1848552	Methylmalonic Aciduria and Homocystinuria, CblD Type
+	C1848553	Homocystinuria, CblD Type, Variant 1
+	C1848554	Methylmalonic Aciduria, CblD Type, Variant 2
+	C1848561	Methylmalonic acidemia with homocystinuria
+	C1848578	METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, cblF TYPE (disorder)
+	C1855102	Methylmalonic aciduria cblB type
+	C1855109	Methylmalonic aciduria cblA type
+	C1855114	Methylmalonic Aciduria due to Methylmalonyl-CoA Mutase Deficiency
+	C1855115	Methylmalonic Aciduria, mut(0) Type
+	C1855116	Methylmalonic Aciduria, mut(-) Type
+	Number of diseases: 10
+
+
+Cluster 66:
+	C1850451	CEROID LIPOFUSCINOSIS, NEURONAL, 1
+	C2931673	Ceroid lipofuscinosis, neuronal 1, infantile
+	Number of diseases: 2
+
+
+Cluster 67:
+	C1855995	L-2-HYDROXYGLUTARIC ACIDURIA
+	C3150909	D-2-HYDROXYGLUTARIC ACIDURIA 2
+	C3152055	D-2-HYDROXYGLUTARIC ACIDURIA 1
+	Number of diseases: 3
+
+
+Cluster 68:
+	C1857395	De Toni-Debre-Fanconi Syndrome
+	C3495427	Fanconi-Bickel Syndrome
+	Number of diseases: 2
+
+
+Cluster 69:
+	C2748941	Glycogen Storage Disease, Type IXA2
+	C3694531	GLYCOGEN STORAGE DISEASE IXa1
+	Number of diseases: 2
+
+
+Cluster 70:
+	C2750061	Hypokalemic Periodic Paralysis, Type 2
+	C3714580	Hypokalemic periodic paralysis type 1
+	Number of diseases: 2
+
+

@@ -1,0 +1,140 @@
+CLUSTERS for [INFEC phenotypical has_biological_info] term_jaccard, MS 2, eps 0.7
+	--> Number of clusters: 21
+	--> Number of outliers: 143
+	--> Silhouette coefficient: 0.14339448508462568
+
+Cluster 0:
+	C0006060	Boutonneuse Fever
+	C0035021	Relapsing Fever
+	Number of diseases: 2
+
+
+Cluster 1:
+	C0006845	Candidiasis, Chronic Mucocutaneous
+	C1843306	CANDIDIASIS, FAMILIAL CHRONIC NAIL, WITH ICAM1 DEFICIENCY
+	C1859353	Candidiasis, Familial, 2
+	C2751429	CANDIDIASIS, FAMILIAL, 1
+	Number of diseases: 4
+
+
+Cluster 2:
+	C0006852	Candidiasis of vagina
+	C0700345	Candidiasis, Vulvovaginal
+	Number of diseases: 2
+
+
+Cluster 3:
+	C0013502	Echinococcosis
+	C0152068	Echinococcus granulosus infection
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0016085	Filariasis
+	C0392663	Infection by Wuchereria bancrofti
+	Number of diseases: 2
+
+
+Cluster 5:
+	C0019342	Genital Herpes
+	C0936250	Eczema Herpeticum
+	Number of diseases: 2
+
+
+Cluster 6:
+	C0023240	Legionellosis
+	C0023241	Legionnaires' Disease
+	Number of diseases: 2
+
+
+Cluster 7:
+	C0023283	Leishmaniasis, Cutaneous
+	C0086540	Leishmaniasis, New World
+	Number of diseases: 2
+
+
+Cluster 8:
+	C0023364	Leptospirosis
+	C0043395	Yellow Fever
+	Number of diseases: 2
+
+
+Cluster 9:
+	C0023524	Leukoencephalopathy, Progressive Multifocal
+	C0024449	Mycetoma
+	C2350619	Maduromycosis
+	C2350621	Eumycetoma
+	Number of diseases: 4
+
+
+Cluster 10:
+	C0024198	Lyme Disease
+	C0242381	Lyme Arthritis
+	Number of diseases: 2
+
+
+Cluster 11:
+	C0024266	Lymphocytic Choriomeningitis
+	C0153014	Non-arthropod borne lymphocytic choriomeningitis
+	Number of diseases: 2
+
+
+Cluster 12:
+	C0026393	Molluscum Contagiosum
+	C0042548	Plantar wart
+	C0085082	Fungemia
+	Number of diseases: 3
+
+
+Cluster 13:
+	C0027333	Nagana
+	C0041228	African Trypanosomiasis
+	Number of diseases: 2
+
+
+Cluster 14:
+	C0027927	Neurosyphilis
+	C0205858	General Paralysis
+	Number of diseases: 2
+
+
+Cluster 15:
+	C0032064	Plague
+	C0152936	Plague, Septicemic
+	C0282312	Bubonic Plague
+	C0524688	Pneumonic Plague
+	Number of diseases: 4
+
+
+Cluster 16:
+	C0034362	Q Fever
+	C0519066	Acute Q fever
+	C1443892	Chronic Q Fever
+	C2973787	Coxiella burnetii Infection
+	Number of diseases: 4
+
+
+Cluster 17:
+	C0035793	Rocky Mountain Spotted Fever
+	C0038041	Spotted fevers
+	Number of diseases: 2
+
+
+Cluster 18:
+	C0041227	Trypanosomiasis
+	C0041234	Chagas Disease
+	Number of diseases: 2
+
+
+Cluster 19:
+	C0041296	Tuberculosis
+	C0041321	Tuberculosis, Miliary
+	Number of diseases: 2
+
+
+Cluster 20:
+	C0043124	West Nile Fever
+	C0751583	Encephalitis, West Nile Fever
+	Number of diseases: 2
+
+

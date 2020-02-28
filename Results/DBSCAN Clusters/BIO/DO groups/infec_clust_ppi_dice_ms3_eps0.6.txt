@@ -1,0 +1,88 @@
+CLUSTERS for [infec]ppi_dice, MS 3, eps 0.6
+	--> Number of clusters: 4
+	--> Number of outliers: 172
+	--> Silhouette coefficient: 0.0533984967477579
+
+Cluster 2:
+	C0001857	AIDS related complex
+	C0019100	Severe Dengue
+	C0019655	Histoplasmosis
+	C0021345	Infectious Mononucleosis
+	C0024266	Lymphocytic Choriomeningitis
+	C0024535	Malaria, Falciparum
+	C0026916	Mycobacterium avium-intracellulare Infection
+	C0037354	Smallpox
+	C0040558	Toxoplasmosis
+	C0041324	Tuberculosis, Osteoarticular
+	C0041466	Typhoid Fever
+	C0085273	Erythema Infectiosum
+	C0153014	Non-arthropod borne lymphocytic choriomeningitis
+	C0376300	Dengue Shock Syndrome
+	C1328252	Mucocutaneous leishmaniasis
+
+	Associated symptoms average: 19.466666666666665
+	Number of diseases: 15
+
+
+Cluster 0:
+	C0004030	Aspergillosis
+	C0026780	Mumps
+	C0034362	Q Fever
+	C0035920	Rubella
+
+	Associated symptoms average: 19.25
+	Number of diseases: 4
+
+
+Cluster 1:
+	C0004031	Aspergillosis, Allergic Bronchopulmonary
+	C0005716	Blastomycosis
+	C0006023	Borna Disease
+	C0006060	Boutonneuse Fever
+	C0007361	Cat-Scratch Disease
+	C0009021	Clonorchiasis
+	C0010418	Cryptosporidiosis
+	C0013882	Elephantiasis
+	C0013884	Filarial Elephantiases
+	C0014061	Tick-Borne Encephalitis
+	C0014078	Venezuelan equine encephalomyelitis
+	C0016085	Filariasis
+	C0018889	Helminthiasis
+	C0019099	Hemorrhagic Fever, Crimean
+	C0019342	Genital Herpes
+	C0023281	Leishmaniasis
+	C0023348	Leprosy, Lepromatous
+	C0024449	Mycetoma
+	C0025229	Melioidosis
+	C0029001	Onchocerciasis
+	C0029307	Oroya Fever
+	C0030409	Paracoccidioidomycosis
+	C0036329	Schistosomiasis japonica
+	C0041228	African Trypanosomiasis
+	C0043124	West Nile Fever
+	C0085082	Fungemia
+	C0085388	Intracranial Tuberculoma
+	C0085434	Angiomatosis, Bacillary
+	C0152066	Lobomycosis
+	C0239295	Candidiasis of the esophagus
+	C0242381	Lyme Arthritis
+	C0392663	Infection by Wuchereria bancrofti
+	C0600327	Toxic Shock Syndrome
+	C1443892	Chronic Q Fever
+	C2350621	Eumycetoma
+
+	Associated symptoms average: 14.571428571428571
+	Number of diseases: 35
+
+
+Cluster 3:
+	C0023343	Leprosy
+	C0023364	Leptospirosis
+	C0030481	Tropical Spastic Paraparesis
+	C0040592	Trachoma
+	C0282687	Hemorrhagic Fever, Ebola
+
+	Associated symptoms average: 20.4
+	Number of diseases: 5
+
+

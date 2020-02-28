@@ -1,0 +1,23 @@
+CLUSTERS for [METABOLIC phenotypical disease] term_cos, MS 2, eps 0.4
+	--> Number of clusters: 3
+	--> Number of outliers: 333
+	--> Silhouette coefficient: -0.04775218850621508
+
+Cluster 0:
+	DIS003809
+	DIS005949
+	Number of diseases: 2
+
+
+Cluster 1:
+	DIS005513
+	DIS007703
+	Number of diseases: 2
+
+
+Cluster 2:
+	DIS005673
+	DIS007707
+	Number of diseases: 2
+
+

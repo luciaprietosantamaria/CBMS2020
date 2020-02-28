@@ -1,0 +1,64 @@
+CLUSTERS for [cel_prolif]gen_cos, MS 2, eps 0.85
+	--> Number of clusters: 7
+	--> Number of outliers: 20
+	--> Silhouette coefficient: 0.14146039126174437
+
+Cluster 0:
+	C0004775	Bartter Disease
+	C0020428	Hyperaldosteronism
+	C1384514	Conn Syndrome
+
+	Associated symptoms average: 19.0
+	Number of diseases: 3
+
+
+Cluster 1:
+	C0016034	Breast Fibrocystic Disease
+	C1739363	Prostatic Hypertrophy
+	C2937421	Prostatic Hyperplasia
+
+	Associated symptoms average: 23.0
+	Number of diseases: 3
+
+
+Cluster 2:
+	C0022603	Seborrheic keratosis
+	C0362030	Verrucous epidermal nevus
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 3:
+	C0033838	Kimura Disease
+	C1863340	PITUITARY ADENOMA PREDISPOSITION (disorder)
+
+	Associated symptoms average: 12.0
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0221013	Mastocytosis, Systemic
+	C0272203	Indolent Systemic Mastocytosis
+
+	Associated symptoms average: 0.0
+	Number of diseases: 2
+
+
+Cluster 5:
+	C2931618	Gestational trophoblastic disease
+	C3463897	HYDATIDIFORM MOLE, RECURRENT, 1
+
+	Associated symptoms average: 11.0
+	Number of diseases: 2
+
+
+Cluster 6:
+	C3275998	THROMBOCYTHEMIA 2
+	C3277671	THROMBOCYTHEMIA 1
+	C3281125	THROMBOCYTHEMIA 3
+
+	Associated symptoms average: 16.0
+	Number of diseases: 3
+
+

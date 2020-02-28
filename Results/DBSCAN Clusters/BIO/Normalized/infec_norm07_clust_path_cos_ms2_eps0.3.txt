@@ -1,0 +1,207 @@
+CLUSTERS for [infec NORM] path_cos, MS 2, eps 0.3
+	--> Number of clusters: 10
+	--> Number of outliers: 32
+	--> Silhouette coefficient: 0.45285992355066845
+
+Cluster 0:
+	C0001857	AIDS related complex
+	C0002438	Amebiasis
+	C0003175	Anthrax disease
+	C0004030	Aspergillosis
+	C0004031	Aspergillosis, Allergic Bronchopulmonary
+	C0005716	Blastomycosis
+	C0006023	Borna Disease
+	C0006060	Boutonneuse Fever
+	C0006309	Brucellosis
+	C0006818	Campylobacter infection
+	C0006840	Candidiasis
+	C0006845	Candidiasis, Chronic Mucocutaneous
+	C0006846	Cutaneous Candidiasis
+	C0006849	Oral candidiasis
+	C0006852	Candidiasis of vagina
+	C0008055	Chikungunya Fever
+	C0008354	Cholera
+	C0009021	Clonorchiasis
+	C0009186	Coccidioidomycosis
+	C0009663	Condylomata Acuminata
+	C0010232	Cowpox
+	C0010414	Infection by Cryptococcus neoformans
+	C0010418	Cryptosporidiosis
+	C0011226	Hepatitis D Infection
+	C0011311	Dengue Fever
+	C0011636	Dermatophytosis
+	C0013502	Echinococcosis
+	C0013884	Filarial Elephantiases
+	C0014057	Japanese Encephalitis
+	C0014060	Encephalitis, St. Louis
+	C0014061	Tick-Borne Encephalitis
+	C0016085	Filariasis
+	C0017536	Giardiasis
+	C0018081	Gonorrhea
+	C0018572	Hand, Foot and Mouth Disease
+	C0018889	Helminthiasis
+	C0019099	Hemorrhagic Fever, Crimean
+	C0019100	Severe Dengue
+	C0019101	Hemorrhagic Fever with Renal Syndrome
+	C0019159	Hepatitis A
+	C0019163	Hepatitis B
+	C0019196	Hepatitis C
+	C0019342	Genital Herpes
+	C0019655	Histoplasmosis
+	C0021345	Infectious Mononucleosis
+	C0021400	Influenza
+	C0023241	Legionnaires' Disease
+	C0023281	Leishmaniasis
+	C0023283	Leishmaniasis, Cutaneous
+	C0023290	Leishmaniasis, Visceral
+	C0023343	Leprosy
+	C0023346	Borderline leprosy
+	C0023348	Leprosy, Lepromatous
+	C0023351	Tuberculoid leprosy
+	C0023364	Leptospirosis
+	C0023524	Leukoencephalopathy, Progressive Multifocal
+	C0023860	Listeriosis
+	C0024198	Lyme Disease
+	C0024266	Lymphocytic Choriomeningitis
+	C0024449	Mycetoma
+	C0024530	Malaria
+	C0024534	Malaria, Cerebral
+	C0024535	Malaria, Falciparum
+	C0024537	Malaria, Vivax
+	C0025007	Measles
+	C0025229	Melioidosis
+	C0026393	Molluscum Contagiosum
+	C0026780	Mumps
+	C0026916	Mycobacterium avium-intracellulare Infection
+	C0027927	Neurosyphilis
+	C0029001	Onchocerciasis
+	C0030409	Paracoccidioidomycosis
+	C0030481	Tropical Spastic Paraparesis
+	C0034362	Q Fever
+	C0034494	Rabies (disorder)
+	C0035021	Relapsing Fever
+	C0035613	Rift Valley Fever
+	C0035920	Rubella
+	C0036323	Schistosomiasis
+	C0036329	Schistosomiasis japonica
+	C0036472	Scrub Typhus
+	C0037354	Smallpox
+	C0038522	Subacute Sclerosing Panencephalitis
+	C0040247	Tinea
+	C0040262	Tinea Versicolor
+	C0040558	Toxoplasmosis
+	C0040592	Trachoma
+	C0040954	Infection by Trichuris trichiura
+	C0041227	Trypanosomiasis
+	C0041228	African Trypanosomiasis
+	C0041234	Chagas Disease
+	C0041296	Tuberculosis
+	C0041321	Tuberculosis, Miliary
+	C0041324	Tuberculosis, Osteoarticular
+	C0041326	Pleural Tuberculosis
+	C0041327	Tuberculosis, Pulmonary
+	C0041351	Tularemia
+	C0041466	Typhoid Fever
+	C0042214	Vaccinia
+	C0042548	Plantar wart
+	C0043037	Common wart
+	C0043124	West Nile Fever
+	C0043395	Yellow Fever
+	C0085082	Fungemia
+	C0085273	Erythema Infectiosum
+	C0085293	Hepatitis E
+	C0085399	Ehrlichiosis
+	C0085568	Buruli Ulcer
+	C0086540	Leishmaniasis, New World
+	C0152066	Lobomycosis
+	C0152068	Echinococcus granulosus infection
+	C0153014	Non-arthropod borne lymphocytic choriomeningitis
+	C0158945	Congenital cytomegalovirus infection
+	C0206525	Tuberculosis, Drug-Resistant
+	C0206526	Tuberculosis, Multidrug-Resistant
+	C0239295	Candidiasis of the esophagus
+	C0242381	Lyme Arthritis
+	C0242993	Nephropathia Epidemica
+	C0243025	Hantavirus Pulmonary Syndrome
+	C0276926	Schistosoma hematobium infection
+	C0282687	Hemorrhagic Fever, Ebola
+	C0376300	Dengue Shock Syndrome
+	C0524688	Pneumonic Plague
+	C0600327	Toxic Shock Syndrome
+	C0700345	Candidiasis, Vulvovaginal
+	C0751583	Encephalitis, West Nile Fever
+	C0752235	Lyme Neuroborreliosis
+	C0936250	Eczema Herpeticum
+	C1175175	Severe Acute Respiratory Syndrome
+	C1328252	Mucocutaneous leishmaniasis
+	C1443892	Chronic Q Fever
+	C1527298	Dysentery, Bacillary
+	C1535939	Pneumocystis jiroveci pneumonia
+	C2350619	Maduromycosis
+	C2350621	Eumycetoma
+	C2973787	Coxiella burnetii Infection
+	Number of diseases: 136
+
+
+Cluster 1:
+	C0004945	Bejel
+	C0017575	Necrotizing Ulcerative Gingivitis
+	C0035793	Rocky Mountain Spotted Fever
+	C1704430	Urinary Schistosomiasis
+	Number of diseases: 4
+
+
+Cluster 2:
+	C0006897	Capillaria infection
+	C0015652	Fascioliasis
+	C0030757	Pediculus capitis infestation
+	Number of diseases: 3
+
+
+Cluster 3:
+	C0007361	Cat-Scratch Disease
+	C0029307	Oroya Fever
+	C0041316	Lymph Node Tuberculosis
+	Number of diseases: 3
+
+
+Cluster 4:
+	C0007947	Chancroids
+	C0032064	Plague
+	C0038165	Staphylococcal Scalded Skin Syndrome
+	C0152936	Plague, Septicemic
+	C0282312	Bubonic Plague
+	Number of diseases: 5
+
+
+Cluster 5:
+	C0023092	Lassa Fever
+	C0039223	Tabes Dorsalis
+	Number of diseases: 2
+
+
+Cluster 6:
+	C0024025	Louping Ill
+	C0024286	Lymphogranuloma Venereum
+	C0153064	Encephalomyelitis, Western Equine
+	Number of diseases: 3
+
+
+Cluster 7:
+	C0038041	Spotted fevers
+	C0162576	Anisakiasis
+	Number of diseases: 2
+
+
+Cluster 8:
+	C0085388	Intracranial Tuberculoma
+	C0085434	Angiomatosis, Bacillary
+	Number of diseases: 2
+
+
+Cluster 9:
+	C0205858	General Paralysis
+	C1866993	SCHISTOSOMA MANSONI INFECTION, SUSCEPTIBILITY/RESISTANCE TO
+	Number of diseases: 2
+
+

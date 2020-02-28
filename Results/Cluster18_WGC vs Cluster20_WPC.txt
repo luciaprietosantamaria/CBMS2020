@@ -1,0 +1,22 @@
+Cluster 18 of gene-cosine similarities model:
+	C0002949 – Aneurysm, Dissecting
+	C0003486 – Aortic Aneurysm
+	C0003504 – Aortic Valve Insufficiency
+	C0013405 – Dyspnea, Paroxysmal
+	C0023212 – Left-Sided Heart Failure
+	C0340643 – Dissection of aorta
+	C0392775 – Cystic medial necrosis of aorta
+	C1836635 – Loeys-Dietz Aortic Aneurysm Syndrome
+	C2674574 – Aortic aneurysm, familial thoracic 3
+	C2697932 – Loeys-Dietz Syndrome
+Cluster 20 of protein-cosine similarities model:
+	C0002949 – Aneurysm, Dissecting
+	C0003486 – Aortic Aneurysm
+	C0003504 – Aortic Valve Insufficiency
+	C0013405 – Dyspnea, Paroxysmal
+	C0023212 – Left-Sided Heart Failure
+	C0340643 – Dissection of aorta
+	C0392775 – Cystic medial necrosis of aorta
+	C1836635 – Loeys-Dietz Aortic Aneurysm Syndrome
+	C2674574 – Aortic aneurysm, familial thoracic 3
+	C2697932 – Loeys-Dietz Syndrome

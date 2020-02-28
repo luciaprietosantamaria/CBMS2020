@@ -1,0 +1,128 @@
+CLUSTERS for [infec]gen_cos, MS 5, eps 0.8
+	--> Number of clusters: 11
+	--> Number of outliers: 505
+	--> Silhouette coefficient: 0.020285513029729432
+
+Cluster 0:
+	C0001857	AIDS related complex
+	C0002016	Aleutian Mink Disease
+	C0002438	Amebiasis
+	C0003177	Cutaneous anthrax
+	C0006023	Borna Disease
+	C0007361	Cat-Scratch Disease
+	C0008055	Chikungunya Fever
+	C0019655	Histoplasmosis
+	C0040954	Infection by Trichuris trichiura
+	C0243025	Hantavirus Pulmonary Syndrome
+
+	Associated symptoms average: 9.4
+	Number of diseases: 10
+
+
+Cluster 1:
+	C0004576	Babesiosis
+	C0014060	Encephalitis, St. Louis
+	C0036330	Schistosomiasis mansoni
+	C0158945	Congenital cytomegalovirus infection
+	C0162576	Anisakiasis
+	C0205858	General Paralysis
+
+	Associated symptoms average: 13.333333333333334
+	Number of diseases: 6
+
+
+Cluster 5:
+	C0006845	Candidiasis, Chronic Mucocutaneous
+	C0013570	Ecthyma, Contagious
+	C0023348	Leprosy, Lepromatous
+	C0032749	Post-kala-azar dermal leishmaniasis
+	C0042214	Vaccinia
+	C0152936	Plague, Septicemic
+	C0153014	Non-arthropod borne lymphocytic choriomeningitis
+	C1328252	Mucocutaneous leishmaniasis
+
+	Associated symptoms average: 9.25
+	Number of diseases: 8
+
+
+Cluster 2:
+	C0008354	Cholera
+	C0024266	Lymphocytic Choriomeningitis
+	C0038041	Spotted fevers
+	C0038165	Staphylococcal Scalded Skin Syndrome
+
+	Associated symptoms average: 25.75
+	Number of diseases: 4
+
+
+Cluster 4:
+	C0009186	Coccidioidomycosis
+	C0018889	Helminthiasis
+	C0019100	Severe Dengue
+	C0019101	Hemorrhagic Fever with Renal Syndrome
+
+	Associated symptoms average: 8.0
+	Number of diseases: 4
+
+
+Cluster 3:
+	C0011636	Dermatophytosis
+	C0014061	Tick-Borne Encephalitis
+	C0023346	Borderline leprosy
+	C0032371	Poliomyelitis
+
+	Associated symptoms average: 10.5
+	Number of diseases: 4
+
+
+Cluster 9:
+	C0023240	Legionellosis
+	C0035021	Relapsing Fever
+	C0040262	Tinea Versicolor
+	C0751583	Encephalitis, West Nile Fever
+	C0752235	Lyme Neuroborreliosis
+	C0936250	Eczema Herpeticum
+
+	Associated symptoms average: 18.166666666666668
+	Number of diseases: 6
+
+
+Cluster 6:
+	C0023524	Leukoencephalopathy, Progressive Multifocal
+	C0024534	Malaria, Cerebral
+
+	Associated symptoms average: 3.0
+	Number of diseases: 2
+
+
+Cluster 7:
+	C0027983	Newcastle Disease
+	C0041471	TYPHUS
+	C0085082	Fungemia
+	C1175175	Severe Acute Respiratory Syndrome
+	C2973787	Coxiella burnetii Infection
+
+	Associated symptoms average: 10.4
+	Number of diseases: 5
+
+
+Cluster 8:
+	C0035793	Rocky Mountain Spotted Fever
+	C0040558	Toxoplasmosis
+	C0040560	Toxoplasmosis, Congenital
+	C0040592	Trachoma
+	C0302362	Brucella melitensis infection
+
+	Associated symptoms average: 13.2
+	Number of diseases: 5
+
+
+Cluster 10:
+	C0041324	Tuberculosis, Osteoarticular
+	C0041325	Peritonitis, Tuberculous
+	C0085293	Hepatitis E
+
+	Associated symptoms average: 4.666666666666667
+	Number of diseases: 3
+
+

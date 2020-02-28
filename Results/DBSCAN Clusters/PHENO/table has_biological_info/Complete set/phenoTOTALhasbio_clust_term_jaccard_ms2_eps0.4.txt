@@ -1,0 +1,3748 @@
+CLUSTERS for [PHENOT TOTAL] term_jaccard, MS 2, eps 0.4
+	--> Number of clusters: 528
+	--> Number of outliers: 2040
+	--> Silhouette coefficient: 0.3618283426504597
+
+Cluster 0:
+	C0001206
+	C0271547
+	C0405578
+	C1863340
+	Number of diseases: 4
+
+
+Cluster 1:
+	C0001311
+	C0878555
+	Number of diseases: 2
+
+
+Cluster 2:
+	C0001361
+	C0040425
+	Number of diseases: 2
+
+
+Cluster 3:
+	C0001733
+	C2584774
+	Number of diseases: 2
+
+
+Cluster 4:
+	C0001787
+	C0029456
+	C0029458
+	C0029459
+	Number of diseases: 4
+
+
+Cluster 5:
+	C0002170
+	C0086873
+	C0162311
+	C4083212
+	Number of diseases: 4
+
+
+Cluster 6:
+	C0002171
+	C0263505
+	Number of diseases: 2
+
+
+Cluster 7:
+	C0002395
+	C0276496
+	C0750901
+	C1863052
+	Number of diseases: 4
+
+
+Cluster 8:
+	C0002736
+	C0393554
+	C0543859
+	C1862939
+	C1862941
+	C3542025
+	Number of diseases: 6
+
+
+Cluster 9:
+	C0002768
+	C1855739
+	Number of diseases: 2
+
+
+Cluster 10:
+	C0002871
+	C0162316
+	Number of diseases: 2
+
+
+Cluster 11:
+	C0002874
+	C0178416
+	Number of diseases: 2
+
+
+Cluster 12:
+	C0002875
+	C0005283
+	C0019025
+	C0085578
+	C0271979
+	Number of diseases: 5
+
+
+Cluster 13:
+	C0002876
+	C0271933
+	C0271934
+	C1306589
+	Number of diseases: 4
+
+
+Cluster 14:
+	C0002878
+	C0002879
+	C0221021
+	Number of diseases: 3
+
+
+Cluster 15:
+	C0002880
+	C0175816
+	Number of diseases: 2
+
+
+Cluster 16:
+	C0002896
+	C0221018
+	C1845028
+	Number of diseases: 3
+
+
+Cluster 17:
+	C0002940
+	C2713497
+	Number of diseases: 2
+
+
+Cluster 18:
+	C0002986
+	C1970820
+	Number of diseases: 2
+
+
+Cluster 19:
+	C0002992
+	C0019562
+	Number of diseases: 2
+
+
+Cluster 20:
+	C0003028
+	C0020620
+	Number of diseases: 2
+
+
+Cluster 21:
+	C0003486
+	C1812607
+	Number of diseases: 2
+
+
+Cluster 22:
+	C0003496
+	C0741160
+	Number of diseases: 2
+
+
+Cluster 23:
+	C0003864
+	C0162323
+	Number of diseases: 2
+
+
+Cluster 24:
+	C0003868
+	C0018099
+	C0268117
+	Number of diseases: 3
+
+
+Cluster 25:
+	C0003875
+	C3891815
+	Number of diseases: 2
+
+
+Cluster 26:
+	C0003886
+	C0220662
+	C1834523
+	C1844934
+	C1859721
+	C1859722
+	C1862472
+	Number of diseases: 7
+
+
+Cluster 27:
+	C0003969
+	C0036474
+	Number of diseases: 2
+
+
+Cluster 28:
+	C0004135
+	C1876175
+	Number of diseases: 2
+
+
+Cluster 29:
+	C0004138
+	C0024814
+	C0270749
+	C0393519
+	C0393524
+	Number of diseases: 5
+
+
+Cluster 30:
+	C0004153
+	C0010054
+	Number of diseases: 2
+
+
+Cluster 31:
+	C0004238
+	C0235480
+	Number of diseases: 2
+
+
+Cluster 32:
+	C0004606
+	C0024440
+	C0154850
+	Number of diseases: 3
+
+
+Cluster 33:
+	C0004712
+	C0007795
+	Number of diseases: 2
+
+
+Cluster 34:
+	C0004763
+	C1258085
+	Number of diseases: 2
+
+
+Cluster 35:
+	C0004775
+	C1846343
+	C1846344
+	C1855849
+	C1865270
+	C1866495
+	C2748440
+	Number of diseases: 7
+
+
+Cluster 36:
+	C0005129
+	C1856447
+	C1856448
+	C3278148
+	Number of diseases: 4
+
+
+Cluster 37:
+	C0005592
+	C0031903
+	Number of diseases: 2
+
+
+Cluster 38:
+	C0005689
+	C1838703
+	Number of diseases: 2
+
+
+Cluster 39:
+	C0005747
+	C2930898
+	Number of diseases: 2
+
+
+Cluster 40:
+	C0006091
+	C0039984
+	Number of diseases: 2
+
+
+Cluster 41:
+	C0006105
+	C1510428
+	Number of diseases: 2
+
+
+Cluster 42:
+	C0006267
+	C0006277
+	C0024117
+	C0034067
+	C1969833
+	Number of diseases: 5
+
+
+Cluster 43:
+	C0006272
+	C2350875
+	Number of diseases: 2
+
+
+Cluster 44:
+	C0006384
+	C0023211
+	Number of diseases: 2
+
+
+Cluster 45:
+	C0006845
+	C1843306
+	C1859353
+	C2751429
+	Number of diseases: 4
+
+
+Cluster 46:
+	C0006852
+	C0700345
+	Number of diseases: 2
+
+
+Cluster 47:
+	C0007194
+	C0205700
+	C0949658
+	C3495498
+	Number of diseases: 4
+
+
+Cluster 48:
+	C0007282
+	C0340569
+	C0751635
+	Number of diseases: 3
+
+
+Cluster 49:
+	C0007384
+	C0027404
+	C0751362
+	C1834372
+	Number of diseases: 4
+
+
+Cluster 50:
+	C0007761
+	C3489626
+	Number of diseases: 2
+
+
+Cluster 51:
+	C0007766
+	C0751003
+	C0917996
+	Number of diseases: 3
+
+
+Cluster 52:
+	C0007785
+	C0751956
+	C0948008
+	Number of diseases: 3
+
+
+Cluster 53:
+	C0007786
+	C0917798
+	Number of diseases: 2
+
+
+Cluster 54:
+	C0007787
+	C0917805
+	Number of diseases: 2
+
+
+Cluster 55:
+	C0007789
+	C0023882
+	C0270742
+	C0338596
+	C0394005
+	C2751938
+	C2752061
+	Number of diseases: 7
+
+
+Cluster 56:
+	C0007959
+	C0205713
+	C0270911
+	C0270912
+	C0270914
+	C0393808
+	C0751036
+	C1839566
+	Number of diseases: 8
+
+
+Cluster 57:
+	C0008312
+	C0023892
+	Number of diseases: 2
+
+
+Cluster 58:
+	C0008313
+	C0566602
+	Number of diseases: 2
+
+
+Cluster 59:
+	C0008325
+	C0149520
+	Number of diseases: 2
+
+
+Cluster 60:
+	C0008350
+	C2609268
+	Number of diseases: 2
+
+
+Cluster 61:
+	C0008373
+	C0155490
+	Number of diseases: 2
+
+
+Cluster 62:
+	C0008513
+	C1853959
+	Number of diseases: 2
+
+
+Cluster 63:
+	C0008525
+	C0344297
+	Number of diseases: 2
+
+
+Cluster 64:
+	C0008533
+	C0019069
+	Number of diseases: 2
+
+
+Cluster 65:
+	C0008684
+	C0017574
+	Number of diseases: 2
+
+
+Cluster 66:
+	C0008733
+	C0398689
+	Number of diseases: 2
+
+
+Cluster 67:
+	C0008928
+	C1838416
+	C1861516
+	Number of diseases: 3
+
+
+Cluster 68:
+	C0009088
+	C0393739
+	Number of diseases: 2
+
+
+Cluster 69:
+	C0009207
+	C0751037
+	C0751038
+	C0751039
+	Number of diseases: 4
+
+
+Cluster 70:
+	C0009324
+	C0010346
+	C0156147
+	C0267380
+	C0949272
+	Number of diseases: 5
+
+
+Cluster 71:
+	C0009447
+	C2936664
+	C3149378
+	C3150354
+	C3150738
+	Number of diseases: 5
+
+
+Cluster 72:
+	C0009451
+	C0549423
+	C3887608
+	Number of diseases: 3
+
+
+Cluster 73:
+	C0009714
+	C0085548
+	Number of diseases: 2
+
+
+Cluster 74:
+	C0009766
+	C0022577
+	Number of diseases: 2
+
+
+Cluster 75:
+	C0009952
+	C0149886
+	C0751057
+	C1858493
+	Number of diseases: 4
+
+
+Cluster 76:
+	C0010093
+	C0029927
+	Number of diseases: 2
+
+
+Cluster 77:
+	C0010278
+	C0175699
+	C0220658
+	C0795998
+	C1833340
+	C1836635
+	C1863370
+	C1864436
+	C2674574
+	C2931150
+	C2931196
+	C3151087
+	Number of diseases: 12
+
+
+Cluster 78:
+	C0010308
+	C0342200
+	Number of diseases: 2
+
+
+Cluster 79:
+	C0010324
+	C2931132
+	Number of diseases: 2
+
+
+Cluster 80:
+	C0010495
+	C0268351
+	C0432255
+	C3276539
+	Number of diseases: 4
+
+
+Cluster 81:
+	C0010674
+	C0392164
+	C1527396
+	Number of diseases: 3
+
+
+Cluster 82:
+	C0010691
+	C1857388
+	C1857389
+	Number of diseases: 3
+
+
+Cluster 83:
+	C0010930
+	C0155223
+	Number of diseases: 2
+
+
+Cluster 84:
+	C0011263
+	C0011269
+	Number of diseases: 2
+
+
+Cluster 85:
+	C0011430
+	C0399379
+	C1527284
+	Number of diseases: 3
+
+
+Cluster 86:
+	C0011615
+	C0013595
+	C1864155
+	Number of diseases: 3
+
+
+Cluster 87:
+	C0011644
+	C0263409
+	C1527383
+	Number of diseases: 3
+
+
+Cluster 88:
+	C0011848
+	C0162283
+	C1563705
+	Number of diseases: 3
+
+
+Cluster 89:
+	C0011854
+	C0205734
+	Number of diseases: 2
+
+
+Cluster 90:
+	C0011875
+	C0025945
+	Number of diseases: 2
+
+
+Cluster 91:
+	C0011881
+	C0017667
+	Number of diseases: 2
+
+
+Cluster 92:
+	C0011884
+	C0342245
+	Number of diseases: 2
+
+
+Cluster 93:
+	C0012236
+	C0220704
+	C0543687
+	C2936346
+	Number of diseases: 4
+
+
+Cluster 94:
+	C0012736
+	C0162872
+	C0392775
+	Number of diseases: 3
+
+
+Cluster 95:
+	C0013080
+	C1860787
+	C1860788
+	Number of diseases: 3
+
+
+Cluster 96:
+	C0013261
+	C0751083
+	Number of diseases: 2
+
+
+Cluster 97:
+	C0013264
+	C0917713
+	C3542021
+	Number of diseases: 3
+
+
+Cluster 98:
+	C0013312
+	C4082974
+	C4085370
+	Number of diseases: 3
+
+
+Cluster 99:
+	C0013502
+	C0152068
+	Number of diseases: 2
+
+
+Cluster 100:
+	C0013592
+	C0042171
+	Number of diseases: 2
+
+
+Cluster 101:
+	C0013720
+	C0268338
+	Number of diseases: 2
+
+
+Cluster 102:
+	C0014009
+	C0014013
+	Number of diseases: 2
+
+
+Cluster 103:
+	C0014038
+	C0393484
+	Number of diseases: 2
+
+
+Cluster 104:
+	C0014084
+	C0024454
+	Number of diseases: 2
+
+
+Cluster 105:
+	C0014173
+	C0349578
+	C0349579
+	C0456483
+	Number of diseases: 4
+
+
+Cluster 106:
+	C0014175
+	C0341858
+	Number of diseases: 2
+
+
+Cluster 107:
+	C0014518
+	C0038325
+	C1274933
+	C3658302
+	Number of diseases: 4
+
+
+Cluster 108:
+	C0014534
+	C0149881
+	Number of diseases: 2
+
+
+Cluster 109:
+	C0014544
+	C0086237
+	C0234533
+	C0234535
+	C0494475
+	Number of diseases: 5
+
+
+Cluster 110:
+	C0014547
+	C0270820
+	Number of diseases: 2
+
+
+Cluster 111:
+	C0014550
+	C0393702
+	C0393703
+	C0438414
+	C0917800
+	Number of diseases: 5
+
+
+Cluster 112:
+	C0014556
+	C0393682
+	Number of diseases: 2
+
+
+Cluster 113:
+	C0014583
+	C0027547
+	C0036416
+	Number of diseases: 3
+
+
+Cluster 114:
+	C0014804
+	C0014805
+	C3276706
+	Number of diseases: 3
+
+
+Cluster 115:
+	C0015190
+	C0024043
+	Number of diseases: 2
+
+
+Cluster 116:
+	C0015624
+	C0341703
+	C1857395
+	C3495427
+	Number of diseases: 4
+
+
+Cluster 117:
+	C0015625
+	C0702159
+	C3469521
+	Number of diseases: 3
+
+
+Cluster 118:
+	C0016034
+	C1527375
+	Number of diseases: 2
+
+
+Cluster 119:
+	C0016037
+	C0027122
+	Number of diseases: 2
+
+
+Cluster 120:
+	C0016085
+	C0392663
+	Number of diseases: 2
+
+
+Cluster 121:
+	C0016667
+	C0751156
+	C0751157
+	C2749127
+	Number of diseases: 4
+
+
+Cluster 122:
+	C0016719
+	C1847416
+	C1856689
+	Number of diseases: 3
+
+
+Cluster 123:
+	C0016781
+	C0544008
+	C1850959
+	C1857800
+	Number of diseases: 4
+
+
+Cluster 124:
+	C0016867
+	C0242301
+	Number of diseases: 2
+
+
+Cluster 125:
+	C0016952
+	C0268151
+	C0268155
+	C0751161
+	Number of diseases: 4
+
+
+Cluster 126:
+	C0017097
+	C2673218
+	C2674616
+	C2713442
+	Number of diseases: 4
+
+
+Cluster 127:
+	C0017205
+	C0268250
+	C0268251
+	C1961835
+	Number of diseases: 4
+
+
+Cluster 128:
+	C0017495
+	C2931022
+	C3805618
+	Number of diseases: 3
+
+
+Cluster 129:
+	C0017658
+	C0152451
+	Number of diseases: 2
+
+
+Cluster 130:
+	C0017665
+	C0086445
+	C1704378
+	Number of diseases: 3
+
+
+Cluster 131:
+	C0017668
+	C0333497
+	C1858915
+	C2750475
+	Number of diseases: 4
+
+
+Cluster 132:
+	C0017920
+	C0342749
+	C0342750
+	Number of diseases: 3
+
+
+Cluster 133:
+	C0017921
+	C0342751
+	C0751173
+	Number of diseases: 3
+
+
+Cluster 134:
+	C0017922
+	C1968739
+	C1968740
+	C1968741
+	Number of diseases: 4
+
+
+Cluster 135:
+	C0018202
+	C0238051
+	C0751878
+	Number of diseases: 3
+
+
+Cluster 136:
+	C0018213
+	C0040156
+	C0342122
+	Number of diseases: 3
+
+
+Cluster 137:
+	C0018378
+	C0393819
+	C3542501
+	C4083008
+	Number of diseases: 4
+
+
+Cluster 138:
+	C0018784
+	C1691779
+	Number of diseases: 2
+
+
+Cluster 139:
+	C0018801
+	C0018802
+	C0023212
+	C0235527
+	C1959583
+	Number of diseases: 5
+
+
+Cluster 140:
+	C0018813
+	C1959587
+	Number of diseases: 2
+
+
+Cluster 141:
+	C0018995
+	C0392514
+	C3469186
+	Number of diseases: 3
+
+
+Cluster 142:
+	C0019050
+	C0024790
+	C3806670
+	Number of diseases: 3
+
+
+Cluster 143:
+	C0019061
+	C1856143
+	Number of diseases: 2
+
+
+Cluster 144:
+	C0019147
+	C0019151
+	Number of diseases: 2
+
+
+Cluster 145:
+	C0019154
+	C0856761
+	Number of diseases: 2
+
+
+Cluster 146:
+	C0019156
+	C1856128
+	Number of diseases: 2
+
+
+Cluster 147:
+	C0019243
+	C1857728
+	C1862892
+	C2717906
+	Number of diseases: 4
+
+
+Cluster 148:
+	C0019342
+	C0936250
+	Number of diseases: 2
+
+
+Cluster 149:
+	C0019569
+	C3661523
+	Number of diseases: 2
+
+
+Cluster 150:
+	C0019880
+	C0751202
+	C3150344
+	Number of diseases: 3
+
+
+Cluster 151:
+	C0020071
+	C1842586
+	C3150896
+	C3150972
+	C3279885
+	Number of diseases: 5
+
+
+Cluster 152:
+	C0020072
+	C0020074
+	C0020075
+	C0086405
+	C0699739
+	Number of diseases: 5
+
+
+Cluster 153:
+	C0020179
+	C0393574
+	C0751208
+	Number of diseases: 3
+
+
+Cluster 154:
+	C0020192
+	C0035220
+	C1968593
+	Number of diseases: 3
+
+
+Cluster 155:
+	C0020241
+	C0030409
+	Number of diseases: 2
+
+
+Cluster 156:
+	C0020258
+	C1955760
+	Number of diseases: 2
+
+
+Cluster 157:
+	C0020302
+	C1856439
+	C3278153
+	Number of diseases: 3
+
+
+Cluster 158:
+	C0020305
+	C0455988
+	Number of diseases: 2
+
+
+Cluster 159:
+	C0020428
+	C1260386
+	C1384514
+	C1854107
+	Number of diseases: 4
+
+
+Cluster 160:
+	C0020435
+	C0220991
+	C0268312
+	C1865643
+	C2931067
+	C3489789
+	Number of diseases: 6
+
+
+Cluster 161:
+	C0020445
+	C0745103
+	C1704417
+	Number of diseases: 3
+
+
+Cluster 162:
+	C0020459
+	C1257965
+	Number of diseases: 2
+
+
+Cluster 163:
+	C0020540
+	C0155616
+	Number of diseases: 2
+
+
+Cluster 164:
+	C0020550
+	C3714618
+	Number of diseases: 2
+
+
+Cluster 165:
+	C0020555
+	C1851120
+	Number of diseases: 2
+
+
+Cluster 166:
+	C0020595
+	C0376185
+	Number of diseases: 2
+
+
+Cluster 167:
+	C0020615
+	C0020617
+	C0158986
+	C0271710
+	Number of diseases: 4
+
+
+Cluster 168:
+	C0020619
+	C0271623
+	C0948896
+	Number of diseases: 3
+
+
+Cluster 169:
+	C0020626
+	C0342342
+	C0342345
+	C1832648
+	C1840334
+	Number of diseases: 5
+
+
+Cluster 170:
+	C0020630
+	C0220743
+	C0268412
+	C0268413
+	C1840322
+	C2673477
+	Number of diseases: 6
+
+
+Cluster 171:
+	C0020635
+	C0242342
+	C0242343
+	Number of diseases: 3
+
+
+Cluster 172:
+	C0020640
+	C0272317
+	Number of diseases: 2
+
+
+Cluster 173:
+	C0020725
+	C0026697
+	C0033788
+	C0238286
+	C2673377
+	Number of diseases: 5
+
+
+Cluster 174:
+	C0020757
+	C0043345
+	Number of diseases: 2
+
+
+Cluster 175:
+	C0021603
+	C0033139
+	Number of diseases: 2
+
+
+Cluster 176:
+	C0021818
+	C0221775
+	Number of diseases: 2
+
+
+Cluster 177:
+	C0021847
+	C0042781
+	C1608393
+	C1835084
+	Number of diseases: 4
+
+
+Cluster 178:
+	C0022336
+	C0376329
+	C0751254
+	C1852467
+	Number of diseases: 4
+
+
+Cluster 179:
+	C0022340
+	C0022797
+	C0027877
+	C0751383
+	C1834207
+	Number of diseases: 5
+
+
+Cluster 180:
+	C0022350
+	C0037054
+	Number of diseases: 2
+
+
+Cluster 181:
+	C0022541
+	C2931928
+	Number of diseases: 2
+
+
+Cluster 182:
+	C0022578
+	C1835677
+	Number of diseases: 2
+
+
+Cluster 183:
+	C0022595
+	C0265971
+	C1852296
+	C1852297
+	Number of diseases: 4
+
+
+Cluster 184:
+	C0022638
+	C0162275
+	Number of diseases: 2
+
+
+Cluster 185:
+	C0022650
+	C0451641
+	C1833683
+	Number of diseases: 3
+
+
+Cluster 186:
+	C0022661
+	C3695318
+	Number of diseases: 2
+
+
+Cluster 187:
+	C0022672
+	C0342783
+	Number of diseases: 2
+
+
+Cluster 188:
+	C0022735
+	C0543754
+	Number of diseases: 2
+
+
+Cluster 189:
+	C0022951
+	C0268181
+	Number of diseases: 2
+
+
+Cluster 190:
+	C0023195
+	C0342895
+	Number of diseases: 2
+
+
+Cluster 191:
+	C0023240
+	C0023241
+	Number of diseases: 2
+
+
+Cluster 192:
+	C0023264
+	C1838951
+	C1850598
+	Number of diseases: 3
+
+
+Cluster 193:
+	C0023283
+	C0086540
+	C3495436
+	Number of diseases: 3
+
+
+Cluster 194:
+	C0023374
+	C1845892
+	Number of diseases: 2
+
+
+Cluster 195:
+	C0023381
+	C1455705
+	Number of diseases: 2
+
+
+Cluster 196:
+	C0023521
+	C0268252
+	C0751273
+	Number of diseases: 3
+
+
+Cluster 197:
+	C0023522
+	C0751276
+	C0751278
+	C0751279
+	C1855255
+	C2713319
+	Number of diseases: 6
+
+
+Cluster 198:
+	C0023529
+	C0751280
+	Number of diseases: 2
+
+
+Cluster 199:
+	C0023786
+	C0026708
+	C0086431
+	C0086795
+	C2713321
+	Number of diseases: 5
+
+
+Cluster 200:
+	C0023787
+	C0221032
+	C1720862
+	C2675861
+	C2750069
+	Number of diseases: 5
+
+
+Cluster 201:
+	C0023806
+	C0268226
+	Number of diseases: 2
+
+
+Cluster 202:
+	C0023817
+	C1720779
+	Number of diseases: 2
+
+
+Cluster 203:
+	C0023890
+	C0156189
+	C0239946
+	Number of diseases: 3
+
+
+Cluster 204:
+	C0023931
+	C0029434
+	Number of diseases: 2
+
+
+Cluster 205:
+	C0024198
+	C0242381
+	Number of diseases: 2
+
+
+Cluster 206:
+	C0024236
+	C1704423
+	Number of diseases: 2
+
+
+Cluster 207:
+	C0024266
+	C0153014
+	Number of diseases: 2
+
+
+Cluster 208:
+	C0024291
+	C1837174
+	C1863727
+	C1863728
+	C3887558
+	Number of diseases: 5
+
+
+Cluster 209:
+	C0024408
+	C0751668
+	C0751669
+	C0751670
+	Number of diseases: 4
+
+
+Cluster 210:
+	C0024449
+	C2350619
+	C2350621
+	Number of diseases: 3
+
+
+Cluster 211:
+	C0024591
+	C1840365
+	Number of diseases: 2
+
+
+Cluster 212:
+	C0024776
+	C0268568
+	C0268569
+	C0751285
+	C1621920
+	C1855369
+	C1855371
+	Number of diseases: 7
+
+
+Cluster 213:
+	C0024894
+	C3495439
+	Number of diseases: 2
+
+
+Cluster 214:
+	C0025183
+	C0152115
+	Number of diseases: 2
+
+
+Cluster 215:
+	C0025209
+	C0025218
+	Number of diseases: 2
+
+
+Cluster 216:
+	C0025237
+	C0036391
+	C0038015
+	C0432272
+	C1832998
+	C1838280
+	C1838429
+	C1846843
+	C1847593
+	C3152083
+	Number of diseases: 10
+
+
+Cluster 217:
+	C0025239
+	C3149631
+	Number of diseases: 2
+
+
+Cluster 218:
+	C0025322
+	C0085215
+	C0086367
+	C3494522
+	Number of diseases: 4
+
+
+Cluster 219:
+	C0025958
+	C1855081
+	C1956147
+	C3853041
+	Number of diseases: 4
+
+
+Cluster 220:
+	C0026269
+	C0264766
+	Number of diseases: 2
+
+
+Cluster 221:
+	C0026691
+	C2936917
+	Number of diseases: 2
+
+
+Cluster 222:
+	C0026707
+	C0086651
+	C0086652
+	C3179194
+	Number of diseases: 4
+
+
+Cluster 223:
+	C0026896
+	C0751339
+	C0751340
+	Number of diseases: 3
+
+
+Cluster 224:
+	C0027051
+	C0155626
+	Number of diseases: 2
+
+
+Cluster 225:
+	C0027059
+	C0155686
+	C0869523
+	Number of diseases: 3
+
+
+Cluster 226:
+	C0027126
+	C0410226
+	C2931689
+	C3250443
+	Number of diseases: 4
+
+
+Cluster 227:
+	C0027127
+	C0270959
+	C0751360
+	C2936781
+	Number of diseases: 4
+
+
+Cluster 228:
+	C0027333
+	C0041228
+	Number of diseases: 2
+
+
+Cluster 229:
+	C0027707
+	C0041349
+	Number of diseases: 2
+
+
+Cluster 230:
+	C0027822
+	C0149922
+	Number of diseases: 2
+
+
+Cluster 231:
+	C0027927
+	C0205858
+	Number of diseases: 2
+
+
+Cluster 232:
+	C0028326
+	C0041409
+	C1853120
+	C1854469
+	C1860991
+	C1969057
+	Number of diseases: 6
+
+
+Cluster 233:
+	C0028738
+	C0240595
+	C0271382
+	C0271385
+	C0271386
+	C0271388
+	Number of diseases: 6
+
+
+Cluster 234:
+	C0028860
+	C0410422
+	Number of diseases: 2
+
+
+Cluster 235:
+	C0029294
+	C1510460
+	Number of diseases: 2
+
+
+Cluster 236:
+	C0029401
+	C4085251
+	Number of diseases: 2
+
+
+Cluster 237:
+	C0029405
+	C1864100
+	Number of diseases: 2
+
+
+Cluster 238:
+	C0029411
+	C2678439
+	Number of diseases: 2
+
+
+Cluster 239:
+	C0029421
+	C3665488
+	Number of diseases: 2
+
+
+Cluster 240:
+	C0029454
+	C1850127
+	C3179239
+	C3645711
+	Number of diseases: 4
+
+
+Cluster 241:
+	C0029899
+	C1854022
+	Number of diseases: 2
+
+
+Cluster 242:
+	C0030246
+	C0033860
+	Number of diseases: 2
+
+
+Cluster 243:
+	C0030305
+	C0149521
+	C0238339
+	Number of diseases: 3
+
+
+Cluster 244:
+	C0030442
+	C4082299
+	Number of diseases: 2
+
+
+Cluster 245:
+	C0030443
+	C0238357
+	C0268445
+	Number of diseases: 3
+
+
+Cluster 246:
+	C0030446
+	C0270246
+	C1258215
+	Number of diseases: 3
+
+
+Cluster 247:
+	C0030489
+	C1136084
+	Number of diseases: 2
+
+
+Cluster 248:
+	C0030567
+	C1838867
+	C3160718
+	Number of diseases: 3
+
+
+Cluster 249:
+	C0030591
+	C0042514
+	Number of diseases: 2
+
+
+Cluster 250:
+	C0030804
+	C1282359
+	Number of diseases: 2
+
+
+Cluster 251:
+	C0030807
+	C0030809
+	C0263313
+	Number of diseases: 3
+
+
+Cluster 252:
+	C0030920
+	C0038358
+	Number of diseases: 2
+
+
+Cluster 253:
+	C0031036
+	C0553548
+	Number of diseases: 2
+
+
+Cluster 254:
+	C0031039
+	C0265122
+	Number of diseases: 2
+
+
+Cluster 255:
+	C0031046
+	C0031048
+	Number of diseases: 2
+
+
+Cluster 256:
+	C0031099
+	C0034219
+	Number of diseases: 2
+
+
+Cluster 257:
+	C0031154
+	C1449647
+	Number of diseases: 2
+
+
+Cluster 258:
+	C0031556
+	C0040046
+	Number of diseases: 2
+
+
+Cluster 259:
+	C0032064
+	C0152936
+	C0524688
+	Number of diseases: 3
+
+
+Cluster 260:
+	C0032285
+	C0032300
+	C3714636
+	Number of diseases: 3
+
+
+Cluster 261:
+	C0032460
+	C1136382
+	Number of diseases: 2
+
+
+Cluster 262:
+	C0032586
+	C0936251
+	Number of diseases: 2
+
+
+Cluster 263:
+	C0032915
+	C0043202
+	Number of diseases: 2
+
+
+Cluster 264:
+	C0033300
+	C2750285
+	Number of diseases: 2
+
+
+Cluster 265:
+	C0033581
+	C0085696
+	Number of diseases: 2
+
+
+Cluster 266:
+	C0033806
+	C3494506
+	Number of diseases: 2
+
+
+Cluster 267:
+	C0033847
+	C1867450
+	C3279392
+	Number of diseases: 3
+
+
+Cluster 268:
+	C0034013
+	C3805879
+	Number of diseases: 2
+
+
+Cluster 269:
+	C0034050
+	C1968602
+	C1970456
+	C1970470
+	Number of diseases: 4
+
+
+Cluster 270:
+	C0034065
+	C0524702
+	Number of diseases: 2
+
+
+Cluster 271:
+	C0034068
+	C0242459
+	C1527407
+	Number of diseases: 3
+
+
+Cluster 272:
+	C0034069
+	C0085786
+	C1800706
+	Number of diseases: 3
+
+
+Cluster 273:
+	C0034089
+	C1956257
+	Number of diseases: 2
+
+
+Cluster 274:
+	C0034091
+	C3887658
+	Number of diseases: 2
+
+
+Cluster 275:
+	C0034155
+	C1268935
+	C1956258
+	Number of diseases: 3
+
+
+Cluster 276:
+	C0034186
+	C0085697
+	C0520575
+	Number of diseases: 3
+
+
+Cluster 277:
+	C0034345
+	C1839413
+	Number of diseases: 2
+
+
+Cluster 278:
+	C0034362
+	C0519066
+	C1443892
+	C2973787
+	Number of diseases: 4
+
+
+Cluster 279:
+	C0034372
+	C0426970
+	Number of diseases: 2
+
+
+Cluster 280:
+	C0034734
+	C0034735
+	Number of diseases: 2
+
+
+Cluster 281:
+	C0034931
+	C0458219
+	Number of diseases: 2
+
+
+Cluster 282:
+	C0034960
+	C2749345
+	Number of diseases: 2
+
+
+Cluster 283:
+	C0035066
+	C0035067
+	Number of diseases: 2
+
+
+Cluster 284:
+	C0035078
+	C0041948
+	Number of diseases: 2
+
+
+Cluster 285:
+	C0035305
+	C0339546
+	Number of diseases: 2
+
+
+Cluster 286:
+	C0035344
+	C1851402
+	Number of diseases: 2
+
+
+Cluster 287:
+	C0035372
+	C1839332
+	C2677682
+	C2748910
+	Number of diseases: 4
+
+
+Cluster 288:
+	C0035457
+	C2607914
+	Number of diseases: 2
+
+
+Cluster 289:
+	C0035793
+	C0038041
+	Number of diseases: 2
+
+
+Cluster 290:
+	C0035854
+	C1275718
+	C1449853
+	Number of diseases: 3
+
+
+Cluster 291:
+	C0036161
+	C0751489
+	C0751490
+	C0751491
+	C1849320
+	C1849321
+	C1849322
+	Number of diseases: 7
+
+
+Cluster 292:
+	C0036421
+	C0206138
+	C1866983
+	Number of diseases: 3
+
+
+Cluster 293:
+	C0036690
+	C0243026
+	C1719672
+	Number of diseases: 3
+
+
+Cluster 294:
+	C0037199
+	C0149516
+	Number of diseases: 2
+
+
+Cluster 295:
+	C0037231
+	C0265202
+	Number of diseases: 2
+
+
+Cluster 296:
+	C0037315
+	C0520679
+	Number of diseases: 2
+
+
+Cluster 297:
+	C0037769
+	C0393698
+	C0393699
+	C1527366
+	C3463992
+	Number of diseases: 5
+
+
+Cluster 298:
+	C0037773
+	C0751602
+	C0751603
+	C0751604
+	C1839264
+	Number of diseases: 5
+
+
+Cluster 299:
+	C0037889
+	C2674218
+	Number of diseases: 2
+
+
+Cluster 300:
+	C0037942
+	C1384641
+	Number of diseases: 2
+
+
+Cluster 301:
+	C0038220
+	C0270823
+	Number of diseases: 2
+
+
+Cluster 302:
+	C0038362
+	C1568868
+	C1719528
+	Number of diseases: 3
+
+
+Cluster 303:
+	C0038525
+	C1862932
+	Number of diseases: 2
+
+
+Cluster 304:
+	C0039103
+	C0410574
+	Number of diseases: 2
+
+
+Cluster 305:
+	C0039373
+	C0268275
+	C1848913
+	C1848916
+	C1848922
+	C2749283
+	Number of diseases: 6
+
+
+Cluster 306:
+	C0039445
+	C1832529
+	C1832774
+	C1832942
+	C1838163
+	C1857688
+	Number of diseases: 6
+
+
+Cluster 307:
+	C0039446
+	C0154835
+	Number of diseases: 2
+
+
+Cluster 308:
+	C0039483
+	C1956390
+	C1956391
+	Number of diseases: 3
+
+
+Cluster 309:
+	C0039503
+	C0242490
+	C1568272
+	C1568363
+	Number of diseases: 4
+
+
+Cluster 310:
+	C0039585
+	C0268301
+	C0936016
+	C2713546
+	Number of diseases: 4
+
+
+Cluster 311:
+	C0040015
+	C1861195
+	Number of diseases: 2
+
+
+Cluster 312:
+	C0040028
+	C1845888
+	C3275998
+	C3277671
+	C3281125
+	Number of diseases: 5
+
+
+Cluster 313:
+	C0041227
+	C0041234
+	Number of diseases: 2
+
+
+Cluster 314:
+	C0041296
+	C0152545
+	Number of diseases: 2
+
+
+Cluster 315:
+	C0041408
+	C0242526
+	Number of diseases: 2
+
+
+Cluster 316:
+	C0042420
+	C1836438
+	Number of diseases: 2
+
+
+Cluster 317:
+	C0042928
+	C0751576
+	Number of diseases: 2
+
+
+Cluster 318:
+	C0042974
+	C1264039
+	Number of diseases: 2
+
+
+Cluster 319:
+	C0043116
+	C0152109
+	C0393538
+	C0700595
+	C1838230
+	Number of diseases: 5
+
+
+Cluster 320:
+	C0043124
+	C0751583
+	Number of diseases: 2
+
+
+Cluster 321:
+	C0043459
+	C1865803
+	C3658299
+	Number of diseases: 3
+
+
+Cluster 322:
+	C0079136
+	C0079294
+	C0079474
+	Number of diseases: 3
+
+
+Cluster 323:
+	C0079295
+	C0079298
+	C0080333
+	Number of diseases: 3
+
+
+Cluster 324:
+	C0079301
+	C0079683
+	C0268374
+	C1856934
+	C2608084
+	C2673609
+	Number of diseases: 6
+
+
+Cluster 325:
+	C0079504
+	C2931875
+	Number of diseases: 2
+
+
+Cluster 326:
+	C0079583
+	C3888093
+	Number of diseases: 2
+
+
+Cluster 327:
+	C0079588
+	C2717836
+	C2720163
+	Number of diseases: 3
+
+
+Cluster 328:
+	C0079661
+	C1847800
+	C3266898
+	Number of diseases: 3
+
+
+Cluster 329:
+	C0080218
+	C1845026
+	Number of diseases: 2
+
+
+Cluster 330:
+	C0085110
+	C0242583
+	C2700553
+	C2931884
+	Number of diseases: 4
+
+
+Cluster 331:
+	C0085131
+	C0268271
+	C0268272
+	C0268273
+	C1968748
+	C2718068
+	Number of diseases: 6
+
+
+Cluster 332:
+	C0085220
+	C0338582
+	Number of diseases: 2
+
+
+Cluster 333:
+	C0085278
+	C2930802
+	Number of diseases: 2
+
+
+Cluster 334:
+	C0085292
+	C1861457
+	C4084968
+	Number of diseases: 3
+
+
+Cluster 335:
+	C0085413
+	C0311245
+	C2751306
+	C3149841
+	Number of diseases: 4
+
+
+Cluster 336:
+	C0085547
+	C0268465
+	C0751434
+	C0751435
+	C0751436
+	C2678416
+	Number of diseases: 6
+
+
+Cluster 337:
+	C0085859
+	C0085860
+	C1855869
+	C2749602
+	C3494489
+	Number of diseases: 5
+
+
+Cluster 338:
+	C0086981
+	C1527336
+	Number of diseases: 2
+
+
+Cluster 339:
+	C0087012
+	C0752120
+	C0752121
+	C0752122
+	C0752123
+	C0752124
+	C0752125
+	Number of diseases: 7
+
+
+Cluster 340:
+	C0087031
+	C0409667
+	C1858558
+	C3495559
+	C3495919
+	C3714758
+	Number of diseases: 6
+
+
+Cluster 341:
+	C0149781
+	C1868193
+	Number of diseases: 2
+
+
+Cluster 342:
+	C0152025
+	C0271683
+	C0751448
+	Number of diseases: 3
+
+
+Cluster 343:
+	C0152171
+	C1969342
+	C1969343
+	C3203102
+	C3714844
+	Number of diseases: 5
+
+
+Cluster 344:
+	C0152200
+	C0155015
+	C0155016
+	C0155017
+	C0242225
+	Number of diseases: 5
+
+
+Cluster 345:
+	C0152222
+	C0242567
+	Number of diseases: 2
+
+
+Cluster 346:
+	C0154681
+	C0154682
+	C0270763
+	C0270764
+	C0521659
+	C1721005
+	C1853396
+	C1968845
+	C4011926
+	Number of diseases: 9
+
+
+Cluster 347:
+	C0162309
+	C1527231
+	C3550234
+	Number of diseases: 3
+
+
+Cluster 348:
+	C0162359
+	C3887494
+	C3888065
+	Number of diseases: 3
+
+
+Cluster 349:
+	C0162530
+	C2718078
+	Number of diseases: 2
+
+
+Cluster 350:
+	C0162531
+	C0342859
+	Number of diseases: 2
+
+
+Cluster 351:
+	C0162532
+	C2936913
+	Number of diseases: 2
+
+
+Cluster 352:
+	C0162538
+	C2931161
+	C4049006
+	Number of diseases: 3
+
+
+Cluster 353:
+	C0162565
+	C1867969
+	C2936779
+	Number of diseases: 3
+
+
+Cluster 354:
+	C0162566
+	C0162569
+	C0268323
+	Number of diseases: 3
+
+
+Cluster 355:
+	C0162674
+	C1834846
+	Number of diseases: 2
+
+
+Cluster 356:
+	C0162809
+	C0342384
+	C1563719
+	C1563720
+	C2930927
+	C3489396
+	C3550478
+	C3553977
+	C3808983
+	C3808986
+	Number of diseases: 10
+
+
+Cluster 357:
+	C0162871
+	C1853365
+	Number of diseases: 2
+
+
+Cluster 358:
+	C0175683
+	C1853942
+	C1863844
+	Number of diseases: 3
+
+
+Cluster 359:
+	C0175694
+	C2713347
+	Number of diseases: 2
+
+
+Cluster 360:
+	C0175697
+	C1847604
+	Number of diseases: 2
+
+
+Cluster 361:
+	C0175704
+	C1969056
+	Number of diseases: 2
+
+
+Cluster 362:
+	C0175709
+	C0410207
+	C0752282
+	C1834558
+	C3645536
+	Number of diseases: 5
+
+
+Cluster 363:
+	C0175778
+	C3278404
+	Number of diseases: 2
+
+
+Cluster 364:
+	C0205710
+	C0872218
+	C1849096
+	C1850406
+	C2749861
+	C2749864
+	C3149750
+	C3150172
+	C3150914
+	C3151476
+	C3151513
+	C3554462
+	C3809443
+	C3809592
+	C4225163
+	Number of diseases: 15
+
+
+Cluster 365:
+	C0205711
+	C0751915
+	C0751916
+	C0751917
+	Number of diseases: 4
+
+
+Cluster 366:
+	C0205730
+	C2973527
+	C4049050
+	Number of diseases: 3
+
+
+Cluster 367:
+	C0206085
+	C0751226
+	Number of diseases: 2
+
+
+Cluster 368:
+	C0206141
+	C1540912
+	Number of diseases: 2
+
+
+Cluster 369:
+	C0206157
+	C0546125
+	C0751656
+	C0751657
+	C1834336
+	C1834339
+	C1836448
+	C1850569
+	C1854380
+	C2750537
+	Number of diseases: 10
+
+
+Cluster 370:
+	C0206307
+	C3542499
+	Number of diseases: 2
+
+
+Cluster 371:
+	C0206744
+	C3809768
+	Number of diseases: 2
+
+
+Cluster 372:
+	C0220669
+	C0270851
+	C1842382
+	C1843140
+	C1852581
+	C3149074
+	C3149075
+	Number of diseases: 7
+
+
+Cluster 373:
+	C0220702
+	C1833247
+	C1837893
+	C1842605
+	C1864124
+	C1864153
+	C1864275
+	C2751663
+	C3151380
+	Number of diseases: 9
+
+
+Cluster 374:
+	C0220756
+	C0268247
+	C1843366
+	C3179455
+	Number of diseases: 4
+
+
+Cluster 375:
+	C0220766
+	C0342482
+	Number of diseases: 2
+
+
+Cluster 376:
+	C0221054
+	C1450052
+	C1838244
+	C1847532
+	C1850808
+	Number of diseases: 5
+
+
+Cluster 377:
+	C0221055
+	C0752355
+	Number of diseases: 2
+
+
+Cluster 378:
+	C0221056
+	C0263666
+	Number of diseases: 2
+
+
+Cluster 379:
+	C0221759
+	C1834304
+	Number of diseases: 2
+
+
+Cluster 380:
+	C0235660
+	C0268296
+	C0269995
+	C3665358
+	Number of diseases: 4
+
+
+Cluster 381:
+	C0238190
+	C0751713
+	Number of diseases: 2
+
+
+Cluster 382:
+	C0238288
+	C1834671
+	C1834673
+	Number of diseases: 3
+
+
+Cluster 383:
+	C0239849
+	C0598226
+	C3536797
+	Number of diseases: 3
+
+
+Cluster 384:
+	C0242287
+	C0751919
+	Number of diseases: 2
+
+
+Cluster 385:
+	C0242670
+	C0751696
+	C0917808
+	Number of diseases: 3
+
+
+Cluster 386:
+	C0264353
+	C0340231
+	Number of diseases: 2
+
+
+Cluster 387:
+	C0264490
+	C1145670
+	Number of diseases: 2
+
+
+Cluster 388:
+	C0265218
+	C4015019
+	Number of diseases: 2
+
+
+Cluster 389:
+	C0265219
+	C0265221
+	C0410174
+	C0431375
+	C0796089
+	C1846171
+	C1846172
+	C1848201
+	C1969029
+	C3151519
+	Number of diseases: 10
+
+
+Cluster 390:
+	C0265326
+	C3552552
+	C3554516
+	C3554518
+	C3554519
+	C4225179
+	Number of diseases: 6
+
+
+Cluster 391:
+	C0265334
+	C1706595
+	C1721007
+	Number of diseases: 3
+
+
+Cluster 392:
+	C0265344
+	C0271695
+	Number of diseases: 2
+
+
+Cluster 393:
+	C0265514
+	C1833699
+	C2675014
+	C3149399
+	C3149695
+	Number of diseases: 5
+
+
+Cluster 394:
+	C0268059
+	C1969623
+	Number of diseases: 2
+
+
+Cluster 395:
+	C0268118
+	C1863688
+	Number of diseases: 2
+
+
+Cluster 396:
+	C0268119
+	C1854988
+	Number of diseases: 2
+
+
+Cluster 397:
+	C0268120
+	C3665382
+	Number of diseases: 2
+
+
+Cluster 398:
+	C0268228
+	C1850510
+	Number of diseases: 2
+
+
+Cluster 399:
+	C0268242
+	C0268243
+	C2675646
+	Number of diseases: 3
+
+
+Cluster 400:
+	C0268263
+	C1720864
+	Number of diseases: 2
+
+
+Cluster 401:
+	C0268285
+	C0268292
+	C0342474
+	C0852654
+	C3277849
+	Number of diseases: 5
+
+
+Cluster 402:
+	C0268390
+	C0343068
+	C0409818
+	C2316212
+	Number of diseases: 4
+
+
+Cluster 403:
+	C0268419
+	C0752048
+	C2931868
+	C2936847
+	Number of diseases: 4
+
+
+Cluster 404:
+	C0268435
+	C1704380
+	Number of diseases: 2
+
+
+Cluster 405:
+	C0268483
+	C0268487
+	C0268490
+	C0268623
+	Number of diseases: 4
+
+
+Cluster 406:
+	C0268560
+	C0751748
+	Number of diseases: 2
+
+
+Cluster 407:
+	C0268600
+	C1859499
+	Number of diseases: 2
+
+
+Cluster 408:
+	C0270736
+	C0393615
+	C1860861
+	C1865810
+	Number of diseases: 4
+
+
+Cluster 409:
+	C0270786
+	C0393561
+	Number of diseases: 2
+
+
+Cluster 410:
+	C0270968
+	C0410173
+	C1299884
+	C1832525
+	C1832567
+	C1834653
+	C1834659
+	C1836373
+	C1836765
+	C1837342
+	C1842062
+	C1846672
+	C1850889
+	C1858593
+	C1866008
+	C1869123
+	C1969040
+	C1969785
+	C2936332
+	C3148763
+	Number of diseases: 20
+
+
+Cluster 411:
+	C0271097
+	C1568247
+	C1568248
+	C1568249
+	C1848634
+	C1848638
+	C2931205
+	Number of diseases: 7
+
+
+Cluster 412:
+	C0271985
+	C0271990
+	Number of diseases: 2
+
+
+Cluster 413:
+	C0272236
+	C1720956
+	C1720957
+	C1720958
+	Number of diseases: 4
+
+
+Cluster 414:
+	C0272375
+	C3658294
+	Number of diseases: 2
+
+
+Cluster 415:
+	C0278110
+	C0392550
+	Number of diseases: 2
+
+
+Cluster 416:
+	C0282207
+	C1257915
+	Number of diseases: 2
+
+
+Cluster 417:
+	C0282488
+	C0600040
+	C1720830
+	Number of diseases: 3
+
+
+Cluster 418:
+	C0282527
+	C3550693
+	Number of diseases: 2
+
+
+Cluster 419:
+	C0282529
+	C1838612
+	C1857242
+	C1859133
+	Number of diseases: 4
+
+
+Cluster 420:
+	C0338451
+	C0520716
+	C1838313
+	C3888102
+	Number of diseases: 4
+
+
+Cluster 421:
+	C0339510
+	C1842914
+	C2745945
+	Number of diseases: 3
+
+
+Cluster 422:
+	C0342158
+	C0677607
+	Number of diseases: 2
+
+
+Cluster 423:
+	C0342637
+	C1833372
+	C1840347
+	Number of diseases: 3
+
+
+Cluster 424:
+	C0342731
+	C1959626
+	Number of diseases: 2
+
+
+Cluster 425:
+	C0342770
+	C2936826
+	Number of diseases: 2
+
+
+Cluster 426:
+	C0343065
+	C1852145
+	Number of diseases: 2
+
+
+Cluster 427:
+	C0349653
+	C2931008
+	Number of diseases: 2
+
+
+Cluster 428:
+	C0349788
+	C1862511
+	Number of diseases: 2
+
+
+Cluster 429:
+	C0376532
+	C2363129
+	Number of diseases: 2
+
+
+Cluster 430:
+	C0393541
+	C0393547
+	C0751335
+	C0917981
+	C3661519
+	Number of diseases: 5
+
+
+Cluster 431:
+	C0393584
+	C0699728
+	C0752210
+	Number of diseases: 3
+
+
+Cluster 432:
+	C0393626
+	C1096154
+	C1721017
+	Number of diseases: 3
+
+
+Cluster 433:
+	C0403399
+	C1853124
+	C1868672
+	C3151568
+	C3280113
+	C3496337
+	C3554330
+	C3808953
+	C3809965
+	C4014507
+	Number of diseases: 10
+
+
+Cluster 434:
+	C0410189
+	C0410190
+	C0751337
+	C1450051
+	Number of diseases: 4
+
+
+Cluster 435:
+	C0428791
+	C1260873
+	C3887892
+	Number of diseases: 3
+
+
+Cluster 436:
+	C0431401
+	C1148551
+	C1846142
+	Number of diseases: 3
+
+
+Cluster 437:
+	C0432442
+	C0432443
+	Number of diseases: 2
+
+
+Cluster 438:
+	C0457133
+	C1838099
+	C2936406
+	Number of diseases: 3
+
+
+Cluster 439:
+	C0494261
+	C1279481
+	Number of diseases: 2
+
+
+Cluster 440:
+	C0520680
+	C1275808
+	C1859049
+	Number of diseases: 3
+
+
+Cluster 441:
+	C0524620
+	C2930930
+	Number of diseases: 2
+
+
+Cluster 442:
+	C0553730
+	C0856830
+	C1833499
+	Number of diseases: 3
+
+
+Cluster 443:
+	C0559483
+	C1855663
+	Number of diseases: 2
+
+
+Cluster 444:
+	C0600433
+	C1861171
+	Number of diseases: 2
+
+
+Cluster 445:
+	C0677501
+	C1563706
+	Number of diseases: 2
+
+
+Cluster 446:
+	C0685838
+	C2748896
+	C2748897
+	C2936694
+	Number of diseases: 4
+
+
+Cluster 447:
+	C0730295
+	C1832174
+	C1852020
+	C1854336
+	C1864205
+	C1866552
+	C1868633
+	C3279992
+	Number of diseases: 8
+
+
+Cluster 448:
+	C0733682
+	C1845168
+	C3536983
+	C3536984
+	C3540852
+	Number of diseases: 5
+
+
+Cluster 449:
+	C0740376
+	C0740392
+	Number of diseases: 2
+
+
+Cluster 450:
+	C0751587
+	C1838577
+	C1847967
+	C1857813
+	C1858991
+	Number of diseases: 5
+
+
+Cluster 451:
+	C0751753
+	C4082171
+	C4085580
+	Number of diseases: 3
+
+
+Cluster 452:
+	C0751778
+	C0751779
+	C0751781
+	Number of diseases: 3
+
+
+Cluster 453:
+	C0751783
+	C1850764
+	Number of diseases: 2
+
+
+Cluster 454:
+	C0751882
+	C0751883
+	C0751884
+	C0751885
+	Number of diseases: 4
+
+
+Cluster 455:
+	C0751951
+	C2674259
+	Number of diseases: 2
+
+
+Cluster 456:
+	C0752098
+	C0752100
+	C0752105
+	C1868675
+	Number of diseases: 4
+
+
+Cluster 457:
+	C0752166
+	C2936862
+	Number of diseases: 2
+
+
+Cluster 458:
+	C0752347
+	C1851958
+	Number of diseases: 2
+
+
+Cluster 459:
+	C0795907
+	C1857586
+	Number of diseases: 2
+
+
+Cluster 460:
+	C0796070
+	C1832661
+	C1836006
+	C1838502
+	C1846265
+	C1859773
+	C1859774
+	C1864689
+	C1864690
+	C1864720
+	C1970236
+	C1970237
+	C2678467
+	C2751307
+	C3150969
+	C4014848
+	Number of diseases: 16
+
+
+Cluster 461:
+	C0796126
+	C3150315
+	C3489724
+	C3489725
+	Number of diseases: 4
+
+
+Cluster 462:
+	C0796147
+	C3277723
+	C3280899
+	Number of diseases: 3
+
+
+Cluster 463:
+	C0796202
+	C1956097
+	Number of diseases: 2
+
+
+Cluster 464:
+	C0878681
+	C1848336
+	Number of diseases: 2
+
+
+Cluster 465:
+	C0878682
+	C1858583
+	Number of diseases: 2
+
+
+Cluster 466:
+	C0917715
+	C1838257
+	C2930971
+	Number of diseases: 3
+
+
+Cluster 467:
+	C0949855
+	C0949856
+	C0949857
+	Number of diseases: 3
+
+
+Cluster 468:
+	C1142166
+	C1955837
+	C2748542
+	Number of diseases: 3
+
+
+Cluster 469:
+	C1260899
+	C2676137
+	Number of diseases: 2
+
+
+Cluster 470:
+	C1306122
+	C1848172
+	C3495587
+	Number of diseases: 3
+
+
+Cluster 471:
+	C1319853
+	C1858067
+	C1859648
+	Number of diseases: 3
+
+
+Cluster 472:
+	C1328840
+	C1858968
+	C1866119
+	C1866120
+	Number of diseases: 4
+
+
+Cluster 473:
+	C1567426
+	C1567427
+	C3714581
+	Number of diseases: 3
+
+
+Cluster 474:
+	C1567742
+	C1567743
+	C1567744
+	Number of diseases: 3
+
+
+Cluster 475:
+	C1631597
+	C2677794
+	Number of diseases: 2
+
+
+Cluster 476:
+	C1719788
+	C1720416
+	C1847839
+	C1847843
+	C2674766
+	Number of diseases: 5
+
+
+Cluster 477:
+	C1739363
+	C2937421
+	Number of diseases: 2
+
+
+Cluster 478:
+	C1832244
+	C3152137
+	Number of diseases: 2
+
+
+Cluster 479:
+	C1832814
+	C3806402
+	C3806403
+	Number of diseases: 3
+
+
+Cluster 480:
+	C1832884
+	C1832903
+	C1864987
+	C1865322
+	C1865323
+	Number of diseases: 5
+
+
+Cluster 481:
+	C1833693
+	C2750325
+	Number of diseases: 2
+
+
+Cluster 482:
+	C1833797
+	C1833798
+	Number of diseases: 2
+
+
+Cluster 483:
+	C1835614
+	C1845102
+	Number of diseases: 2
+
+
+Cluster 484:
+	C1835905
+	C1838049
+	C1854335
+	C1864125
+	Number of diseases: 4
+
+
+Cluster 485:
+	C1836484
+	C3489627
+	Number of diseases: 2
+
+
+Cluster 486:
+	C1836522
+	C1836544
+	Number of diseases: 2
+
+
+Cluster 487:
+	C1836573
+	C1859194
+	Number of diseases: 2
+
+
+Cluster 488:
+	C1837529
+	C1837929
+	Number of diseases: 2
+
+
+Cluster 489:
+	C1838644
+	C1855465
+	C1858080
+	C1863534
+	Number of diseases: 4
+
+
+Cluster 490:
+	C1839163
+	C1839164
+	C1861185
+	C2677608
+	C3550789
+	Number of diseases: 5
+
+
+Cluster 491:
+	C1839259
+	C2931395
+	Number of diseases: 2
+
+
+Cluster 492:
+	C1842462
+	C1861922
+	C1861923
+	Number of diseases: 3
+
+
+Cluster 493:
+	C1844020
+	C3151867
+	Number of diseases: 2
+
+
+Cluster 494:
+	C1844376
+	C1856251
+	C1856255
+	C3661525
+	Number of diseases: 4
+
+
+Cluster 495:
+	C1845987
+	C1859966
+	C2675526
+	C2751288
+	C2751630
+	C3809031
+	Number of diseases: 6
+
+
+Cluster 496:
+	C1847501
+	C3149117
+	Number of diseases: 2
+
+
+Cluster 497:
+	C1848199
+	C1955870
+	Number of diseases: 2
+
+
+Cluster 498:
+	C1848488
+	C1861481
+	C2020284
+	Number of diseases: 3
+
+
+Cluster 499:
+	C1848552
+	C1848553
+	C1848554
+	C1848561
+	C1848578
+	C1855102
+	C1855109
+	C1855114
+	C1855115
+	C1855116
+	Number of diseases: 10
+
+
+Cluster 500:
+	C1848862
+	C2678312
+	C2752041
+	Number of diseases: 3
+
+
+Cluster 501:
+	C1849792
+	C1857618
+	C2751308
+	C2751309
+	Number of diseases: 4
+
+
+Cluster 502:
+	C1850451
+	C2931673
+	Number of diseases: 2
+
+
+Cluster 503:
+	C1850554
+	C1850555
+	C1857255
+	Number of diseases: 3
+
+
+Cluster 504:
+	C1851945
+	C3888090
+	Number of diseases: 2
+
+
+Cluster 505:
+	C1853345
+	C1858672
+	Number of diseases: 2
+
+
+Cluster 506:
+	C1853490
+	C4048800
+	Number of diseases: 2
+
+
+Cluster 507:
+	C1854465
+	C1860707
+	C2750460
+	Number of diseases: 3
+
+
+Cluster 508:
+	C1855433
+	C3150983
+	Number of diseases: 2
+
+
+Cluster 509:
+	C1855995
+	C2746066
+	C3150909
+	C3152055
+	Number of diseases: 4
+
+
+Cluster 510:
+	C1856016
+	C2931104
+	Number of diseases: 2
+
+
+Cluster 511:
+	C1857761
+	C1956125
+	C2930797
+	Number of diseases: 3
+
+
+Cluster 512:
+	C1858266
+	C1859534
+	C1859535
+	C1859537
+	C1859538
+	C2931418
+	Number of diseases: 6
+
+
+Cluster 513:
+	C1859040
+	C1868139
+	C2939174
+	Number of diseases: 3
+
+
+Cluster 514:
+	C1859209
+	C1861689
+	Number of diseases: 2
+
+
+Cluster 515:
+	C1860042
+	C2350233
+	C2936791
+	C3150099
+	Number of diseases: 4
+
+
+Cluster 516:
+	C1864694
+	C3150275
+	Number of diseases: 2
+
+
+Cluster 517:
+	C1968689
+	C2936739
+	C3489795
+	C3887645
+	Number of diseases: 4
+
+
+Cluster 518:
+	C2677879
+	C2678098
+	Number of diseases: 2
+
+
+Cluster 519:
+	C2748941
+	C3694531
+	Number of diseases: 2
+
+
+Cluster 520:
+	C2749665
+	C2931019
+	C3538946
+	Number of diseases: 3
+
+
+Cluster 521:
+	C2750061
+	C3714580
+	Number of diseases: 2
+
+
+Cluster 522:
+	C2752073
+	C2931781
+	Number of diseases: 2
+
+
+Cluster 523:
+	C2937288
+	C2940786
+	C3489796
+	Number of diseases: 3
+
+
+Cluster 524:
+	C3275750
+	C3280781
+	C3280939
+	Number of diseases: 3
+
+
+Cluster 525:
+	C3280777
+	C3280785
+	Number of diseases: 2
+
+
+Cluster 526:
+	C3281089
+	C4015124
+	Number of diseases: 2
+
+
+Cluster 527:
+	C3887755
+	C4045968
+	Number of diseases: 2
+
+

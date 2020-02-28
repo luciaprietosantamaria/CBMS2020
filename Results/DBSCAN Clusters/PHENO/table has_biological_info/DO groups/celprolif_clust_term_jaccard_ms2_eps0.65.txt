@@ -1,0 +1,52 @@
+CLUSTERS for [CEL PROLIF phenotypical has_biological_info] term_jaccard, MS 2, eps 0.65
+	--> Number of clusters: 7
+	--> Number of outliers: 18
+	--> Silhouette coefficient: 0.45337276973237917
+
+Cluster 0:
+	C0016034	Breast Fibrocystic Disease
+	C1527375	Cystic Breast Disease
+	Number of diseases: 2
+
+
+Cluster 1:
+	C0020428	Hyperaldosteronism
+	C1384514	Conn Syndrome
+	Number of diseases: 2
+
+
+Cluster 2:
+	C0030489	Paraproteinemias
+	C1136084	Plasma cell dyscrasia
+	Number of diseases: 2
+
+
+Cluster 3:
+	C0040028	Thrombocythemia, Essential
+	C1845888	THROMBOCYTHEMIA, X-LINKED
+	C3275998	THROMBOCYTHEMIA 2
+	C3277671	THROMBOCYTHEMIA 1
+	C3281125	THROMBOCYTHEMIA 3
+	Number of diseases: 5
+
+
+Cluster 4:
+	C1739363	Prostatic Hypertrophy
+	C2937421	Prostatic Hyperplasia
+	Number of diseases: 2
+
+
+Cluster 5:
+	C1854336	PARAGANGLIOMAS 3
+	C1866552	PARAGANGLIOMAS 2 (disorder)
+	C1868633	Paragangliomas with Sensorineural Hearing Loss
+	C3279992	PARAGANGLIOMAS 5
+	Number of diseases: 4
+
+
+Cluster 6:
+	C2931618	Gestational trophoblastic disease
+	C3463897	HYDATIDIFORM MOLE, RECURRENT, 1
+	Number of diseases: 2
+
+

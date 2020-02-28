@@ -1,0 +1,30 @@
+CLUSTERS for [CEL PROLIF phenotypical disease] term_cos, MS 2, eps 0.85
+	--> Number of clusters: 1
+	--> Number of outliers: 28
+	--> Silhouette coefficient: 0.0384042340468055
+
+Cluster 0:
+	DIS003232
+	DIS003463
+	DIS003632
+	DIS003701
+	DIS004495
+	DIS004550
+	DIS004588
+	DIS004616
+	DIS004779
+	DIS005269
+	DIS005473
+	DIS005481
+	DIS005984
+	DIS006045
+	DIS006630
+	DIS006887
+	DIS007072
+	DIS007077
+	DIS007666
+	DIS007784
+	DIS008137
+	Number of diseases: 21
+
+

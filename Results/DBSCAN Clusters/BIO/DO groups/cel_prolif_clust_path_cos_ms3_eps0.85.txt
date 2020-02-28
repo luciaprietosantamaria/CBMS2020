@@ -1,0 +1,39 @@
+CLUSTERS for [cel_prolif]path_cos, MS 3, eps 0.85
+	--> Number of clusters: 1
+	--> Number of outliers: 9
+	--> Silhouette coefficient: 0.2657338836935401
+
+Cluster 0:
+	C0004775	Bartter Disease
+	C0016034	Breast Fibrocystic Disease
+	C0019562	Von Hippel-Lindau Syndrome
+	C0020428	Hyperaldosteronism
+	C0020639	Hypoproteinemia
+	C0022603	Seborrheic keratosis
+	C0023381	Letterer-Siwe Disease
+	C0023652	Lichen Sclerosus et Atrophicus
+	C0030489	Paraproteinemias
+	C0031269	Peutz-Jeghers Syndrome
+	C0033838	Kimura Disease
+	C0040028	Thrombocythemia, Essential
+	C0221013	Mastocytosis, Systemic
+	C0221406	Pituitary-dependent Cushing's disease
+	C0268381	Primary amyloidosis
+	C0272203	Indolent Systemic Mastocytosis
+	C0362030	Verrucous epidermal nevus
+	C1136084	Plasma cell dyscrasia
+	C1275273	Familial Multiple Lipomatosis
+	C1384514	Conn Syndrome
+	C1739363	Prostatic Hypertrophy
+	C1863340	PITUITARY ADENOMA PREDISPOSITION (disorder)
+	C2931618	Gestational trophoblastic disease
+	C2937421	Prostatic Hyperplasia
+	C3275998	THROMBOCYTHEMIA 2
+	C3277671	THROMBOCYTHEMIA 1
+	C3281125	THROMBOCYTHEMIA 3
+	C3463897	HYDATIDIFORM MOLE, RECURRENT, 1
+
+	Associated symptoms average: 13.0
+	Number of diseases: 28
+
+

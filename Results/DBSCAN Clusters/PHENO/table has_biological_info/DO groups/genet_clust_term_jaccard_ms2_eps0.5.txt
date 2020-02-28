@@ -1,0 +1,332 @@
+CLUSTERS for [GENET phenotypical has_biological_info] term_jaccard, MS 2, eps 0.5
+	--> Number of clusters: 46
+	--> Number of outliers: 166
+	--> Silhouette coefficient: 0.3640810631179469
+
+Cluster 0:
+	C0002875	Cooley's anemia
+	C0005283	beta Thalassemia
+	C0019025	Hemoglobin F Disease
+	C0085578	Thalassemia Minor
+	C0271979	Thalassemia Intermedia
+	Number of diseases: 5
+
+
+Cluster 1:
+	C0009207	Cockayne Syndrome
+	C0751037	Cockayne Syndrome, Type III
+	C0751038	Cockayne Syndrome, Type II
+	C0751039	Cockayne Syndrome, Type I
+	Number of diseases: 4
+
+
+Cluster 2:
+	C0009714	Hepatic Fibrosis, Congenital
+	C0085548	Autosomal Recessive Polycystic Kidney Disease
+	Number of diseases: 2
+
+
+Cluster 3:
+	C0010674	Cystic Fibrosis
+	C0392164	Pulmonary Cystic Fibrosis
+	C1527396	Fibrocystic Disease of Pancreas
+	Number of diseases: 3
+
+
+Cluster 4:
+	C0012236	DiGeorge Syndrome
+	C0220704	Shprintzen syndrome
+	C0543687	Thymic alymphoplasia
+	Number of diseases: 3
+
+
+Cluster 5:
+	C0013080	Down Syndrome
+	C1860787	DOWN SYNDROME CRITICAL REGION
+	C1860788	Transient Myeloproliferative Disorder of Down Syndrome
+	Number of diseases: 3
+
+
+Cluster 6:
+	C0013903	Ellis-Van Creveld Syndrome
+	C0175778	Larsen syndrome
+	Number of diseases: 2
+
+
+Cluster 7:
+	C0016667	Fragile X Syndrome
+	C0751156	FRAXA Syndrome
+	C0751157	FRAXE Syndrome
+	C2749127	Primary Ovarian Insufficiency, Fragile X-Associated
+	Number of diseases: 4
+
+
+Cluster 8:
+	C0017097	Gardner Syndrome
+	C2673218	BRAIN TUMOR-POLYPOSIS SYNDROME 2 (disorder)
+	C2674616	FAMILIAL ADENOMATOUS POLYPOSIS, ATTENUATED (disorder)
+	C2713442	Polyposis, Adenomatous Intestinal
+	Number of diseases: 4
+
+
+Cluster 9:
+	C0020630	Hypophosphatasia
+	C0220743	Childhood hypophosphatasia (disorder)
+	C0268412	Infantile hypophosphatasia
+	C0268413	Adult hypophosphatasia (disorder)
+	C1840322	ODONTOHYPOPHOSPHATASIA (disorder)
+	C2673477	Hypophosphatasia, Perinatal Lethal
+	Number of diseases: 6
+
+
+Cluster 10:
+	C0020640	Inherited Factor II deficiency
+	C0272317	Hereditary factor II deficiency disease
+	Number of diseases: 2
+
+
+Cluster 11:
+	C0022735	Klinefelter Syndrome
+	C0543754	Klinefelter Syndrome, Variants
+	Number of diseases: 2
+
+
+Cluster 12:
+	C0024591	Malignant hyperpyrexia due to anesthesia
+	C1840365	King Denborough syndrome
+	Number of diseases: 2
+
+
+Cluster 13:
+	C0029294	Orofaciodigital Syndromes
+	C0376524	Branchio-Oculo-Facial Syndrome
+	C1510460	Orofaciodigital Syndrome I
+	Number of diseases: 3
+
+
+Cluster 14:
+	C0033300	Progeria
+	C2750285	Progeria Syndrome, Childhood-Onset
+	Number of diseases: 2
+
+
+Cluster 15:
+	C0033847	Pseudoxanthoma Elasticum
+	C1867450	Pseudoxanthoma Elasticum, Incomplete
+	C3279392	PSEUDOXANTHOMA ELASTICUM, MODIFIER OF SEVERITY OF
+	Number of diseases: 3
+
+
+Cluster 16:
+	C0037231	Sjogren-Larsson Syndrome
+	C0265202	Seckel syndrome
+	C0265205	Robinow Syndrome
+	C1847572	SECKEL SYNDROME 2
+	Number of diseases: 4
+
+
+Cluster 17:
+	C0039445	Hereditary hemorrhagic telangiectasia
+	C1832529	HEREDITARY HEMORRHAGIC TELANGIECTASIA-RELATED PULMONARY ARTERIAL HYPERTENSION
+	C1832774	Osler-rendu-weber syndrome 3
+	C1838163	OSLER-RENDU-WEBER SYNDROME 2
+	Number of diseases: 4
+
+
+Cluster 18:
+	C0079504	Hermanski-Pudlak Syndrome
+	C2931875	Albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells
+	Number of diseases: 2
+
+
+Cluster 19:
+	C0079583	Ichthyosiform Erythroderma, Congenital
+	C3888093	ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 2
+	Number of diseases: 2
+
+
+Cluster 20:
+	C0079588	Ichthyosis, X-Linked
+	C2717836	Steroid Sulfatase Deficiency Disease
+	C2720163	Placental Steroid Sulfatase Deficiency
+	Number of diseases: 3
+
+
+Cluster 21:
+	C0079661	Klein's Syndrome
+	C1847800	Waardenburg Syndrome Type 1
+	C3266898	Waardenburg Syndrome
+	Number of diseases: 3
+
+
+Cluster 22:
+	C0085413	Polycystic Kidney, Autosomal Dominant
+	C0311245	Congenital cystic kidney disease
+	C2751306	Polycystic kidney disease, type 2
+	C3149841	POLYCYSTIC KIDNEY DISEASE 1
+	Number of diseases: 4
+
+
+Cluster 23:
+	C0162359	Christ-Siemens-Touraine syndrome
+	C3887494	ECTODERMAL DYSPLASIA 10B, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL RECESSIVE
+	C3888065	ECTODERMAL DYSPLASIA 10A, HYPOHIDROTIC/HAIR/NAIL TYPE, AUTOSOMAL DOMINANT
+	Number of diseases: 3
+
+
+Cluster 24:
+	C0175701	Aarskog syndrome
+	C2936904	Opitz GBBB Syndrome, X-Linked
+	Number of diseases: 2
+
+
+Cluster 25:
+	C0175704	LEOPARD Syndrome
+	C1969056	LEOPARD SYNDROME 2
+	Number of diseases: 2
+
+
+Cluster 26:
+	C0239849	Harlequin Fetus
+	C3536797	Ichthyosis Congenita II
+	Number of diseases: 2
+
+
+Cluster 27:
+	C0265219	Miller Dieker syndrome
+	C0431375	Classical Lissencephaly
+	C1848199	X-Linked Lissencephaly
+	C1848201	Subcortical Band Heterotopia
+	C1955870	Classical Lissencephalies and Subcortical Band Heterotopias
+	Number of diseases: 5
+
+
+Cluster 28:
+	C0265326	Bannayan-Riley-Ruvalcaba Syndrome
+	C1866398	Proteus-Like Syndrome (disorder)
+	C3552552	COWDEN SYNDROME 2
+	C3554516	COWDEN SYNDROME 3
+	C3554518	COWDEN SYNDROME 5
+	C3554519	COWDEN SYNDROME 6
+	Number of diseases: 6
+
+
+Cluster 29:
+	C0265334	Pachyonychia Congenita
+	C1706595	Pachyonychia Congenita, Jadassohn Lewandowsky Type
+	C1721007	Pachyonychia Congenita, Type 2 (disorder)
+	Number of diseases: 3
+
+
+Cluster 30:
+	C0265344	Donohue Syndrome
+	C0271695	Rabson-Mendenhall Syndrome
+	Number of diseases: 2
+
+
+Cluster 31:
+	C0271097	Usher Syndrome
+	C1568247	Usher Syndrome, Type I
+	C1568248	Usher Syndrome, Type III
+	C1568249	Usher Syndrome, Type II
+	C1848634	USHER SYNDROME, TYPE IIA
+	C1848638	USHER SYNDROME, TYPE IB (disorder)
+	C2931205	Usher syndrome, type 1A
+	Number of diseases: 7
+
+
+Cluster 32:
+	C0282529	Chondrodysplasia Punctata, Rhizomelic
+	C1838612	Rhizomelic chondrodysplasia punctata, type 3
+	C1857242	Rhizomelic chondrodysplasia punctata, type 2
+	C1859133	RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 1
+	Number of diseases: 4
+
+
+Cluster 33:
+	C0432442	Chromosome 18p deletion syndrome
+	C0432443	Deletion of long arm of chromosome 18
+	Number of diseases: 2
+
+
+Cluster 34:
+	C0752166	Bardet-Biedl Syndrome
+	C2936862	Bardet-Biedl syndrome 1 (disorder)
+	Number of diseases: 2
+
+
+Cluster 35:
+	C0796126	AICARDI-GOUTIERES SYNDROME 1
+	C3150315	AICARDI-GOUTIERES SYNDROME 1, AUTOSOMAL DOMINANT
+	C3489724	Aicardi-Goutieres Syndrome 2
+	C3489725	Pseudo-TORCH syndrome
+	Number of diseases: 4
+
+
+Cluster 36:
+	C0796202	Wittwer syndrome
+	C1956097	Wolf-Hirschhorn Syndrome
+	Number of diseases: 2
+
+
+Cluster 37:
+	C0917715	Hajdu-Cheney Syndrome
+	C1838257	Serpentine fibula polycystic kidney syndrome
+	Number of diseases: 2
+
+
+Cluster 38:
+	C1567742	Alport Syndrome, X-Linked
+	C1567743	Alport Syndrome, Autosomal Dominant
+	C1567744	Alport Syndrome, Autosomal Recessive
+	Number of diseases: 3
+
+
+Cluster 39:
+	C1836573	GRISCELLI SYNDROME, TYPE 3
+	C1859194	GRISCELLI SYNDROME, TYPE 1
+	C1868679	GRISCELLI SYNDROME, TYPE 2
+	Number of diseases: 3
+
+
+Cluster 40:
+	C1836635	Loeys-Dietz Aortic Aneurysm Syndrome
+	C2674574	Aortic aneurysm, familial thoracic 3
+	C3151087	LOEYS-DIETZ SYNDROME 3
+	Number of diseases: 3
+
+
+Cluster 41:
+	C1848862	Miller-McKusick-Malvaux-Syndrome (3M Syndrome)
+	C2678312	Three M Syndrome 1
+	C2752041	Three M Syndrome 2
+	Number of diseases: 3
+
+
+Cluster 42:
+	C1854465	TUBEROUS SCLEROSIS 1 (disorder)
+	C1860707	TUBEROUS SCLEROSIS 2 (disorder)
+	C2750460	Tsc2 Angiomyolipomas, Renal, Modifier Of
+	Number of diseases: 3
+
+
+Cluster 43:
+	C1855433	Mandibulofacial dysostosis, Treacher Collins type, autosomal recessive
+	C3150983	TREACHER COLLINS SYNDROME 2
+	Number of diseases: 2
+
+
+Cluster 44:
+	C1860042	Antley-Bixler Syndrome with Disordered Steroidogenesis
+	C2350233	Antley-Bixler Syndrome Phenotype
+	C2936791	Antley-Bixler Syndrome, Autosomal Dominant
+	C3150099	ANTLEY-BIXLER SYNDROME WITH GENITAL ANOMALIES AND DISORDERED STEROIDOGENESIS
+	Number of diseases: 4
+
+
+Cluster 45:
+	C1861481	Stickler syndrome, type 3
+	C2020284	Stickler syndrome, type 1
+	Number of diseases: 2
+
+
